@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
  "weekday": "星期日",
- "generated_at": "2026-10-25T12:36:32+08:00",
+ "generated_at": "2026-10-25T12:42:20+08:00",
  "brief": {
   "date": "2026-10-25",
   "tip": "再美好的愿景，都要始于行动，点滴坚持，慢慢积攒向上力量",
@@ -33,6 +33,20 @@
      "name": "IT之家",
      "count": 8,
      "items": [
+      {
+       "title": "摆脱微软并不容易？丹麦政府因技术问题放弃“弃用 Office”计划",
+       "url": "https://www.ithome.com/1/017/580.htm",
+       "summary": "2025 年，丹麦政府宣布计划弃用 Windows 和微软 Office，改用 Linux 等开源软件，希望借此降低对微软等美国科技企业的依赖，避免受到政策多变的美国政府牵制。然而据外媒 Neowin 今天…",
+       "time": "04:35",
+       "hot": ""
+      },
+      {
+       "title": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
+       "url": "https://www.ithome.com/1/017/579.htm",
+       "summary": "小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，再度谈及了小米 18 Fold 中折叠手机的折痕情况： 采用新一代折叠架构 ，强度更高，更抗冲击 同时带来超强折痕控制， 平均折痕深度 ≤…",
+       "time": "04:31",
+       "hot": ""
+      },
       {
        "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
        "url": "https://www.ithome.com/1/017/578.htm",
@@ -73,20 +87,6 @@
        "url": "https://www.ithome.com/1/017/564.htm",
        "summary": "“张雪机车”创始人张雪今日驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村， 以 40.74 公里的成绩， 刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录 。 时隔 17…",
        "time": "03:35",
-       "hot": ""
-      },
-      {
-       "title": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
-       "url": "https://www.ithome.com/1/017/563.htm",
-       "summary": "三名因涉嫌泄密被解雇的 OpenAI 安全研究员道出了他们一方的说辞。托梅克 · 科尔巴克（Tomek Korbak）、米基塔 · 巴莱斯尼（Mikita Balesni）与王茉莉（Jasmine Wang…",
-       "time": "03:28",
-       "hot": ""
-      },
-      {
-       "title": "AI 智能体闯进银行，美国大行开始准备“灾后预案”",
-       "url": "https://www.ithome.com/1/017/562.htm",
-       "summary": "对 AI 末日的悲观预判，早已不再只是少数科技富豪的危言耸听。 如今，那些主导全球资本流向的美国大型银行，也开始警惕失控 AI，正在为假设中由 AI 引发的灾难，制定“灾后”应急预案。 据 Axios 报道…",
-       "time": "03:06",
        "hot": ""
       }
      ],
@@ -248,21 +248,21 @@
        "url": "https://edjefferson.com/localwiki/",
        "summary": "",
        "time": "07:01",
-       "hot": "1559 分 · 245 评论"
+       "hot": "1561 分 · 245 评论"
       },
       {
        "title": "Show HN: Steal My Bitcoin",
        "url": "https://stealmybitcoin.com/",
        "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent th…",
        "time": "04:30",
-       "hot": "436 分 · 264 评论"
+       "hot": "438 分 · 264 评论"
       },
       {
        "title": "The Goose Programming Language",
        "url": "https://aardappel.github.io/goose/",
        "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
        "time": "03:06",
-       "hot": "298 分 · 187 评论"
+       "hot": "300 分 · 187 评论"
       },
       {
        "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
@@ -283,21 +283,21 @@
        "url": "https://blog.roku.com/developer/gitlab-move",
        "summary": "",
        "time": "00:06",
-       "hot": "272 分 · 186 评论"
+       "hot": "273 分 · 186 评论"
       },
       {
        "title": "We should be more ambitious with the software we build",
        "url": "https://danluu.com/ambitious/",
        "summary": "",
        "time": "05:47",
-       "hot": "266 分 · 225 评论"
+       "hot": "269 分 · 230 评论"
       },
       {
        "title": "FreeDNS",
        "url": "https://freedns.afraid.org/",
        "summary": "",
        "time": "23:20",
-       "hot": "263 分 · 66 评论"
+       "hot": "264 分 · 66 评论"
       }
      ],
      "error": ""
@@ -486,56 +486,56 @@
        "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%9C%A8%E5%AE%B6%E4%B9%A1%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
        "summary": "张雪机车创始人张雪在家乡湖南麻阳，驾驶改装摩托车MX450，成功刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录。",
        "time": "",
-       "hot": "780.81w"
+       "hot": "780.79w"
       },
       {
        "title": "“中国桂花第一村”5天收花7万斤",
        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%A1%82%E8%8A%B1%E7%AC%AC%E4%B8%80%E6%9D%91%E2%80%9D5%E5%A4%A9%E6%94%B6%E8%8A%B17%E4%B8%87%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news",
        "summary": "桐庐县旧县街道母岭村，种植桂花超过600年，素有“中国桂花第一村” 的美誉。10月14日至18日，母岭村5天收购鲜桂花约7万斤。",
        "time": "",
-       "hot": "771.46w"
+       "hot": "771.36w"
       },
       {
        "title": "这不是科幻这是中国智造",
        "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%A7%91%E5%B9%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0&sa=fyb_news&rsv_dl=fyb_news",
        "summary": "“中国智造”已成为中国式现代化的又一亮丽名片。人工智能“电子鼻”、火锅底料智能生产线、“水下幽灵”透明仿生水母机器人……智能技术正加速解锁更多应用场景，让生产更高效、作业更精准。网友：科技感满满，中国智造已经是Nextlevel了。",
        "time": "",
-       "hot": "761.77w"
+       "hot": "761.67w"
       },
       {
        "title": "“所有人在等张雪上厕所”",
        "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E6%9C%89%E4%BA%BA%E5%9C%A8%E7%AD%89%E5%BC%A0%E9%9B%AA%E4%B8%8A%E5%8E%95%E6%89%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
        "summary": "张雪在湖南麻阳小坡村冲击摩托“水上漂”吉尼斯世界纪录。现场围满了等待见证记录的人群，期间，他抽空上了个厕所，引发“所有人在等张雪上厕所”的调侃。",
        "time": "",
-       "hot": "752.06w"
+       "hot": "752.41w"
       },
       {
        "title": "178平方豪宅6个套间 每间都有马桶",
        "url": "https://www.baidu.com/s?wd=178%E5%B9%B3%E6%96%B9%E8%B1%AA%E5%AE%856%E4%B8%AA%E5%A5%97%E9%97%B4+%E6%AF%8F%E9%97%B4%E9%83%BD%E6%9C%89%E9%A9%AC%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news",
        "summary": "近日，在江苏南京仙林一小区，178平方米豪宅被隔成6个套间，每间配马桶、洗衣机，邻居反映噪声扰民、家中墙裂。日前，当地住建部门已责令整改，私加卫生间已拆除。",
        "time": "",
-       "hot": "742.84w"
+       "hot": "742.53w"
       },
       {
        "title": "奥巴马中期选举首秀火力全开",
        "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%A6%96%E7%A7%80%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news",
        "summary": "当地时间10月24日，美国前总统奥巴马现身俄亥俄州，开启横跨两州的竞选行程，并对特朗普发起猛烈抨击。随后，特朗普回击奥巴马批评，称奥巴马是个糟糕的总统。",
        "time": "",
-       "hot": "733.29w"
+       "hot": "732.89w"
       },
       {
        "title": "朱婷夺职业生涯第二十七冠",
        "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E5%A9%B7%E5%A4%BA%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
        "summary": "北京时间10月25日，在意大利女排超级杯决赛中，科内利亚诺3比1逆转斯坎迪奇夺冠，斩获队史第9冠。朱婷此役贡献17分全队第二，且接39个一传仅1失误，表现全面。",
        "time": "",
-       "hot": "723.84w"
+       "hot": "723.79w"
       },
       {
-       "title": "国考排名第一的岗位竞争超6000:1",
-       "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E5%B2%97%E4%BD%8D%E7%AB%9E%E4%BA%89%E8%B6%856000%3A1&sa=fyb_news&rsv_dl=fyb_news",
-       "summary": "2027年国考报名截止。本次国考已有三百多万人成功过审，排名第一的岗位竞争超6000:1。其中，广东报名人数高达30.2万领跑全国，山东、北京等地紧随其后。",
+       "title": "“喝大水、睡大觉、练薄肌”",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E3%80%81%E7%9D%A1%E5%A4%A7%E8%A7%89%E3%80%81%E7%BB%83%E8%96%84%E8%82%8C%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，“喝大水、睡大觉、练薄肌”等养生理念在社交平台刷屏。对此，专家表示：饮水过量可能引发水中毒；睡眠时间关键看白天精神状态，不必死磕8小时；增肌量力而行，不建议追求大肌肉。",
        "time": "",
-       "hot": "714.23w"
+       "hot": "714.36w"
       }
      ],
      "error": ""
@@ -549,42 +549,42 @@
        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
        "summary": "",
        "time": "",
-       "hot": "116.5w"
+       "hot": "116.4w"
       },
       {
        "title": "张雪刷新吉尼斯纪录",
        "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
        "summary": "",
        "time": "",
-       "hot": "82.4w"
+       "hot": "85.2w"
       },
       {
        "title": "向英雄致敬迎英雄回家",
        "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
        "summary": "",
        "time": "",
-       "hot": "68.0w"
+       "hot": "66.6w"
       },
       {
        "title": "深圳水贝被挤爆",
        "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
        "summary": "",
        "time": "",
-       "hot": "62.7w"
-      },
-      {
-       "title": "唐朝诡事录之蜀道开机了",
-       "url": "https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%9C%80%E9%81%93%E5%BC%80%E6%9C%BA%E4%BA%86",
-       "summary": "",
-       "time": "",
-       "hot": "46.2w"
+       "hot": "60.8w"
       },
       {
        "title": "2026共创之夜节目单",
        "url": "https://s.weibo.com/weibo?q=2026%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95",
        "summary": "",
        "time": "",
-       "hot": "46.0w"
+       "hot": "44.2w"
+      },
+      {
+       "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+       "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+       "summary": "",
+       "time": "",
+       "hot": "42.5w"
       }
      ],
      "error": ""
