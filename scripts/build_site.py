@@ -449,6 +449,17 @@ def build(clean: bool = False) -> None:
         data_out = DOCS_DIR / "day" / day["date"] / "data.json"
         write_json(data_out, day)
 
+    # 数据里已经删掉的日期，页面也一并清掉
+    day_root = DOCS_DIR / "day"
+    keep = {d["date"] for d in days}
+    removed = 0
+    for child in sorted(day_root.iterdir()) if day_root.exists() else []:
+        if child.is_dir() and child.name not in keep:
+            shutil.rmtree(child)
+            removed += 1
+    if removed:
+        log(f"清理了 {removed} 个已无数据的日期目录")
+
     archive_dir = DOCS_DIR / "archive"
     archive_dir.mkdir(parents=True, exist_ok=True)
     (archive_dir / "index.html").write_text(render_archive(days, cfg), encoding="utf-8")
