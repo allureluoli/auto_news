@@ -1,0 +1,81 @@
+{
+  "site": {
+    "title": "新闻早报",
+    "subtitle": "DAILY BRIEF",
+    "description": "每天 7 点自动汇总的科技、技术与热榜速览",
+    "author": "二月",
+    "home": "https://allureluoli.github.io/auto_news/",
+    "repo": "https://github.com/allureluoli/auto_news",
+    "timezone": "Asia/Shanghai",
+    "fetch_hour": 7
+  },
+  "sources": [
+    {
+      "name": "IT之家",
+      "kind": "rss",
+      "url": "https://www.ithome.com/rss/",
+      "cat": "科技资讯",
+      "limit": 8
+    },
+    {
+      "name": "少数派",
+      "kind": "rss",
+      "url": "https://sspai.com/feed",
+      "cat": "科技资讯",
+      "limit": 6
+    },
+    {
+      "name": "Solidot",
+      "kind": "rss",
+      "url": "https://www.solidot.org/index.rss",
+      "cat": "科技资讯",
+      "limit": 6
+    },
+    {
+      "name": "The Verge",
+      "kind": "rss",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "cat": "科技资讯",
+      "limit": 5
+    },
+    {
+      "name": "Hacker News",
+      "kind": "hn",
+      "cat": "技术社区",
+      "limit": 8
+    },
+    {
+      "name": "GitHub Trending",
+      "kind": "github",
+      "cat": "技术社区",
+      "limit": 8
+    },
+    {
+      "name": "InfoQ 中文",
+      "kind": "rss",
+      "url": "https://www.infoq.cn/feed",
+      "cat": "技术社区",
+      "limit": 5
+    },
+    {
+      "name": "知乎热榜",
+      "kind": "zhihu",
+      "cat": "热点",
+      "limit": 8
+    },
+    {
+      "name": "百度热搜",
+      "kind": "sixty",
+      "endpoint": "/v2/baidu/hot",
+      "cat": "热点",
+      "limit": 8
+    },
+    {
+      "name": "微博热搜",
+      "kind": "sixty",
+      "endpoint": "/v2/weibo",
+      "cat": "热点",
+      "limit": 6
+    }
+  ]
+}

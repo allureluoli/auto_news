@@ -1,0 +1,58 @@
+name: daily-news
+
+# 纯 GitHub 方案：不依赖 VPS，Actions 每天抓一次、提交、Pages 自动发布。
+# 北京时间 07:00 = UTC 23:00（前一天）。GitHub 的 cron 有 5~30 分钟延迟，属正常。
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      # 海外机器访问国内接口可能超时：压短超时/重试，别把整个 job 拖死。
+      # 想加代理就在仓库 Secrets 里建一个 NEWS_PROXY（形如 http://user:pass@host:port）。
+      - name: Fetch news
+        continue-on-error: true
+        env:
+          HTTP_PROXY: ${{ secrets.NEWS_PROXY }}
+          HTTPS_PROXY: ${{ secrets.NEWS_PROXY }}
+          NEWS_HTTP_TIMEOUT: "12"
+          NEWS_HTTP_RETRIES: "1"
+        run: python scripts/fetch_news.py
+
+      - name: Build site
+        run: python scripts/build_site.py
+
+      - name: Commit & push
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "没有新数据，跳过提交"
+            exit 0
+          fi
+          BEIJING_DATE=$(TZ=Asia/Shanghai date +%Y-%m-%d)
+          git commit -m "news: ${BEIJING_DATE}"
+          git push

@@ -1,0 +1,601 @@
+{
+ "date": "2026-10-25",
+ "weekday": "星期日",
+ "generated_at": "2026-10-25T12:36:32+08:00",
+ "brief": {
+  "date": "2026-10-25",
+  "tip": "再美好的愿景，都要始于行动，点滴坚持，慢慢积攒向上力量",
+  "items": [
+   "2027 年国考报名结束：已有 300 余万人过审，最热岗位 5840:1，广东报名 30.2 万人断层领先",
+   "2025 年全国结婚数据公布：共 676.51 万对，初婚人数 1042.33 万，广东结婚登记人数最多，连续四年第一",
+   "中行定于 2026 年 10 月 30 日发行 2027 版熊猫贵金属纪念币一套，共 15 枚",
+   "国内首部龙标 AI 电影《三星堆：未来往事》上映，两天累计票房破 50 万，成国产 AI 电影里程碑",
+   "渝昆高铁全线铺轨完成，预计 2027 年上半年具备通车条件，成都至昆明将压缩至 3 小时内",
+   "广州新规：电动自行车 “多次违法” 可扣留，摩托车闯禁行罚 200 元记 3 分",
+   "山东淄博街头现无人废品回收车，纸箱回收 1.4 元一公斤，网友：收废品的大爷已感受到压力",
+   "最新研究发现：秦兵马俑制作或有女性参与，成年女性指纹约占 32.7%",
+   "全国游泳锦标赛：徐嘉余以 48 秒 77 夺得男子 100 米仰泳金牌，刷新尘封 8 年亚洲纪录",
+   "中国队亚残运圆满收官：共收获 207 金 117 银 111 铜，连续五届位居亚残运会金牌榜、奖牌榜首位",
+   "美国公布新一批 UFO 文件：一大型 “哑光黑色三角状” 飞行物，速度堪比战斗机，且没有发出任何声音",
+   "美航天局宣布新登月计划：计划 2027 年下半年进行无人登月测试，2028 年实现载人登月",
+   "美国今年已累计报告麻疹病例超 4500 例，已超 2025 年总数的 2 倍，有专家认为实际可能更多",
+   "英国提出 “做好准备” 倡议，呼吁民众储备物资应对 “国家紧急情况”",
+   "欧洲、中东八国外长开会讨论美伊局势，“均不赞成对伊发动任何新一轮打击”"
+  ]
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+       "url": "https://www.ithome.com/1/017/578.htm",
+       "summary": "YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。 IT之家注意到，iPhon…",
+       "time": "04:25",
+       "hot": ""
+      },
+      {
+       "title": "保时捷在美召回 548 辆 911/718：存在掉轮风险，车主应立即停驶",
+       "url": "https://www.ithome.com/1/017/577.htm",
+       "summary": "当地时间 23 日，据美媒 Car And Driver 报道，数百辆保时捷 911 和 718 跑车正面临车轮脱落的风险。 保时捷宣布扩大此前 因车轮中央锁止装置存在缺陷 而发起的召回，并要求受影响车主…",
+       "time": "04:15",
+       "hot": ""
+      },
+      {
+       "title": "张雪谈成功挑战“水上漂”吉尼斯世界纪录自己表现：打 99 分，留 1 分不要太骄傲",
+       "url": "https://www.ithome.com/1/017/576.htm",
+       "summary": "“张雪机车”创始人张雪今日驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村， 成功挑战“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录 。 赛后，张雪在接受采访时表示，挑战过程中发挥…",
+       "time": "04:05",
+       "hot": ""
+      },
+      {
+       "title": "我国成功发射卫星互联网低轨 28 组卫星",
+       "url": "https://www.ithome.com/1/017/566.htm",
+       "summary": "北京时间 2026 年 10 月 25 日 10 时 03 分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 28 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得…",
+       "time": "03:51",
+       "hot": ""
+      },
+      {
+       "title": "R 星联合创始人丹 · 豪瑟回应 2009 年新项目《特工》为何取消：个人觉得太难了",
+       "url": "https://www.ithome.com/1/017/565.htm",
+       "summary": "据外媒 Gamesradar 今天（25 日）报道，2009 年，R 星公布了一款名为《特工》（Agent）的全新游戏，计划作为 PS3 独占作品推出。游戏以 20 世纪 70 年代的冷战时期为背景，主打开…",
+       "time": "03:43",
+       "hot": ""
+      },
+      {
+       "title": "40.74 公里！张雪时隔 17 年圆梦“水上漂”，刷新改装摩托车在开阔水域行驶最远距离吉尼斯世界纪录",
+       "url": "https://www.ithome.com/1/017/564.htm",
+       "summary": "“张雪机车”创始人张雪今日驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村， 以 40.74 公里的成绩， 刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录 。 时隔 17…",
+       "time": "03:35",
+       "hot": ""
+      },
+      {
+       "title": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
+       "url": "https://www.ithome.com/1/017/563.htm",
+       "summary": "三名因涉嫌泄密被解雇的 OpenAI 安全研究员道出了他们一方的说辞。托梅克 · 科尔巴克（Tomek Korbak）、米基塔 · 巴莱斯尼（Mikita Balesni）与王茉莉（Jasmine Wang…",
+       "time": "03:28",
+       "hot": ""
+      },
+      {
+       "title": "AI 智能体闯进银行，美国大行开始准备“灾后预案”",
+       "url": "https://www.ithome.com/1/017/562.htm",
+       "summary": "对 AI 末日的悲观预判，早已不再只是少数科技富豪的危言耸听。 如今，那些主导全球资本流向的美国大型银行，也开始警惕失控 AI，正在为假设中由 AI 引发的灾难，制定“灾后”应急预案。 据 Axios 报道…",
+       "time": "03:06",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "在硅谷，遇见个人计算机历史",
+       "url": "https://sspai.com/post/116128",
+       "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。",
+       "time": "16:26",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 12 部作品",
+       "url": "https://sspai.com/post/117169",
+       "summary": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...",
+       "time": "18:09",
+       "hot": ""
+      },
+      {
+       "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+       "url": "https://sspai.com/post/116398",
+       "summary": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……",
+       "time": "15:00",
+       "hot": ""
+      },
+      {
+       "title": "破与立：设计视角下的 iPhone Duo",
+       "url": "https://sspai.com/post/116979",
+       "summary": "",
+       "time": "11:07",
+       "hot": ""
+      },
+      {
+       "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+       "url": "https://sspai.com/post/117104",
+       "summary": "的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...",
+       "time": "08:20",
+       "hot": ""
+      },
+      {
+       "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+       "url": "https://sspai.com/post/115437",
+       "summary": "",
+       "time": "17:10",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
+       "url": "https://www.solidot.org/story?sid=85702",
+       "summary": "人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV…",
+       "time": "22:30",
+       "hot": ""
+      },
+      {
+       "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+       "url": "https://www.solidot.org/story?sid=85701",
+       "summary": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一…",
+       "time": "21:50",
+       "hot": ""
+      },
+      {
+       "title": "研究揭示丹尼索瓦人的长相",
+       "url": "https://www.solidot.org/story?sid=85700",
+       "summary": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30…",
+       "time": "21:35",
+       "hot": ""
+      },
+      {
+       "title": "美光桃园厂工会否决奖金方案",
+       "url": "https://www.solidot.org/story?sid=85699",
+       "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1…",
+       "time": "21:14",
+       "hot": ""
+      },
+      {
+       "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
+       "url": "https://www.solidot.org/story?sid=85698",
+       "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体…",
+       "time": "20:53",
+       "hot": ""
+      },
+      {
+       "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
+       "url": "https://www.solidot.org/story?sid=85697",
+       "summary": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片…",
+       "time": "20:01",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Blue Planet III is keeping the rough edges in the age of AI",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+       "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnati…",
+       "time": "05:29",
+       "hot": ""
+      },
+      {
+       "title": "Pennsylvania will require labels on AI-generated ads",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+       "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, r…",
+       "time": "02:32",
+       "hot": ""
+      },
+      {
+       "title": "What to expect from Apple’s ‘Pro and tell’ event",
+       "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+       "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearvi…",
+       "time": "22:13",
+       "hot": ""
+      },
+      {
+       "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+       "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+       "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November.…",
+       "time": "06:00",
+       "hot": ""
+      },
+      {
+       "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+       "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+       "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and ge…",
+       "time": "23:12",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+       "url": "https://edjefferson.com/localwiki/",
+       "summary": "",
+       "time": "07:01",
+       "hot": "1559 分 · 245 评论"
+      },
+      {
+       "title": "Show HN: Steal My Bitcoin",
+       "url": "https://stealmybitcoin.com/",
+       "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent th…",
+       "time": "04:30",
+       "hot": "436 分 · 264 评论"
+      },
+      {
+       "title": "The Goose Programming Language",
+       "url": "https://aardappel.github.io/goose/",
+       "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+       "time": "03:06",
+       "hot": "298 分 · 187 评论"
+      },
+      {
+       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+       "summary": "",
+       "time": "16:06",
+       "hot": "291 分 · 140 评论"
+      },
+      {
+       "title": "I don't understand quantum physics (2018)",
+       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+       "summary": "",
+       "time": "17:53",
+       "hot": "290 分 · 233 评论"
+      },
+      {
+       "title": "Roku developer repositories moved from GitHub to GitLab",
+       "url": "https://blog.roku.com/developer/gitlab-move",
+       "summary": "",
+       "time": "00:06",
+       "hot": "272 分 · 186 评论"
+      },
+      {
+       "title": "We should be more ambitious with the software we build",
+       "url": "https://danluu.com/ambitious/",
+       "summary": "",
+       "time": "05:47",
+       "hot": "266 分 · 225 评论"
+      },
+      {
+       "title": "FreeDNS",
+       "url": "https://freedns.afraid.org/",
+       "summary": "",
+       "time": "23:20",
+       "hot": "263 分 · 66 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "cloudflare/security-audit-skill",
+       "url": "https://github.com/cloudflare/security-audit-skill",
+       "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+       "time": "",
+       "hot": "JavaScript · +2,264 stars today"
+      },
+      {
+       "title": "NVIDIA/OpenShell",
+       "url": "https://github.com/NVIDIA/OpenShell",
+       "summary": "OpenShell is the safe, private runtime for autonomous AI agents.",
+       "time": "",
+       "hot": "Rust · +896 stars today"
+      },
+      {
+       "title": "aws/agent-toolkit-for-aws",
+       "url": "https://github.com/aws/agent-toolkit-for-aws",
+       "summary": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+       "time": "",
+       "hot": "Python · +13 stars today"
+      },
+      {
+       "title": "Nutlope/hallmark",
+       "url": "https://github.com/Nutlope/hallmark",
+       "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+       "time": "",
+       "hot": "CSS · +455 stars today"
+      },
+      {
+       "title": "luongnv89/claude-howto",
+       "url": "https://github.com/luongnv89/claude-howto",
+       "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templa…",
+       "time": "",
+       "hot": "Python · +392 stars today"
+      },
+      {
+       "title": "pbakaus/impeccable",
+       "url": "https://github.com/pbakaus/impeccable",
+       "summary": "The design language that makes your AI harness better at design.",
+       "time": "",
+       "hot": "Rust · +619 stars today"
+      },
+      {
+       "title": "pollen-robotics/microduck",
+       "url": "https://github.com/pollen-robotics/microduck",
+       "summary": "A Tiny biped duck robot 🦆",
+       "time": "",
+       "hot": "Rust · +319 stars today"
+      },
+      {
+       "title": "google-gemini/gemini-cli",
+       "url": "https://github.com/google-gemini/gemini-cli",
+       "summary": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+       "time": "",
+       "hot": "TypeScript · +44 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
+       "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:30",
+       "hot": ""
+      },
+      {
+       "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+       "url": "https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:06",
+       "hot": ""
+      },
+      {
+       "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
+       "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "13:00",
+       "hot": ""
+      },
+      {
+       "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+       "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+       "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "19:40",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+       "url": "https://www.zhihu.com/question/2097101591828607209",
+       "summary": "美国核聚变技术初创公司Marathon Fusion当地时间周四宣布，上个月已成功将汞嬗变为稳定的黄金，相关成果的产出水平是欧洲核子研究中心(CERN)此前纪录的10倍。2025年，CERN曾表示，其大型强子对撞机(LH…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "S16 瑞士轮次日 TES 1:0 击败 AL 拿下首胜，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2097479998525518163",
+       "summary": "",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "重点中学教师称高一开学仅一个月，其任教的每个班均有学生因心理问题休学，这是普遍现象吗？为什么会这样？",
+       "url": "https://www.zhihu.com/question/2097263594421188141",
+       "summary": "作为一所重点中学的资深一线教师，我越来越觉得教育的“内卷”已经非常严重，需要引起高度重视了。 高一开学仅仅一个月，我教的3个班中，每个班竟然都有1至2名学生因心理问题休学，而且在兄弟班级也不同程度存在类似情况。 高中是基…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "广西一病人转院被网约车司机丢弃致死，家属索赔96万，法院一审判司机平台赔1.3万，如何从法律角度解读？",
+       "url": "https://www.zhihu.com/question/2097409044340105309",
+       "summary": "男子就诊期间病情加重，家属呼叫网约车准备转院，不料行驶途中司机以乘客可能呕吐为由，将病重男子及家属中途甩在路边。后来，男子经120送医抢救无效死亡，家属将涉事医院、网约车平台、司机一并告上法庭，索赔96万余元。近日，南宁…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "你有5分钟把一个回形针藏在家里，侦探有24小时来找，找不到就给你1万美元。你会藏在哪里？",
+       "url": "https://www.zhihu.com/question/2097021346526001046",
+       "summary": "",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "夫妻花67.3万买劳力士却不挑选不试戴，店员果断报警，最终证实夫妻两人遭遇诈骗，这背后有着怎样的骗局？",
+       "url": "https://www.zhihu.com/question/2094830367932770236",
+       "summary": "近日，浙江温州鹿城区委平安办联合鹿城反诈中心、南门派出所、温州市三乐亭来到了辛均高、邓诗琦所在的錶友汇表行店，对其开展慰问，授予“鹿城平安守护者”称号，这份荣誉的背后，还要从发生在店里的一起反诈劝阻事件说起。 今年9月7…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
+       "url": "https://www.zhihu.com/question/2096913276739367170",
+       "summary": "在陶哲轩发起的非营利机构 SAIR Foundation 的播客节目中，SAIR 主席、菲尔兹奖得主陶哲轩与今年新晋菲尔兹奖得主、芝加哥大学教授邓煜，就 AI 与数学的未来展开对谈。陶哲轩在本次对谈中说得更直白：批量解题…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "美国公布新一批 UFO 文件，其中一飞行物可无声悬停、3 秒飞出 2.4 公里，还有哪些信息值得关注？",
+       "url": "https://www.zhihu.com/question/2097439336874467725",
+       "summary": "中新网10月24日电 综合报道，当地时间10月23日，美国国防部公布最新有关“不明飞行物(UFO)”等“不明异常现象(UAP)”的档案。这是美国政府5月以来公布的第七批此类文件。最新公布的档案中，共包含28份PDF格式的…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "张雪在家乡刷新吉尼斯纪录",
+       "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%9C%A8%E5%AE%B6%E4%B9%A1%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "张雪机车创始人张雪在家乡湖南麻阳，驾驶改装摩托车MX450，成功刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录。",
+       "time": "",
+       "hot": "780.81w"
+      },
+      {
+       "title": "“中国桂花第一村”5天收花7万斤",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%A1%82%E8%8A%B1%E7%AC%AC%E4%B8%80%E6%9D%91%E2%80%9D5%E5%A4%A9%E6%94%B6%E8%8A%B17%E4%B8%87%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "桐庐县旧县街道母岭村，种植桂花超过600年，素有“中国桂花第一村” 的美誉。10月14日至18日，母岭村5天收购鲜桂花约7万斤。",
+       "time": "",
+       "hot": "771.46w"
+      },
+      {
+       "title": "这不是科幻这是中国智造",
+       "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%A7%91%E5%B9%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "“中国智造”已成为中国式现代化的又一亮丽名片。人工智能“电子鼻”、火锅底料智能生产线、“水下幽灵”透明仿生水母机器人……智能技术正加速解锁更多应用场景，让生产更高效、作业更精准。网友：科技感满满，中国智造已经是Nextlevel了。",
+       "time": "",
+       "hot": "761.77w"
+      },
+      {
+       "title": "“所有人在等张雪上厕所”",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E6%9C%89%E4%BA%BA%E5%9C%A8%E7%AD%89%E5%BC%A0%E9%9B%AA%E4%B8%8A%E5%8E%95%E6%89%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "张雪在湖南麻阳小坡村冲击摩托“水上漂”吉尼斯世界纪录。现场围满了等待见证记录的人群，期间，他抽空上了个厕所，引发“所有人在等张雪上厕所”的调侃。",
+       "time": "",
+       "hot": "752.06w"
+      },
+      {
+       "title": "178平方豪宅6个套间 每间都有马桶",
+       "url": "https://www.baidu.com/s?wd=178%E5%B9%B3%E6%96%B9%E8%B1%AA%E5%AE%856%E4%B8%AA%E5%A5%97%E9%97%B4+%E6%AF%8F%E9%97%B4%E9%83%BD%E6%9C%89%E9%A9%AC%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，在江苏南京仙林一小区，178平方米豪宅被隔成6个套间，每间配马桶、洗衣机，邻居反映噪声扰民、家中墙裂。日前，当地住建部门已责令整改，私加卫生间已拆除。",
+       "time": "",
+       "hot": "742.84w"
+      },
+      {
+       "title": "奥巴马中期选举首秀火力全开",
+       "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%A6%96%E7%A7%80%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "当地时间10月24日，美国前总统奥巴马现身俄亥俄州，开启横跨两州的竞选行程，并对特朗普发起猛烈抨击。随后，特朗普回击奥巴马批评，称奥巴马是个糟糕的总统。",
+       "time": "",
+       "hot": "733.29w"
+      },
+      {
+       "title": "朱婷夺职业生涯第二十七冠",
+       "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E5%A9%B7%E5%A4%BA%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "北京时间10月25日，在意大利女排超级杯决赛中，科内利亚诺3比1逆转斯坎迪奇夺冠，斩获队史第9冠。朱婷此役贡献17分全队第二，且接39个一传仅1失误，表现全面。",
+       "time": "",
+       "hot": "723.84w"
+      },
+      {
+       "title": "国考排名第一的岗位竞争超6000:1",
+       "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E5%B2%97%E4%BD%8D%E7%AB%9E%E4%BA%89%E8%B6%856000%3A1&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2027年国考报名截止。本次国考已有三百多万人成功过审，排名第一的岗位竞争超6000:1。其中，广东报名人数高达30.2万领跑全国，山东、北京等地紧随其后。",
+       "time": "",
+       "hot": "714.23w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "日剧Vivant抹黑中国",
+       "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+       "summary": "",
+       "time": "",
+       "hot": "116.5w"
+      },
+      {
+       "title": "张雪刷新吉尼斯纪录",
+       "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+       "summary": "",
+       "time": "",
+       "hot": "82.4w"
+      },
+      {
+       "title": "向英雄致敬迎英雄回家",
+       "url": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+       "summary": "",
+       "time": "",
+       "hot": "68.0w"
+      },
+      {
+       "title": "深圳水贝被挤爆",
+       "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+       "summary": "",
+       "time": "",
+       "hot": "62.7w"
+      },
+      {
+       "title": "唐朝诡事录之蜀道开机了",
+       "url": "https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%9C%80%E9%81%93%E5%BC%80%E6%9C%BA%E4%BA%86",
+       "summary": "",
+       "time": "",
+       "hot": "46.2w"
+      },
+      {
+       "title": "2026共创之夜节目单",
+       "url": "https://s.weibo.com/weibo?q=2026%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95",
+       "summary": "",
+       "time": "",
+       "hot": "46.0w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": []
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>页面不存在 · 新闻早报</title>
+<meta name="description" content="404">
+<meta name="author" content="二月">
+<meta name="theme-color" content="#faf9f5">
+<link rel="canonical" href="https://allureluoli.github.io/auto_news/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="页面不存在 · 新闻早报">
+<meta property="og:description" content="404">
+<meta property="og:site_name" content="新闻早报">
+<link rel="alternate" type="application/rss+xml" title="新闻早报" href="feed.xml">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/site.css?v=92902326">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem('brief-theme');
+    if (t !== 'dark' && t !== 'light') {
+      t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    document.documentElement.setAttribute('data-theme', t);
+    document.documentElement.style.colorScheme = t;
+  } catch (e) {}
+})();
+</script>
+
+</head>
+<body>
+<a class="skip" href="#main">跳到正文</a>
+<header class="topbar" id="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="./" aria-label="回到今日">
+      <span class="seal" aria-hidden="true">早</span>
+      <span class="brand-text"><b>新闻早报</b><em>DAILY BRIEF</em></span>
+    </a>
+    <nav class="nav" aria-label="主导航">
+      <a href="./">今日</a>
+      <a href="archive/">归档</a>
+      <a href="feed.xml">RSS</a>
+    </nav>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="切换深浅色" title="切换深浅色">
+      <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 13.2A8.5 8.5 0 1 1 10.8 3a7 7 0 1 0 10.2 10.2z" fill="currentColor"/></svg>
+      <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2" fill="currentColor"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.2 5.2l1.6 1.6M17.2 17.2l1.6 1.6M18.8 5.2l-1.6 1.6M6.8 17.2l-1.6 1.6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+</header>
+<main class="wrap" id="main">
+  <header class="masthead masthead--archive">
+    <p class="kicker"><span>404</span><span class="dot"></span><span>NOT FOUND</span></p>
+    <h1 class="paper-title">这一页不存在</h1>
+    <p class="dek">大概是链接被改过了，或者那天的早报还没生成。</p>
+    <p class="empty"><a href="./">回今天的早报</a> · <a href="archive/">翻归档</a></p>
+  </header>
+</main>
+<script src="assets/site.js?v=92902326" defer></script>
+</body>
+</html>

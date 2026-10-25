@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="新闻早报">
+  <rect width="64" height="64" rx="13" fill="#c96442"/>
+  <text x="32" y="45" font-size="38" text-anchor="middle" fill="#faf9f5"
+        font-family="'Songti SC','Noto Serif SC',Georgia,serif">早</text>
+</svg>
