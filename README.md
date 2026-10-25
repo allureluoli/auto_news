@@ -4,6 +4,7 @@
 数据逐日留档，历史不会丢；页面只是 `data/` 的渲染结果，随时可以整站重建。
 
 线上地址：<https://allureluoli.github.io/auto_news/>
+（项目页继承了账号的自定义域名，<https://blog.curesky.site/auto_news/> 同样可用）
 
 ![预览](preview.png)
 
@@ -137,7 +138,7 @@ GITHUB_TOKEN=ghp_xxxx python scripts/publish.py
 
 | 坑 | 说明 | 对策 |
 |---|---|---|
-| **国内接口** | Runner 在海外。IT之家 / 少数派 / Solidot / InfoQ / The Verge / HN / GitHub Trending 基本没问题；**知乎、百度、微博、60s 可能超时或 403** | 抓不到的源会自动跳过，页面照常生成。想补全就在 Secrets 里加 `NEWS_PROXY`（见下），或让 VPS 当主力 |
+| **国内接口** | 首次实测（2026-10-25，GitHub 官方 runner）：**10 个源全部抓通**，知乎 / 百度 / 微博 / 60s 都没问题 | 之后若某个源开始 403 或超时，抓不到会自动跳过，页面照常生成；要补全就加 `NEWS_PROXY` |
 | **定时不准** | GitHub 的 cron 高峰期会延迟 5~30 分钟，极端情况当天跳过 | 早报对分钟不敏感；要准点就配 VPS |
 | **中文源为空** | 连续几天某个源都是 0，说明被区域限制 | 改 `config.json` 换源，或加代理 |
 
