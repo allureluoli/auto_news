@@ -1,0 +1,601 @@
+{
+ "date": "2026-10-27",
+ "weekday": "星期二",
+ "generated_at": "2026-10-27T09:53:48+08:00",
+ "brief": {
+  "date": "2026-10-27",
+  "tip": "人生起落本是常态，扛过低谷的磨砺，往后方能遇见更好风景",
+  "items": [
+   "文旅部：今年前三季度国内居民出游人次 53.07 亿，同比增长 6.2%；出游总花费 4.95 万亿元，同比增长 2.2%",
+   "六个经济大省 “三季报” 出炉：除广东外其余五省 GDP 增速超全国，浙江、山东以 5.6% 领跑",
+   "商务部：今年 1 至 9 月我国批发和零售业增加值 11.1 万亿元，同比增长 4.4%",
+   "国考网上报名结束：网上报名 393.5 万人，资格审查通过 345 万人，平均 97 人竞争一个岗位",
+   "成都楼市新政细则出台：新增项目预售须主体结构封顶，现房销售购房定金不超过 5%",
+   "江苏多所高校发布通知：学校在职在编人员工资将通过数字人民币钱包发放，11 月起实施",
+   "奥迪中国四环标和字母标正式分家：四环归一汽奥迪，字母标留给上汽奥迪",
+   "人民币对美元即期汇率收盘升破 6.67，创 2022 年 6 月 8 日以来新高",
+   "西藏巴青地震地表破裂带首次被发现：破裂面最深约 3.5 米，断裂南北两侧延伸到雪山上",
+   "比尔・盖茨谈 AI 对人类工作的冲击：AI 创造 “真正富足” 前，人类将经历 20 年动荡的过渡期",
+   "欧洲六大奢侈品巨头年初以来市值合计缩水近 2 万亿元，LVMH 缩水最多约 9848 亿元",
+   "日本前首相福田康夫逝世，生前致力于改善中日关系，中方：沉痛哀悼",
+   "巴西总统卢拉在选举中获胜，赢得连任；博索纳罗拒绝承认败选，要求废除选举结果",
+   "沙特计划明年下半年起在新加坡的地下岩洞储存原油，以加强亚洲的原油供应安全",
+   "特朗普任内美国汽油均价超越拜登时期，柴油价格创历史新高，中期选举压力加剧"
+  ]
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
+       "url": "https://www.ithome.com/1/018/246.htm",
+       "summary": "Tata Communications（塔塔通讯）当地时间 26 日宣布拟斥资 4~4.5 亿美元 （IT之家注：现汇率约合 26.74 ~ 30.08 亿元人民币） 在印度建设一条连接关键人工智能数据中心…",
+       "time": "01:53",
+       "hot": ""
+      },
+      {
+       "title": "Arrowhead 确认《绝地潜兵 3》暂无开发计划：它最大的对手就是《绝地潜兵 2》",
+       "url": "https://www.ithome.com/1/018/245.htm",
+       "summary": "《绝地潜兵 2》开发商 Arrowhead 首席创意官约翰 · 皮莱斯泰特称，工作室近期没有开发《绝地潜兵》系列续作的计划。 当地时间 23 日，皮莱斯泰特接受 Rock Paper Shotgun 采访时…",
+       "time": "01:50",
+       "hot": ""
+      },
+      {
+       "title": "扩展稳定版微软 Edge 浏览器明年登陆苹果 macOS：最长 8 周延后部署更新",
+       "url": "https://www.ithome.com/1/018/243.htm",
+       "summary": "科技媒体 Windows Central 昨日（10 月 26 日）发布博文，报道称微软计划明年在苹果 macOS 平台上， 为 Microsoft Edge 浏览器扩展引入“扩展稳定”（Extended…",
+       "time": "01:46",
+       "hot": ""
+      },
+      {
+       "title": "苹果 iOS 27.2 正式版国行“最重要专属功能”，可禁止 App 摇一摇跳转",
+       "url": "https://www.ithome.com/1/018/241.htm",
+       "summary": "苹果公司今天面向 iPhone 18 Pro 等机型 推送 iOS 27.2 正式版更新 （内部版本号：24B119），并为其首款折叠 iPhone Duo 推送专属 iOS 27.2 更新（内部版本号：2…",
+       "time": "01:41",
+       "hot": ""
+      },
+      {
+       "title": "“拯救《质量效应》”请愿书签名人数突破 20 万，粉丝请求延续系列游戏生命",
+       "url": "https://www.ithome.com/1/018/239.htm",
+       "summary": "当地时间 26 日，据外媒 VGC 报道，EA 宣布关闭 BioWare 并取消《质量效应》系列新作后，玩家发起的挽救该系列联署请愿获得超过 20 万人支持。 当地时间 22 日，EA 宣布关闭曾开发《龙腾…",
+       "time": "01:38",
+       "hot": ""
+      },
+      {
+       "title": "苹果首款折叠 iPhone Duo 确认缺失 FaceTime“眼神交流”功能",
+       "url": "https://www.ithome.com/1/018/238.htm",
+       "summary": "科技媒体 MacRumors 昨日（10 月 26 日）发布博文，指出在苹果首款折叠 iPhone Duo 机型上， 其 FaceTime 设置中缺少“眼神交流”（Eye Contact）选项， 用户在视频…",
+       "time": "01:34",
+       "hot": ""
+      },
+      {
+       "title": "Anthropic 提交 IPO 招股文件，亚洲芯片股走强",
+       "url": "https://www.ithome.com/1/018/237.htm",
+       "summary": "受 Anthropic PBC 提交 IPO 招股文件的推动，投资者对人工智能交易的热情重新燃起，亚洲半导体板块股票应声大涨。 今日早盘交易中，三星电子、SK 海力士股价涨幅均超 5%，带动韩…",
+       "time": "01:28",
+       "hot": ""
+      },
+      {
+       "title": "惠科股份 2026Q1~Q3 归母净利润 25.9 亿元，同比 -12.63%",
+       "url": "https://www.ithome.com/1/018/234.htm",
+       "summary": "惠科股份昨日发布 2026 年第 3 季度报告： 2026Q3 单季 营业总收入 ：105.97 亿元，同比 +3.48% 归母净利润 ：7.32 亿元，同比 -8.76% 扣非净利润 ：5.75 亿元，同…",
+       "time": "01:21",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+       "url": "https://sspai.com/post/117600",
+       "summary": "的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...",
+       "time": "08:27",
+       "hot": ""
+      },
+      {
+       "title": "派评 | 近期值得关注的 App",
+       "url": "https://sspai.com/post/117529",
+       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+       "time": "18:17",
+       "hot": ""
+      },
+      {
+       "title": "秋冬换季护肤买什么，双 11 选购推荐",
+       "url": "https://sspai.com/post/117414",
+       "summary": "双 11 到来之际的秋冬护肤选购与搭配建议。",
+       "time": "15:00",
+       "hot": ""
+      },
+      {
+       "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
+       "url": "https://sspai.com/post/115074",
+       "summary": "一起来看看 3D XPoint 这夸张的性能表现吧。",
+       "time": "11:26",
+       "hot": ""
+      },
+      {
+       "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+       "url": "https://sspai.com/post/117180",
+       "summary": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+       "url": "https://sspai.com/post/117460",
+       "summary": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患 Spotify 将要求家庭组成员定期扫码验证 Arc 浏览器宣布下线 央广总台澄清「国补停止」说法 谷歌建设虚拟电厂，付费激励电网用户省电留给 AI iTunes Sto…",
+       "time": "07:36",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "科学家重现古罗马的分色玻璃",
+       "url": "https://www.solidot.org/story?sid=85713",
+       "summary": "制作于公元四世纪的罗马玻璃笼子杯 Lycurgus Cup 会根据光源位置的不同而呈现不同的颜色，从前方照射呈绿色后方则呈红色。这一令人惊叹的光学工程成就数世纪以来令历史学家和玻璃工匠感到困惑。现在英国谢菲尔德大学的科学家成功复现了这一光学…",
+       "time": "19:12",
+       "hot": ""
+      },
+      {
+       "title": "Netflix 用户观看量下降，应用打开量下降",
+       "url": "https://www.solidot.org/story?sid=85711",
+       "summary": "流媒体巨头 Netflix 正通过提高订阅费用去应对用户增长停滞。内部数据显示，Netflix 订户的观看量下降，应用每月打开的天数也略有下降。目前下滑幅度尚属适度，未引起订户大规模流失。为吸引新用户并留住现有用户，Netflix 增加了内…",
+       "time": "17:07",
+       "hot": ""
+      },
+      {
+       "title": "Systemd 支持 Rust 程序",
+       "url": "https://www.solidot.org/story?sid=85710",
+       "summary": "Systemd 支持用 Rust 语言开发程序。核心 systemd 代码如 systemd 库目前尚不支持 Rust 代码，但对于systemd 程序/末端组件已支持使用 Rust 语言。Systemd 开发者并不计划将现有的 C 代码移…",
+       "time": "16:02",
+       "hot": ""
+      },
+      {
+       "title": "欧洲夏季热浪导致逾 5 万城市居民死亡",
+       "url": "https://www.solidot.org/story?sid=85708",
+       "summary": "今年夏天热浪席卷了欧洲大部分地区，多地气温超过 40°C。学校关闭，沥青路变形，电网不堪重负，紧急求助电话激增。多国报告死亡人数大幅增长。德国 Robert Koch 研究所统计，4-9 月有 1.6 万人死因与高温相关。西班牙报告 7-8…",
+       "time": "15:13",
+       "hot": ""
+      },
+      {
+       "title": "2025 年老年抚养比首次超过少儿抚养比",
+       "url": "https://www.solidot.org/story?sid=85707",
+       "summary": "根据国家统计局编著出版的《中国统计年鉴 2026》，2025 年全国 0-14 岁人口 21276 万人，占总人口比重为 15.1%；65 岁及以上人口 22365 万人，占总人口比重为15.9%。2025 年，全国总抚养比为 45.1%，…",
+       "time": "13:53",
+       "hot": ""
+      },
+      {
+       "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+       "url": "https://www.solidot.org/story?sid=85706",
+       "summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是…",
+       "time": "00:16",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+       "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing ma…",
+       "time": "07:47",
+       "hot": ""
+      },
+      {
+       "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+       "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+       "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple…",
+       "time": "05:56",
+       "hot": ""
+      },
+      {
+       "title": "Anthropic is burning gas to feed the AI boom",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+       "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competi…",
+       "time": "05:45",
+       "hot": ""
+      },
+      {
+       "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+       "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+       "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an…",
+       "time": "02:53",
+       "hot": ""
+      },
+      {
+       "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+       "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+       "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762…",
+       "time": "02:22",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Anthropic S-1",
+       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+       "summary": "",
+       "time": "21:04",
+       "hot": "1481 分 · 1449 评论"
+      },
+      {
+       "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+       "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+       "summary": "",
+       "time": "23:35",
+       "hot": "766 分 · 679 评论"
+      },
+      {
+       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+       "summary": "",
+       "time": "23:11",
+       "hot": "557 分 · 81 评论"
+      },
+      {
+       "title": "GPT-6.1 Terra",
+       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+       "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+       "time": "02:01",
+       "hot": "501 分 · 320 评论"
+      },
+      {
+       "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+       "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661",
+       "time": "05:35",
+       "hot": "458 分 · 175 评论"
+      },
+      {
+       "title": "CSS-Tricks has a new owner",
+       "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+       "summary": "",
+       "time": "23:51",
+       "hot": "381 分 · 90 评论"
+      },
+      {
+       "title": "Oldest GUI application that still runs on Windows 11",
+       "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+       "summary": "",
+       "time": "01:56",
+       "hot": "290 分 · 186 评论"
+      },
+      {
+       "title": "The Exponential Time Hypothesis Is False [pdf]",
+       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+       "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombi…",
+       "time": "05:59",
+       "hot": "283 分 · 109 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "Nutlope/hallmark",
+       "url": "https://github.com/Nutlope/hallmark",
+       "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+       "time": "",
+       "hot": "CSS · +2,244 stars today"
+      },
+      {
+       "title": "TauricResearch/TradingAgents",
+       "url": "https://github.com/TauricResearch/TradingAgents",
+       "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+       "time": "",
+       "hot": "Python · +1,395 stars today"
+      },
+      {
+       "title": "JetBrains/thinkrail",
+       "url": "https://github.com/JetBrains/thinkrail",
+       "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Nee…",
+       "time": "",
+       "hot": "TypeScript · +1,173 stars today"
+      },
+      {
+       "title": "makecindy/cindy",
+       "url": "https://github.com/makecindy/cindy",
+       "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+       "time": "",
+       "hot": "TypeScript · +1,296 stars today"
+      },
+      {
+       "title": "affaan-m/ECC",
+       "url": "https://github.com/affaan-m/ECC",
+       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first dev…",
+       "time": "",
+       "hot": "JavaScript · +896 stars today"
+      },
+      {
+       "title": "pbakaus/impeccable",
+       "url": "https://github.com/pbakaus/impeccable",
+       "summary": "The design language that makes your AI harness better at design.",
+       "time": "",
+       "hot": "Rust · +1,506 stars today"
+      },
+      {
+       "title": "NVIDIA/SkillSpector",
+       "url": "https://github.com/NVIDIA/SkillSpector",
+       "summary": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injec…",
+       "time": "",
+       "hot": "Python · +214 stars today"
+      },
+      {
+       "title": "pollen-robotics/microduck",
+       "url": "https://github.com/pollen-robotics/microduck",
+       "summary": "A Tiny biped duck robot 🦆",
+       "time": "",
+       "hot": "Rust · +843 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+       "url": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:14",
+       "hot": ""
+      },
+      {
+       "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+       "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:30",
+       "hot": ""
+      },
+      {
+       "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+       "url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:08",
+       "hot": ""
+      },
+      {
+       "title": "Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API",
+       "url": "https://www.infoq.cn/article/hilBQCk7QcvclfrgZbSf?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "17:17",
+       "hot": ""
+      },
+      {
+       "title": "中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样",
+       "url": "https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "15:18",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "S16瑞士轮第 3 轮低分淘汰赛，AL0:2TLAW，被称为LPL历史最差一号种子，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2098163161492711047",
+       "summary": "AL 0:2 TLAW 4分钟50秒，双方上单对拼，最终奥拉夫阵亡。 5分钟50秒，双方下路3V3，最终魔腾阵亡。 6分钟20秒，塔姆被对方双人组集火击杀。 6分钟50秒，双方于河道交战，最终我方一换二。 9分钟20秒，…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "2026年第70届金球奖揭晓，凯恩获得最佳射手奖和金球奖，如何评价这一结果？",
+       "url": "https://www.zhihu.com/question/2098093756930942177",
+       "summary": "2026金球奖颁奖典礼，凯恩获得最佳射手奖和金球奖。2025/26赛季，凯恩在俱乐部和英格兰队共出战65场，打进73球。 时隔25年再次有英格兰球员拿到金球奖。 新华社伦敦10月26日电 在26日举行的2026《法国足球…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "「南北」奥迪正式分家，四环归一汽，AUDI 归上汽，背后出于怎样的商业考量？将带来哪些影响？",
+       "url": "https://www.zhihu.com/question/2098099746560631310",
+       "summary": "持续近十年的“南北”奥迪纷争，终于有了明确的解决方案。 10月26日，奥迪中国宣布，字母标AUDI由上汽奥迪负责，四环品牌归一汽奥迪。声明称，中国一汽将强化奥迪四环品牌在智能豪华新能源车型和燃油车型双领域的市场优势，以全…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "江苏多所高校将用数字人民币发工资，数字人民币与银行卡发工资有啥区别？这一举措会带来哪些改变？",
+       "url": "https://www.zhihu.com/question/2098056179788391425",
+       "summary": "近日，多所大学发布相关通知，学校在职在编人员工资将通过数字人民币钱包发放。 扬州大学财务处10月20日发布通知，接省财政厅预通知，自2026年11月起，学校在职在编人员（含人事代理）工资将通过数字人民币钱包发放，请相关人…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "哈利波特发现自己继承了父母的巨额遗产后，为什么不分点给姨夫姨妈一家报答养育之恩？",
+       "url": "https://www.zhihu.com/question/2089734782263608445",
+       "summary": "哈利第一部就到了古灵阁发现了自己继承的巨额遗产，但是直到全书结尾也没给姨夫姨妈一个纳特的回报。三枪争霸赛的奖金给同学的哥哥都没想到回报一下姨夫姨妈的养育之恩。",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "你是怎么突然发现同事很有钱的？",
+       "url": "https://www.zhihu.com/question/521349541",
+       "summary": "",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "如何评价S16瑞士轮第四轮抽签结果？TES内战BLG、IG对阵LYON，G2迎战 HLE，谁能赢？",
+       "url": "https://www.zhihu.com/question/2098313054614189594",
+       "summary": "",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "如何看待ETH（指数时间猜想）猜想被OpenAI证伪？",
+       "url": "https://www.zhihu.com/question/2098291700204622696",
+       "summary": "3-SAT问题可以在subexponential时间内解决https://openai.com/index/building-scientific-understanding-with-academic-communit…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "徽剑因举报柬埔寨电诈大佬遭买凶遇害",
+       "url": "https://www.baidu.com/s?wd=%E5%BE%BD%E5%89%91%E5%9B%A0%E4%B8%BE%E6%8A%A5%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%A4%A7%E4%BD%AC%E9%81%AD%E4%B9%B0%E5%87%B6%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "自媒体人徽剑本名吴恺，因公开举报柬埔寨电诈大佬刘忍，2024年11月遭买凶劫持、殴打后身亡，遗体被弃于赣州山林。刘忍已于今年6月被押解回国。",
+       "time": "",
+       "hot": "780.84w"
+      },
+      {
+       "title": "73名省部级及以上干部被立案",
+       "url": "https://www.baidu.com/s?wd=73%E5%90%8D%E7%9C%81%E9%83%A8%E7%BA%A7%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2026年1至9月，全国纪检监察机关共立案80万件，处分68万人。其中，立案省部级及以上干部73人，处分省部级及以上干部105人。此外，坚持受贿行贿一起查，立案行贿人员2.9万人，移送检察机关3020人。",
+       "time": "",
+       "hot": "771.29w"
+      },
+      {
+       "title": "“看不见的外贸”畅跑全球",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%A4%96%E8%B4%B8%E2%80%9D%E7%95%85%E8%B7%91%E5%85%A8%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "词元出海，是指中国AI大模型企业将电力、算力等优势转化为高性价比词元，并通过API接口向全球提供推理服务，按处理量计费，从而实现算力与电力的“数字化出口”，被称为“看不见的外贸”。一起来看依托算力、词元等落地、发展起来的新应用、新场景，感受…",
+       "time": "",
+       "hot": "761.74w"
+      },
+      {
+       "title": "德国总统抵达安徽开启访华行程",
+       "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "德国总统施泰因迈尔抵达安徽，开启5天国事访问。此为德国总统时隔近8年再次访华，将赴北京与安徽，同中方高层就双边关系等交换意见。",
+       "time": "",
+       "hot": "752.27w"
+      },
+      {
+       "title": "74岁作家沈石溪凌晨还在直播卖书",
+       "url": "https://www.baidu.com/s?wd=74%E5%B2%81%E4%BD%9C%E5%AE%B6%E6%B2%88%E7%9F%B3%E6%BA%AA%E5%87%8C%E6%99%A8%E8%BF%98%E5%9C%A8%E7%9B%B4%E6%92%AD%E5%8D%96%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，74岁作家沈石溪发视频回应“凌晨直播被指出版社压榨”质疑。他称因常年写作养成晚睡习惯，夜间直播能适应且“蛮自在”。此前，其近日凌晨1点直播卖书引发争议，网友质疑出版社压榨虐待老人。",
+       "time": "",
+       "hot": "742.64w"
+      },
+      {
+       "title": "史上最大IPO 史上最亏AI公司",
+       "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO+%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BA%8FAI%E5%85%AC%E5%8F%B8&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "Claude母公司Anthropic递交纳斯达克IPO申请，有望冲击史上最大IPO。其营收爆发增长，但账面巨亏，签下巨额算力订单，招股书还专门警示AI存在失控风险。",
+       "time": "",
+       "hot": "733.09w"
+      },
+      {
+       "title": "凯恩荣膺金球奖 拜仁激动到乱码",
+       "url": "https://www.baidu.com/s?wd=%E5%87%AF%E6%81%A9%E8%8D%A3%E8%86%BA%E9%87%91%E7%90%83%E5%A5%96+%E6%8B%9C%E4%BB%81%E6%BF%80%E5%8A%A8%E5%88%B0%E4%B9%B1%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "拜仁前锋凯恩荣膺金球奖，拜仁俱乐部官推激动地发了一连串乱码……在连续更新多条内容祝贺凯恩夺得金球奖后，拜仁官方社媒账号也更新了简介：“2026年金球奖得主哈里·凯恩的俱乐部”。",
+       "time": "",
+       "hot": "723.19w"
+      },
+      {
+       "title": "被取消演出的大衣哥回家种地",
+       "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%8F%96%E6%B6%88%E6%BC%94%E5%87%BA%E7%9A%84%E5%A4%A7%E8%A1%A3%E5%93%A5%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，大衣哥朱之文因黑粉举报，十几场演出被迫取消，现已回乡种地，他喊话黑粉，指责对方如同老鼠屎。",
+       "time": "",
+       "hot": "713.95w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "Hope AL",
+       "url": "https://s.weibo.com/weibo?q=Hope%20AL",
+       "summary": "",
+       "time": "",
+       "hot": "112.4w"
+      },
+      {
+       "title": "凯恩获2026年金球奖",
+       "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E8%8E%B72026%E5%B9%B4%E9%87%91%E7%90%83%E5%A5%96",
+       "summary": "",
+       "time": "",
+       "hot": "82.9w"
+      },
+      {
+       "title": "数说中国外贸澎湃动能",
+       "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD",
+       "summary": "",
+       "time": "",
+       "hot": "66.8w"
+      },
+      {
+       "title": "金球奖排名",
+       "url": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96%E6%8E%92%E5%90%8D",
+       "summary": "",
+       "time": "",
+       "hot": "65.8w"
+      },
+      {
+       "title": "管泽元回应AL十六强",
+       "url": "https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%9B%9E%E5%BA%94AL%E5%8D%81%E5%85%AD%E5%BC%BA",
+       "summary": "",
+       "time": "",
+       "hot": "65.0w"
+      },
+      {
+       "title": "苏州一超市学习胖东来营业额过亿",
+       "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E5%B7%9E%E4%B8%80%E8%B6%85%E5%B8%82%E5%AD%A6%E4%B9%A0%E8%83%96%E4%B8%9C%E6%9D%A5%E8%90%A5%E4%B8%9A%E9%A2%9D%E8%BF%87%E4%BA%BF",
+       "summary": "",
+       "time": "",
+       "hot": "63.4w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": []
+}
