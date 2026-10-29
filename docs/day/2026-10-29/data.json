@@ -1,0 +1,587 @@
+{
+ "date": "2026-10-29",
+ "weekday": "星期四",
+ "generated_at": "2026-10-29T10:14:36+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "部分日服 PlayStation 玩家反馈自己索尼 PSN 账号被盗，名下多出数个儿童账号",
+       "url": "https://www.ithome.com/1/019/323.htm",
+       "summary": "近期多名日服 PlayStation 玩家在 X 平台发文称，自己的 PSN 账号遭到黑客盗用，账号名下突然多出一系列陌生儿童账号。 据玩家反馈，自己醒来后发现 PS 账号…",
+       "time": "02:07",
+       "hot": ""
+      },
+      {
+       "title": "vivo 启动 OriginOS 7 第二批公测招募：X200、iQOO 13 等 16 款机型在列",
+       "url": "https://www.ithome.com/1/019/321.htm",
+       "summary": "vivo 官方于今日启动 OriginOS 7 第二批公测招募，面向 X 系列、S 系列、iQOO 系列及平板产品线共 16 款机型开放尝鲜申请，用户可在指定窗口期内报名并按申请顺序分批收到升级推送。 招募…",
+       "time": "02:01",
+       "hot": ""
+      },
+      {
+       "title": "“太空观测大礼包”风云三号 H 星、四号 C 星数据产品发布，普通公众也能领取",
+       "url": "https://www.ithome.com/1/019/320.htm",
+       "summary": "中国气象局国家卫星气象中心今日在湖南长沙举办的 2026 年风云卫星用户大会上，发布风云三号 H 星（FY-3H 星）、风云四号 C 星（FY-4C 星）两颗卫星的数据产品。 据介绍， 这份…",
+       "time": "02:01",
+       "hot": ""
+      },
+      {
+       "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+       "url": "https://www.ithome.com/1/019/319.htm",
+       "summary": "近日，《上海市出租汽车条例》公开征求意见。其中提出， 依法有序推动自动驾驶技术在出租汽车行业的安全应用 。交通、公安等部门依法加强指导和服务。 IT之家从《条例》获悉，其中提到，运用大数据、区块链、人工智能…",
+       "time": "02:00",
+       "hot": ""
+      },
+      {
+       "title": "国产 3A 游戏《影之刃零》发售，Steam 国区 268 元起",
+       "url": "https://www.ithome.com/1/019/318.htm",
+       "summary": "国产 3A 游戏《影之刃零》现已正式发售，登陆 PS5 与 PC 平台，国区数字标准版售价 268 元，数字豪华版售价 328 元。PS5 实体光碟将于 2027 年推出。IT之家附游戏商品页（ https…",
+       "time": "01:59",
+       "hot": ""
+      },
+      {
+       "title": "华硕 ROG 幻世神电竞机箱 · 影之刃零版发售，2399 元",
+       "url": "https://www.ithome.com/1/019/317.htm",
+       "summary": "华硕 (ASUS) 即将于今日 10:00 发售 ROG 幻世神电竞机箱 · 影之刃零版。这一型号在常规版本的 Cronox GR801 机箱基础上 引入了角色印花前脸、武器印花侧板、印花拉丝饰条等《影之刃…",
+       "time": "01:58",
+       "hot": ""
+      },
+      {
+       "title": "万代南梦宫“THE GUNDAM BASE MEMBERS”会员系统遭黑客攻击，34 万个用户邮箱地址泄露",
+       "url": "https://www.ithome.com/1/019/316.htm",
+       "summary": "万代南梦宫发布公告，确认旗下“THE GUNDAM BASE MEMBERS”会员系统遭黑客攻击，涉及约 34 万名用户。 万代南梦宫表示，公司于 10 月 26 日接到受委托的网络服务商 Ymir Lin…",
+       "time": "01:55",
+       "hot": ""
+      },
+      {
+       "title": "59.9 公里国内最长地铁环线：武汉地铁 12 号线全线开通、全程约 96 分钟，线路两次下穿长江",
+       "url": "https://www.ithome.com/1/019/315.htm",
+       "summary": "武汉地铁 12 号线全线开通运营。 经中国城市轨道交通协会确认， 这是目前国内最长地铁环线 ，线路全长 59.9 公里，设 37 座地下车站，串联武汉 7 个中心城区，衔…",
+       "time": "01:51",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+       "url": "https://sspai.com/post/117750",
+       "summary": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。",
+       "time": "08:26",
+       "hot": ""
+      },
+      {
+       "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+       "url": "https://sspai.com/post/117725",
+       "summary": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...",
+       "time": "17:37",
+       "hot": ""
+      },
+      {
+       "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
+       "url": "https://sspai.com/post/116990",
+       "summary": "只扔不买是没有用的，穿衣服时不多费心神才是目的。",
+       "time": "15:00",
+       "hot": ""
+      },
+      {
+       "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+       "url": "https://sspai.com/post/115533",
+       "summary": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。",
+       "time": "10:22",
+       "hot": ""
+      },
+      {
+       "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+       "url": "https://sspai.com/post/117684",
+       "summary": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。",
+       "time": "08:37",
+       "hot": ""
+      },
+      {
+       "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+       "url": "https://sspai.com/post/117633",
+       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...",
+       "time": "17:02",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "女子信任 ChatGPT 的用药决策，结果因此猝死",
+       "url": "https://www.solidot.org/story?sid=85737",
+       "summary": "一名住在西雅图的 31 岁华人女子，因依照 ChatGPT 提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。其父母向旧金山高等法院提起不当致死诉讼，控告 OpenAI 及其 CEO Sam Altman，指 ChatGPT 无照行…",
+       "time": "22:46",
+       "hot": ""
+      },
+      {
+       "title": "加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税",
+       "url": "https://www.solidot.org/story?sid=85736",
+       "summary": "统计数据显示，至少 30 位加州亿万富翁累计投入逾 2.93 亿美元反对亿万富翁税。亿万富翁税将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很…",
+       "time": "22:23",
+       "hot": ""
+      },
+      {
+       "title": "天文学家在柯伊伯带发现一颗巨大的矮行星候选天体",
+       "url": "https://www.solidot.org/story?sid=85735",
+       "summary": "2025 年 6 月正式启动观测的 Vera C. Rubin 天文台其任务之一是绘制太阳系内小天体地图，尤其是柯伊伯带天体。现在天文学家报告利用天文台的观测设备在柯伊伯带发现了一颗巨大的矮行星候选天体。矮行星是指不完全符合行星定义但也不是…",
+       "time": "22:09",
+       "hot": ""
+      },
+      {
+       "title": "生育后不久再次分娩可能加速衰老",
+       "url": "https://www.solidot.org/story?sid=85734",
+       "summary": "哈佛医学院、麻总百瀚的科学家探讨了妊娠与生物衰老之间的关联。研究者提出假设：若妊娠间隔过短，身体可能缺乏足够的恢复时间，从而导致与生物衰老相关的变化不断累积。研究者提出，两次妊娠之间的恢复时间最终可能影响母亲的长期健康。间隔较短的反复妊娠可…",
+       "time": "18:50",
+       "hot": ""
+      },
+      {
+       "title": "游戏行业缺乏专门为女性打造的游戏",
+       "url": "https://www.solidot.org/story?sid=85732",
+       "summary": "模拟服装制作的游戏《针影裁梦（Dressmaker）》于 9 月 21 日发售，一个月后在 Steam 平台玩家留下了逾 1.7 万评论，好评率 98%，同时在线玩家人数稳定在 1.5 万以上，对于一款小型独游而言称得上现象级了。游戏主要开…",
+       "time": "18:31",
+       "hot": ""
+      },
+      {
+       "title": "尼安德特人发生了什么？",
+       "url": "https://www.solidot.org/story?sid=85731",
+       "summary": "在人类演化史的大部分时间里，地球同时存在多个人种。以过去 10 万年为例，尼安德特人曾活跃在欧洲和西亚，丹尼索瓦人生活在亚洲，形似霍比特人的弗洛勒斯人（Homo floresiensis）居住在印尼的弗洛勒斯岛，爪哇岛上最后的直立人刚刚灭绝…",
+       "time": "16:51",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+       "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri…",
+       "time": "07:05",
+       "hot": ""
+      },
+      {
+       "title": "A hacker stole more than 40,000 DHS employee records",
+       "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+       "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the na…",
+       "time": "06:01",
+       "hot": ""
+      },
+      {
+       "title": "Google says its investments in AI are driving more searches",
+       "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+       "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as n…",
+       "time": "05:50",
+       "hot": ""
+      },
+      {
+       "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+       "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+       "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cook…",
+       "time": "05:34",
+       "hot": ""
+      },
+      {
+       "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+       "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+       "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise,…",
+       "time": "05:16",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Apple's git still trusts the compromised eMudhra certificates",
+       "url": "https://emudhra.we-have-a-problem.com/apple.html",
+       "summary": "",
+       "time": "19:03",
+       "hot": "1048 分 · 378 评论"
+      },
+      {
+       "title": "Why is this fingerprinting script creating bioweapons?",
+       "url": "https://nullpt.rs/fingerprinting-bioweapons",
+       "summary": "",
+       "time": "01:13",
+       "hot": "867 分 · 187 评论"
+      },
+      {
+       "title": "Gemini 4 Carbon",
+       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+       "summary": "",
+       "time": "01:01",
+       "hot": "812 分 · 674 评论"
+      },
+      {
+       "title": "Start Doing Graph Theory",
+       "url": "https://vertex.degree/",
+       "summary": "",
+       "time": "21:49",
+       "hot": "586 分 · 128 评论"
+      },
+      {
+       "title": "MacBook Pro with PROLED XDR Display and Touch",
+       "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+       "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...",
+       "time": "01:10",
+       "hot": "504 分 · 863 评论"
+      },
+      {
+       "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+       "url": "https://www.circuithub.com/post/unveiling-the-grid",
+       "summary": "",
+       "time": "21:13",
+       "hot": "427 分 · 203 评论"
+      },
+      {
+       "title": "Emacs Turns 50",
+       "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+       "summary": "",
+       "time": "21:25",
+       "hot": "419 分 · 177 评论"
+      },
+      {
+       "title": "CNC Stone Carving",
+       "url": "https://carmelitegothic.com/cnc-stone-carving/",
+       "summary": "",
+       "time": "22:38",
+       "hot": "406 分 · 118 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "JetBrains/thinkrail",
+       "url": "https://github.com/JetBrains/thinkrail",
+       "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Nee…",
+       "time": "",
+       "hot": "TypeScript · +1,068 stars today"
+      },
+      {
+       "title": "elayadesign/ai-design-skills",
+       "url": "https://github.com/elayadesign/ai-design-skills",
+       "summary": "",
+       "time": "",
+       "hot": "+2,139 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +1,095 stars today"
+      },
+      {
+       "title": "HKUDS/DeepTutor",
+       "url": "https://github.com/HKUDS/DeepTutor",
+       "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+       "time": "",
+       "hot": "Python · +2,371 stars today"
+      },
+      {
+       "title": "macro-inc/macro",
+       "url": "https://github.com/macro-inc/macro",
+       "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together w…",
+       "time": "",
+       "hot": "Rust · +117 stars today"
+      },
+      {
+       "title": "Nutlope/hallmark",
+       "url": "https://github.com/Nutlope/hallmark",
+       "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+       "time": "",
+       "hot": "CSS · +2,110 stars today"
+      },
+      {
+       "title": "pbakaus/impeccable",
+       "url": "https://github.com/pbakaus/impeccable",
+       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, cat…",
+       "time": "",
+       "hot": "Rust · +1,472 stars today"
+      },
+      {
+       "title": "makecindy/cindy",
+       "url": "https://github.com/makecindy/cindy",
+       "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+       "time": "",
+       "hot": "TypeScript · +728 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+       "url": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:58",
+       "hot": ""
+      },
+      {
+       "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+       "url": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:55",
+       "hot": ""
+      },
+      {
+       "title": "告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+       "url": "https://www.infoq.cn/article/ii1qFkWaDFZudHSL1lIM?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:30",
+       "hot": ""
+      },
+      {
+       "title": "优化软件工作流：探索技术带来的根本性影响",
+       "url": "https://www.infoq.cn/article/QDQLUs4cCqLqC9WlvAyY?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:11",
+       "hot": ""
+      },
+      {
+       "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
+       "url": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "08:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "美国各界热议「要不要对中国车开放」，若放宽准入会对美本土汽车产业带来哪些冲击？",
+       "url": "https://www.zhihu.com/question/2089754502639502079",
+       "summary": "‌9月中旬‌，‌美国总统特朗普‌表态欢迎‌中国车企赴美建厂‌。美国‌跨党派议员‌及‌本土汽车业界‌联名施压，以‌国家安全‌为由要求维持对华限制，‌准入博弈‌升温。 美国各界热议“要不要对中国车开放”",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "小天才手表封闭社交引争议，不买真会被孤立吗？如何看待这种现象？",
+       "url": "https://www.zhihu.com/question/2095919151252620802",
+       "summary": "社交围墙能顺利拆掉吗？ 给孩子挑儿童手表，多数家长的初衷都很朴素。 能定位、能通话，上下学能随时联系上，就够了。 没人会想到，这件本该服务于安全的工具，有一天会变成孩童社交圈的入场券。 话题#小天才封闭社交倒逼家长购买#…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "张雪现身重庆大学校招，承诺「大部分员工入职一年后涨薪 20% 」，你怎么看？",
+       "url": "https://www.zhihu.com/question/2098401754257928731",
+       "summary": "张雪机车来到重庆大学进行校园招聘，公司创始人张雪登台进行了演讲。多位现场网友发布的视频显示，张雪这次演讲的主题是「致敬未来——风浪越大鱼越贵」。 网友们发布的视频显示，张雪现场用 PPT 介绍了应…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "百家中资网贷出海印度亏损 70 亿退场，导致这一溃败的核心原因是什么？",
+       "url": "https://www.zhihu.com/question/2098323820520260042",
+       "summary": "印度人狂借网贷不还！中资网贷出海六年，百家中资平台亏70亿退场。印度修手机的拉杰什，从一款中资网贷App上借了8000卢比。钱到账5分钟，他换了个手机号，把App删了。催收电话打到他通讯录里的朋友那儿，朋友问的第一句话是…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "为什么都是汽车行业，外国汽车行业发展的时候，供应商过得挺好，国内汽车行业发展了，供应商变得这么难？",
+       "url": "https://www.zhihu.com/question/12570275372",
+       "summary": "国内拼命内卷的意义到底是什么，这样只能让国内大循环越来越难",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "云南腾冲据传一辣椒厂发生火灾致全城人咳嗽，具体情况如何？对环境和居民健康有何影响？后续责任如何判定？",
+       "url": "https://www.zhihu.com/question/2098098020118160727",
+       "summary": "多名网友称云南腾冲“全城人都在咳嗽”，引发网友关注。评论区中，不少云南IP网友称，此事与当地一家辣椒厂有关。 据悉，有云南IP网友与网上发出一张通知截图，称全城存在异味气体，系一处…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "怎样看待上海一小区多名幼童裸体在公共区域跑动，妈妈称管不住？父母这种「不作为」需要承担法律责任吗？",
+       "url": "https://www.zhihu.com/question/2098856386176054045",
+       "summary": "近日，有网友爆料称，上海闵行区一小区内，一租户家中的多名幼童，几乎天天赤身裸体在小区及楼道内跑动。 10月27日，潮新闻记者联系到该小区住户刘先生，他表示上周日（10月25日）自己亲眼见到该状况后选择了报警，此后民警反复…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "如果现代考古不再主动发掘帝王大墓，长远来看，是保护了历史，还是丢失了解读文明的机会？",
+       "url": "https://www.zhihu.com/question/2093434226444068636",
+       "summary": "现在国内考古的原则基本是不主动发掘帝王陵，除非基建、被盗等抢救性发掘。 有人觉得地下是最好的保存环境，留给未来技术更好的时候；也有人觉得很多文献记载模糊，陵墓里的实物证据，可能一辈子都等不到出土。 想问问大家：站在考古的…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "三丽鸥致歉",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%BD%E9%B8%A5%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "三丽鸥官方发布声明，就与日剧《VIVANT》联名商品引发争议致歉，宣布终止该联名及后续项目，表示相关内容与企业理念不符。此前，日剧《VIVANT》第二季严重抹黑中国，刻意制造对立、煽动敌意。",
+       "time": "",
+       "hot": "780.9w"
+      },
+      {
+       "title": "特大暴雪暴雨！新一轮冷空气将来袭",
+       "url": "https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%96%B0%E4%B8%80%E8%BD%AE%E5%86%B7%E7%A9%BA%E6%B0%94%E5%B0%86%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "10月底新一轮冷空气来袭，10月31日至11月2日中东部大部降温4℃至8℃，南方局地超10℃。受孟加拉湾风暴影响，西藏南部将出现强降雪，局地特大暴雪，易引发次生灾害。",
+       "time": "",
+       "hot": "771.37w"
+      },
+      {
+       "title": "全面从严治党为世界提供重要借鉴",
+       "url": "https://www.baidu.com/s?wd=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E9%87%8D%E8%A6%81%E5%80%9F%E9%89%B4&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "国际人士持续关注中国共产党二十届五中全会，认为持之以恒推进全面从严治党，展现了中国共产党强大的组织力、执行力和生命力，不仅是中国取得巨大发展成就的关键保障，也为世界政党治理提供了重要借鉴。",
+       "time": "",
+       "hot": "761.87w"
+      },
+      {
+       "title": "“高盐刺客”就在你的餐桌上",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E7%9B%90%E5%88%BA%E5%AE%A2%E2%80%9D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E7%9A%84%E9%A4%90%E6%A1%8C%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "餐桌上暗藏不少 “高盐刺客”，有些食物吃起来并不咸，隐形钠含量却超标，容易让人饭后口渴、隔天浮肿。其实控钠不等于只少放炒菜盐，挂面、面包、即食麦片等都可能藏钠。长期高钠危害多，成人每日食盐建议不超5克。",
+       "time": "",
+       "hot": "752.27w"
+      },
+      {
+       "title": "西媒就姆巴佩闯下大祸算了笔账",
+       "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AA%92%E5%B0%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%97%AF%E4%B8%8B%E5%A4%A7%E7%A5%B8%E7%AE%97%E4%BA%86%E7%AC%94%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，西班牙《世界报》就姆巴佩涉华错误言论算了笔账，称其动摇了西甲根基。西甲急忙致歉，因中国是其重要海外市场，本赛季刚签下4季1520场转播协议。皇马持姆巴佩20%肖像权，其国际商品收入15%来自中国，权益亦受损。",
+       "time": "",
+       "hot": "742.44w"
+      },
+      {
+       "title": "小伙结婚邀网友撑场面 来了数千人",
+       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%93%E5%A9%9A%E9%82%80%E7%BD%91%E5%8F%8B%E6%92%91%E5%9C%BA%E9%9D%A2+%E6%9D%A5%E4%BA%86%E6%95%B0%E5%8D%83%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "截至10月28日中午，小伙小小徐的婚礼已吸引两三千人赶到现场，有人拉来整头猪与大冰柜。此前，小小徐发视频邀请网友来婚礼凑热闹，因大家热情远超想象且原场地狭小存隐患，在当地政府协调下，婚礼更换至文化广场举行。",
+       "time": "",
+       "hot": "732.94w"
+      },
+      {
+       "title": "创业板指跌逾3% 全市场超4400股下跌",
+       "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE3%25+%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854400%E8%82%A1%E4%B8%8B%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "创业板指跌逾3%，上证指数跌0.75%，深证成指跌1.89%。沪深京三市下跌个股超4400只。",
+       "time": "",
+       "hot": "723.54w"
+      },
+      {
+       "title": "香氛 年轻人的“情绪搭子”",
+       "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B0%9B+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E2%80%9C%E6%83%85%E7%BB%AA%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "今年上半年，受年轻人将香氛作为“情绪搭子”的消费趋势带动，传统香产业快速增长。福建永春香产业全产业链产值突破百亿元，今年前5个月溯源直播GMV同比增长461%。",
+       "time": "",
+       "hot": "714.31w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "三丽鸥致歉",
+       "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%B8%BD%E9%B8%A5%E8%87%B4%E6%AD%89",
+       "summary": "",
+       "time": "",
+       "hot": "164.7w"
+      },
+      {
+       "title": "影之刃零",
+       "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6",
+       "summary": "",
+       "time": "",
+       "hot": "92.3w"
+      },
+      {
+       "title": "第140届广交会第二期圆满收官",
+       "url": "https://s.weibo.com/weibo?q=%E7%AC%AC140%E5%B1%8A%E5%B9%BF%E4%BA%A4%E4%BC%9A%E7%AC%AC%E4%BA%8C%E6%9C%9F%E5%9C%86%E6%BB%A1%E6%94%B6%E5%AE%98",
+       "summary": "",
+       "time": "",
+       "hot": "75.3w"
+      },
+      {
+       "title": "管泽元宁王看iG晋级S16八强",
+       "url": "https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AE%81%E7%8E%8B%E7%9C%8BiG%E6%99%8B%E7%BA%A7S16%E5%85%AB%E5%BC%BA",
+       "summary": "",
+       "time": "",
+       "hot": "66.6w"
+      },
+      {
+       "title": "曝有皇马高管甚至在看笑话",
+       "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9C%89%E7%9A%87%E9%A9%AC%E9%AB%98%E7%AE%A1%E7%94%9A%E8%87%B3%E5%9C%A8%E7%9C%8B%E7%AC%91%E8%AF%9D",
+       "summary": "",
+       "time": "",
+       "hot": "58.9w"
+      },
+      {
+       "title": "现在就出发",
+       "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91",
+       "summary": "",
+       "time": "",
+       "hot": "44.4w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
