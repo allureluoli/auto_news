@@ -1,0 +1,601 @@
+{
+ "date": "2026-10-30",
+ "weekday": "星期五",
+ "generated_at": "2026-10-30T10:28:39+08:00",
+ "brief": {
+  "date": "2026-10-30",
+  "tip": "日子有起落本是常态，跌倒不可怕，可怕的是躺在原地，放弃起身的勇气",
+  "items": [
+   "新一轮冷空气来袭：10 月 31 日至 11 月 2 日中东部大部降温 4℃至 8℃，南方局地降温超 10℃",
+   "福建多地公布秋假时间：假期集中在 11 月中下旬至 12 月初，基础假期 3 天，衔接周末可连休 5 天",
+   "油价 30 日起上调，发改委再次实施调控，汽油每吨少涨 95 元，加满一箱油多花 13.5 元",
+   "多地以旧换新补贴上新：智能门锁、运动相机、助听器等纳入范围，最高补贴 2000 元",
+   "AI 模特 “攻占” 双十一：AI 标注 “隐形” 真假难辨，生成图价格不到实拍图四分之一",
+   "红果成为国内第四大 App，日活超过腾讯视频、爱奇艺、优酷和芒果 TV 四家之和",
+   "31 省份居民 “花钱” 数据出炉：上海人均花 54765 元居首，北京破 5 万，浙江、江苏、广东、天津、福建均超 3 万",
+   "前三季度我国跨区域人员流动量 512.2 亿人次，同比增长 1.2%；营业性货运量 430.4 亿吨，同比增长 2.3%",
+   "银行、保险等红利股逆势走强，国有四大行总市值历史首次突破 10 万亿元",
+   "“国家队” 三季度持仓浮现，社保基金新进 103 家 A 股公司，杭州银行获险资重仓 94 亿",
+   "美联储宣布维持利率在 3.75% 至 4% 不变，明年起将减少议息会议频次",
+   "美国 CDC 入境新规：11 月 3 日起所有赴美人员登机前必须签署健康声明，未签署者将被拒绝登机",
+   "荷兰拟未来 10 年内用 AI 取代 2.5 万公务员岗位，目标节省 35 亿欧元，被学界批评 “一刀切”",
+   "俄方称俄美乌三方会谈将于 11 月 4 日后在阿布扎比举行，欧盟国家未获邀请参会",
+   "英国宣布将向乌克兰追加 100 亿英镑援助，并称英国 “永远与乌克兰站在一起”"
+  ]
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "机械师曙光 PRO 整机“星舰白”配色发售：水冷 MoDT，低至 10499 元",
+       "url": "https://www.ithome.com/1/019/920.htm",
+       "summary": "机械师 (MACHENIKE) 现已开始销售水冷 MoDT 整机曙光 PRO 的“星舰白”配色款式。 其基于英特尔酷睿 i9-14900HX 处理器。NVIDIA GeForce RTX 5060 Ti 款…",
+       "time": "02:27",
+       "hot": ""
+      },
+      {
+       "title": "消息称北京现代首个中国籍总经理李凤刚将离任，中韩股东双方在发展路径有分歧",
+       "url": "https://www.ithome.com/1/019/917.htm",
+       "summary": "北京现代总经理李凤刚将于 11 月 1 日正式离任。10 月 30 日，北京现代内部人士确认了李凤刚即将离任一事。 2025 年 11 月 10 日，李凤刚出任北京现代总经理，成为这家 20…",
+       "time": "02:27",
+       "hot": ""
+      },
+      {
+       "title": "科大讯飞回应高管薪资质疑：董事长、总裁主动降薪，双双少领超 2000 万",
+       "url": "https://www.ithome.com/1/019/912.htm",
+       "summary": "近期有投资者就公司高管薪酬集体上涨与同行接轨等问题，在互动平台向科大讯飞提问：“ 2026 年集团高管集体涨薪依据是啥？是公司经营业绩达标了还是其他什么原因？跟华为，商汤等公司 CEO 待遇接轨？请问带领公…",
+       "time": "02:23",
+       "hot": ""
+      },
+      {
+       "title": "小米米家车载吸尘器便携版开售：20000Pa 大吸力，售价 269 元",
+       "url": "https://www.ithome.com/1/019/909.htm",
+       "summary": "小米米家车载吸尘器便携版已开售，售价 269 元，此前众筹价为 189 元。作为一款主打“强劲吸净、折叠随行”的车载清洁新品，该产品凭借 20000Pa 大吸力、轻巧折叠机身与丰富配件，瞄准车内及日常多场景…",
+       "time": "02:22",
+       "hot": ""
+      },
+      {
+       "title": "OpenAI 更新 AI 模型规范，将忠于人类意图作为核心准则",
+       "url": "https://www.ithome.com/1/019/898.htm",
+       "summary": "OpenAI 于当地时间周四更新了其模型规范（Model Spec）文档，这是一份用于明确其 AI 模型行为准则的公开路线图。随着 AI 系统能力持续增强，OpenAI 围绕五大核心价值对该框架进行了重构。…",
+       "time": "02:16",
+       "hot": ""
+      },
+      {
+       "title": "腾讯云：全球已部署超 200 万台服务器",
+       "url": "https://www.ithome.com/1/019/896.htm",
+       "summary": "在昨日（29 日）举行的腾讯全球数字生态大会上，腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生表示， 会加快全球数据中心建设 。 据介绍，腾讯云海外开区速度长期保持行业领先， 全球已部署超过 2…",
+       "time": "02:16",
+       "hot": ""
+      },
+      {
+       "title": "迈从 GT 75 全铝磁轴键盘全款预售：机能美学，到手价 629 元起",
+       "url": "https://www.ithome.com/1/019/894.htm",
+       "summary": "迈从 (MCHOSE) 现已启动 GT 75 全铝磁轴键盘的线上全款预售。其采用机能美学设计， 支持 16kHz 回报率 ，可选山海磁轴 / 极岳泰山磁轴，双版本到手价分别为 629 / 729 元。 GT…",
+       "time": "02:15",
+       "hot": ""
+      },
+      {
+       "title": "小米澎湃 OS 4 第二批正式版开启推送，覆盖小米 17 Max、17T 系列等机型",
+       "url": "https://www.ithome.com/1/019/891.htm",
+       "summary": "小米澎湃 OS 官方宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型将从即日起开始陆续推送。 手机 Xiaomi 17 Max Xiaomi 17T Pro Xiaomi 17T REDMI…",
+       "time": "02:11",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+       "url": "https://sspai.com/post/117827",
+       "summary": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。",
+       "time": "08:13",
+       "hot": ""
+      },
+      {
+       "title": "新玩意 254｜少数派的编辑们最近买了啥？",
+       "url": "https://sspai.com/post/117791",
+       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...",
+       "time": "17:26",
+       "hot": ""
+      },
+      {
+       "title": "如何成为不吃压力的「大心脏」？",
+       "url": "https://sspai.com/post/117244",
+       "summary": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论",
+       "time": "17:05",
+       "hot": ""
+      },
+      {
+       "title": "让 Agent 读懂你的身体：数据处理篇",
+       "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+       "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自…",
+       "time": "11:29",
+       "hot": ""
+      },
+      {
+       "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+       "url": "https://sspai.com/post/116686",
+       "summary": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+       "url": "https://sspai.com/post/117750",
+       "summary": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。",
+       "time": "08:26",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "Google AI 搜索产生的收入低于传统搜索",
+       "url": "https://www.solidot.org/story?sid=85748",
+       "summary": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5%…",
+       "time": "23:19",
+       "hot": ""
+      },
+      {
+       "title": "研究发现非英语的 token 成本更高",
+       "url": "https://www.solidot.org/story?sid=85747",
+       "summary": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本…",
+       "time": "23:10",
+       "hot": ""
+      },
+      {
+       "title": "以色列耶路撒冷爆发麻疹疫情",
+       "url": "https://www.solidot.org/story?sid=85746",
+       "summary": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数都是5 岁以下未接种儿童，有多人死亡。耶路撒冷是以色列最大城市，2025 年人口约为 100 万…",
+       "time": "22:57",
+       "hot": ""
+      },
+      {
+       "title": "乌鸦视觉决策速度两倍于人类",
+       "url": "https://www.solidot.org/story?sid=85745",
+       "summary": "德国蒂宾根大学开展的一项新研究显示，在进行视觉选择任务时，乌鸦的决策速度约为人类和猴子等灵长类动物的两倍。实验中，两只小嘴乌鸦平均只需 235 毫秒即可识别屏幕上点阵的运动方向并作出选择，同时保持较高准确率。为探究其机制，团队记录了乌鸦大脑…",
+       "time": "18:31",
+       "hot": ""
+      },
+      {
+       "title": "全球最富有 0.1% 人口产生的碳污染超过全球最贫困 35 亿人口的总和",
+       "url": "https://www.solidot.org/story?sid=85744",
+       "summary": "根据乐施会（Oxfam）的一份报告，全球最富有 0.1% 人口_——大约 800 万人——产生的碳污染超过全球最贫困 35 亿人口的总和。报道敦促各国政府让富有的污染者承担代价。报告称，富人对今天极端热浪的贡献几乎是最贫困的 50% 人口中…",
+       "time": "18:22",
+       "hot": ""
+      },
+      {
+       "title": "美国肯塔基男子成为首位以宗教理由豁免使用 AI 的人文主义者",
+       "url": "https://www.solidot.org/story?sid=85743",
+       "summary": "45 岁的 David Durman 是肯塔基大学的研究管理员，作为人文主义者（humanist）他坚信生活中人的重要性。这意味着他要坚持自主决策，确保自己的工作能促进他人成长。当学校要求员工在工作流程中使用 AI 他忧心忡忡，认为这意味着…",
+       "time": "17:13",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "The director of Obsession put a new horror short on YouTube",
+       "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+       "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short…",
+       "time": "07:57",
+       "hot": ""
+      },
+      {
+       "title": "Intel says it’s selling every affordable laptop chip it can make",
+       "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+       "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outst…",
+       "time": "07:48",
+       "hot": ""
+      },
+      {
+       "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+       "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+       "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic t…",
+       "time": "06:25",
+       "hot": ""
+      },
+      {
+       "title": "Patrick Stewart has died at age 86",
+       "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+       "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Inst…",
+       "time": "04:19",
+       "hot": ""
+      },
+      {
+       "title": "Reddit will force everyone to log in",
+       "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+       "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit witho…",
+       "time": "04:13",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Patrick Stewart has died",
+       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+       "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart",
+       "time": "03:41",
+       "hot": "2462 分 · 521 评论"
+      },
+      {
+       "title": "We're releasing the weights of Mistral Large 4",
+       "url": "https://mistral.ai/news/mistral-large-4-oss/",
+       "summary": "",
+       "time": "22:13",
+       "hot": "1219 分 · 341 评论"
+      },
+      {
+       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+       "summary": "",
+       "time": "05:38",
+       "hot": "774 分 · 453 评论"
+      },
+      {
+       "title": "DoorDash to acquire Instacart",
+       "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+       "summary": "",
+       "time": "20:33",
+       "hot": "432 分 · 605 评论"
+      },
+      {
+       "title": "LLM Voice",
+       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+       "summary": "",
+       "time": "22:57",
+       "hot": "355 分 · 181 评论"
+      },
+      {
+       "title": "H.264 Is Magic (2016)",
+       "url": "https://sidbala.com/h-264-is-magic/",
+       "summary": "",
+       "time": "23:53",
+       "hot": "340 分 · 125 评论"
+      },
+      {
+       "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+       "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+       "summary": "",
+       "time": "18:42",
+       "hot": "294 分 · 145 评论"
+      },
+      {
+       "title": "If IPv4 were land",
+       "url": "https://iptrust.co/blog/if-ipv4-were-land",
+       "summary": "",
+       "time": "20:19",
+       "hot": "238 分 · 325 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "HKUDS/DeepTutor",
+       "url": "https://github.com/HKUDS/DeepTutor",
+       "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+       "time": "",
+       "hot": "Python · +1,930 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +1,034 stars today"
+      },
+      {
+       "title": "pbakaus/impeccable",
+       "url": "https://github.com/pbakaus/impeccable",
+       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, cat…",
+       "time": "",
+       "hot": "Rust · +2,870 stars today"
+      },
+      {
+       "title": "JetBrains/thinkrail",
+       "url": "https://github.com/JetBrains/thinkrail",
+       "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Nee…",
+       "time": "",
+       "hot": "TypeScript · +1,117 stars today"
+      },
+      {
+       "title": "milind-soni/OpenMausBot",
+       "url": "https://github.com/milind-soni/OpenMausBot",
+       "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+       "time": "",
+       "hot": "TypeScript · +1,199 stars today"
+      },
+      {
+       "title": "nightly-labs/openbot",
+       "url": "https://github.com/nightly-labs/openbot",
+       "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated worksp…",
+       "time": "",
+       "hot": "TypeScript · +709 stars today"
+      },
+      {
+       "title": "elayadesign/ai-design-skills",
+       "url": "https://github.com/elayadesign/ai-design-skills",
+       "summary": "",
+       "time": "",
+       "hot": "+1,187 stars today"
+      },
+      {
+       "title": "thedotmack/claude-mem",
+       "url": "https://github.com/thedotmack/claude-mem",
+       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, comp…",
+       "time": "",
+       "hot": "TypeScript · +336 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+       "url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:04",
+       "hot": ""
+      },
+      {
+       "title": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+       "url": "https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+       "url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:23",
+       "hot": ""
+      },
+      {
+       "title": "Java 近期资讯：JDK 28 JEP、Azul Payara、Gatherers4j、Google ADK、Yupiik 与 Apache Camel CVE",
+       "url": "https://www.infoq.cn/article/dfj1fLfP8iVLKFtEfr69?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "08:00",
+       "hot": ""
+      },
+      {
+       "title": "启元 CEO 田华：启元机器人接入WorkBuddy，不仅看见你的世界，还能走得到你身边",
+       "url": "https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "20:22",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "如何看待红果短剧跃升为国内第四大app？它瓜分了谁的市场？",
+       "url": "https://www.zhihu.com/question/2099125476149274126",
+       "summary": "红果短剧跃升为国内第四大app（时长）仅次于微信和两个抖音，那么如何其的快速发展，短剧平台的兴起是否瓜分了哔站，快手，抖音等视频平台的蛋糕，此外短剧中不少是ai短剧，是否也触碰了真人创作者诸如哔站百大为首以及背后的摄像工…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "如何看待中科大给学生提供每天一亿的token额度？",
+       "url": "https://www.zhihu.com/question/2098940094346433079",
+       "summary": "是真的吗？ 读好书来科大，每天都发一个亿！ 嗨 每一位“科大人” 属于中国科大独有的校园浪漫来啦 每天一个亿的Token 让你的AI专属算力“拉满弓” 零费用｜无门槛｜每日重置 开学第一天，就能拥有专属“AI智囊团” 比…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "你认为影之刃零能达到黑猴的热度吗？",
+       "url": "https://www.zhihu.com/question/2098507381420319426",
+       "summary": "我只想说，影境美学牛逼，91梁其伟老先生牛逼，国单牛逼，影之刃零牛逼，魂大人牛逼。",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "为何日式搬家这种标榜「极致体面」的高端服务，最终却让打工人陷入了「花钱买罪受」的狼狈？",
+       "url": "https://www.zhihu.com/question/2096916402720478019",
+       "summary": "上万元的日式搬家依然要“避雷”？行业鱼龙混杂，缺乏统一标准 - 每日人物的文章 - 知乎 上万元的日式搬家依然要“避雷”？行业鱼龙混杂，缺乏统一标准",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "如何评价开拓者官方已执行杨瀚森 486 万美元的 27-28 赛季球队选项？",
+       "url": "https://www.zhihu.com/question/2099389878379213233",
+       "summary": "开拓者官方宣布，球队已执行杨瀚森和克林根新秀合同中2027-28赛季的球队选项。 杨瀚森是2025年的16号秀，本赛季是小杨的NBA生涯第二个赛季，他的薪资为464万美元，2027-28赛季的薪资486万美…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "女孩恳请学校取消周日返校，称其带来严重焦虑，甚至影响周六，学校应该取消吗？周日返校有什么意义？",
+       "url": "https://www.zhihu.com/question/2098745060527432814",
+       "summary": "最近，关于东莞中小学返校时间的讨论持续刷屏。不少家长疑惑“新学期要取消周日晚修，统一周一返校吗？” 近日，有市民在阳光热线问政平台发帖《支持学校周日错峰返校反对一刀切周一返校》质疑部分人士过度解读“不得强制提前返校”政策…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "菜鸟驿站为什么那么多转让的？",
+       "url": "https://www.zhihu.com/question/458627547",
+       "summary": "",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "谷歌美股开盘大跌超13%，创历史最大单日跌幅，总市值蒸发5000亿美元，为啥会这样？还会持续下跌吗？",
+       "url": "https://www.zhihu.com/question/2099258545564643597",
+       "summary": "谷歌母公司Alphabet美股开盘大跌，现将跌幅扩大至13%，创其历史上最大单日跌幅，报283美元，市值较前一交易日收盘减少逾5000亿美元。谷歌盘初大跌超13% 创其历史上最大单日跌幅，总市值蒸发50…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "中共中央举行新闻发布会",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "中共中央于10月30日上午10时举行新闻发布会，介绍和解读党的二十届五中全会精神。",
+       "time": "",
+       "hot": "780.9w"
+      },
+      {
+       "title": "“张雪机车”商标终于归“张雪”了",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E2%80%9D%E5%95%86%E6%A0%87%E7%BB%88%E4%BA%8E%E5%BD%92%E2%80%9C%E5%BC%A0%E9%9B%AA%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "重庆知识产权局披露“ZXMOTO”等核心商标完成注册，权利人为重庆张雪机车工业有限公司。此前张雪于2024年4月创立品牌并提前申请商标，2025年5月无锡及佛山公司抢注。",
+       "time": "",
+       "hot": "771.21w"
+      },
+      {
+       "title": "征途之上",
+       "url": "https://www.baidu.com/s?wd=%E5%BE%81%E9%80%94%E4%B9%8B%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "读懂中国，首先要读懂中国共产党。10月26日至29日党的二十届五中全会在北京召开，研究持之以恒推进全面从严治党若干重大问题。今日之中国是世界之中国，中国共产党将同一切进步力量一道推动构建人类命运共同体，共同开创人类更加美好的明天。",
+       "time": "",
+       "hot": "761.63w"
+      },
+      {
+       "title": "西班牙华人女子因赖床错过事故列车",
+       "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%90%E5%9B%A0%E8%B5%96%E5%BA%8A%E9%94%99%E8%BF%87%E4%BA%8B%E6%95%85%E5%88%97%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "当地时间10月28日，西班牙国家铁路公司的一辆AVE高速列车追尾一辆Lryo列车。多位正在西班牙的同胞，讲述了事故后的经历与出行困境，其中一位华人女子因赖床错过该事故列车。",
+       "time": "",
+       "hot": "752.33w"
+      },
+      {
+       "title": "长斑的鸡蛋到底能不能吃",
+       "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%96%91%E7%9A%84%E9%B8%A1%E8%9B%8B%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E5%90%83&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "《生命时报》发文解读长斑鸡蛋能否食用。蛋壳分散小褐点为色素沉积，不能吃；半透明水印状斑点因新鲜度下降，尽快吃；蛋黄红点或黑粒为生理出血，挑着吃；蛋壳有黑绿霉点或裂纹，霉菌或进入蛋内，千万别吃。",
+       "time": "",
+       "hot": "742.57w"
+      },
+      {
+       "title": "小小徐婚礼车队堵了一公里",
+       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%B0%8F%E5%BE%90%E5%A9%9A%E7%A4%BC%E8%BD%A6%E9%98%9F%E5%A0%B5%E4%BA%86%E4%B8%80%E5%85%AC%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "云南“小小徐”邀网友参加婚礼，记者已抵达现场：婚车队伍拥堵长达一公里，湘J、贵A、浙G、川M、闽C、粤V……各地网友赶来，拉起横幅贺喜。",
+       "time": "",
+       "hot": "732.9w"
+      },
+      {
+       "title": "创业板指低开3.29% 新易盛跌超10%",
+       "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%803.29%25+%E6%96%B0%E6%98%93%E7%9B%9B%E8%B7%8C%E8%B6%8510%25&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "A股开盘，上证指数跌1.25%，深证成指跌2.4%，创业板指跌3.29%。CPO板块低开，鸿远电子、振邦智能跌停，天孚通信、新易盛、长盈通等股低开超10%。",
+       "time": "",
+       "hot": "723.25w"
+      },
+      {
+       "title": "河南景区水上女飞人帅出圈",
+       "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%99%AF%E5%8C%BA%E6%B0%B4%E4%B8%8A%E5%A5%B3%E9%A3%9E%E4%BA%BA%E5%B8%85%E5%87%BA%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，河南宝泉景区出现水上女飞人，其单手轻松抱起女游客引发关注。该女飞人表示，游客超一点体重没关系，但请优先考虑自身安全，超太多有掉水概率。她臂力与核心力量很强，“公主抱”男生也不在话下。",
+       "time": "",
+       "hot": "714.17w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "金价暴跌消费者发声",
+       "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0",
+       "summary": "",
+       "time": "",
+       "hot": "104.6w"
+      },
+      {
+       "title": "A股科技股估值进入相对低位",
+       "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E4%BC%B0%E5%80%BC%E8%BF%9B%E5%85%A5%E7%9B%B8%E5%AF%B9%E4%BD%8E%E4%BD%8D",
+       "summary": "",
+       "time": "",
+       "hot": "77.8w"
+      },
+      {
+       "title": "全面从严治党是全党的共同责任",
+       "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E6%98%AF%E5%85%A8%E5%85%9A%E7%9A%84%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB",
+       "summary": "",
+       "time": "",
+       "hot": "60.8w"
+      },
+      {
+       "title": "孩子不吃饭医生点肯德基找原因",
+       "url": "https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%90%83%E9%A5%AD%E5%8C%BB%E7%94%9F%E7%82%B9%E8%82%AF%E5%BE%B7%E5%9F%BA%E6%89%BE%E5%8E%9F%E5%9B%A0",
+       "summary": "",
+       "time": "",
+       "hot": "60.3w"
+      },
+      {
+       "title": "369忘了跟Bin碰拳",
+       "url": "https://s.weibo.com/weibo?q=369%E5%BF%98%E4%BA%86%E8%B7%9FBin%E7%A2%B0%E6%8B%B3",
+       "summary": "",
+       "time": "",
+       "hot": "58.2w"
+      },
+      {
+       "title": "八尾",
+       "url": "https://s.weibo.com/weibo?q=%E5%85%AB%E5%B0%BE",
+       "summary": "",
+       "time": "",
+       "hot": "57.6w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": []
+}
