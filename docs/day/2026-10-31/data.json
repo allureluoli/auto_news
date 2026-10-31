@@ -1,0 +1,587 @@
+{
+ "date": "2026-10-31",
+ "weekday": "星期六",
+ "generated_at": "2026-10-31T10:08:10+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "苹果 Apple TV 观看量最高剧集续作，曝《同乐者》第二季今日美国开拍",
+       "url": "https://www.ithome.com/1/020/435.htm",
+       "summary": "科技媒体 9to5Mac 昨日（10 月 30 日）发布博文， 报道称苹果 Apple TV 现象级科幻剧《同乐者》（Pluribus）第二季已于今天（31 日）在美国新墨西哥州阿尔伯克基开拍。 该剧由《绝…",
+       "time": "02:06",
+       "hot": ""
+      },
+      {
+       "title": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器",
+       "url": "https://www.ithome.com/1/020/434.htm",
+       "summary": "博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的…",
+       "time": "02:03",
+       "hot": ""
+      },
+      {
+       "title": "2026 年 11 月科技事件日历一览表",
+       "url": "https://www.ithome.com/1/020/433.htm",
+       "summary": "的观众老爷们好，小泵来给大家做汇报了[嘿哈]。下面是 2026 年 11 月 科技事件的预告汇总，请查收！ [之家] 小泵友情提示：很多活动可能在开始前几天才能确定具体时间，因此这个日历会随时更新，大家可以前往 IT之家 App 事…",
+       "time": "02:00",
+       "hot": ""
+      },
+      {
+       "title": "《利刃出鞘》电影同款影像风格：导演约翰逊推出新相机 App，已适配苹果 iPhone Duo",
+       "url": "https://www.ithome.com/1/020/432.htm",
+       "summary": "科技媒体 9to5Mac 昨日（10 月 30 日）发布博文，报道称好莱坞导演莱恩 · 约翰逊（Rian Johnson）推出 iPhone 相机应用 Chromagraph Camera， 已于 10 月…",
+       "time": "01:54",
+       "hot": ""
+      },
+      {
+       "title": "吉利汽车桂生悦：过去三个月，面临过去几年来最严峻的挑战时刻",
+       "url": "https://www.ithome.com/1/020/431.htm",
+       "summary": "在吉利汽车 2026 年三季度业绩电话会上，吉利汽车董事会副主席桂生悦表示，过去三个月，吉利汽车所面临的竞争，是过去这两年所没有的， 可以讲是面临过去几年来最严峻的挑战时刻 。 桂生悦认为，…",
+       "time": "01:48",
+       "hot": ""
+      },
+      {
+       "title": "11 月起影响你我生活的新规：电动自行车 3C 认证要求更严、有线广播电视和 IPTV 不得播放开机广告等",
+       "url": "https://www.ithome.com/1/020/429.htm",
+       "summary": "2026 年 11 月 1 日起，一批新规将正式施行，将直接影响你我的出行、生活、消费，IT之家为大家汇总如下： “一车一池一充一码”，电动自行车 CCC 认证要求更严格 市场监管总局今年全面升级 CCC…",
+       "time": "01:46",
+       "hot": ""
+      },
+      {
+       "title": "荣耀 WIN 耳机首销：55dB 降噪、42 小时综合续航，269 元",
+       "url": "https://www.ithome.com/1/020/428.htm",
+       "summary": "荣耀 WIN 耳机将于 10:08 开售， 售价 269 元 。 京东 荣耀 WIN 耳机 冠军白 269 元 直达链接 IT之家获悉，这款耳机搭载 12.4mm 镀钛振膜，通过 Hi-Res 金标认证、支…",
+       "time": "01:39",
+       "hot": ""
+      },
+      {
+       "title": "苹果首款触控 MacBook Pro 要点细节：发光 LOGO 可关闭，最多 10 点同时触控",
+       "url": "https://www.ithome.com/1/020/427.htm",
+       "summary": "太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动结束后， 法国 Numerama 网站记者 Nicolas Lell…",
+       "time": "01:38",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "本周看什么 | 最近值得一看的 9 部作品",
+       "url": "https://sspai.com/post/117867",
+       "summary": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...",
+       "time": "17:57",
+       "hot": ""
+      },
+      {
+       "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+       "url": "https://sspai.com/post/116047",
+       "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。",
+       "time": "14:59",
+       "hot": ""
+      },
+      {
+       "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+       "url": "https://sspai.com/prime/story/zhuanglesha-261030",
+       "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自…",
+       "time": "11:30",
+       "hot": ""
+      },
+      {
+       "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+       "url": "https://sspai.com/post/116435",
+       "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。",
+       "time": "11:13",
+       "hot": ""
+      },
+      {
+       "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+       "url": "https://sspai.com/post/117827",
+       "summary": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。",
+       "time": "08:13",
+       "hot": ""
+      },
+      {
+       "title": "新玩意 254｜少数派的编辑们最近买了啥？",
+       "url": "https://sspai.com/post/117791",
+       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...",
+       "time": "17:26",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "英特尔股价暴跌 29%",
+       "url": "https://www.solidot.org/story?sid=85757",
+       "summary": "英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高…",
+       "time": "22:34",
+       "hot": ""
+      },
+      {
+       "title": "Claude Code for VS Code 官方扩展被植入后门",
+       "url": "https://www.solidot.org/story?sid=85756",
+       "summary": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 A…",
+       "time": "21:43",
+       "hot": ""
+      },
+      {
+       "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+       "url": "https://www.solidot.org/story?sid=85755",
+       "summary": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年…",
+       "time": "18:45",
+       "hot": ""
+      },
+      {
+       "title": "芬兰对 Google 砍伐 25 万颗树展开调查",
+       "url": "https://www.solidot.org/story?sid=85754",
+       "summary": "作为 130 亿欧元投资计划的一部分，Google 正在芬兰的 Muhos 和 Kajaani-Otanmäki 建造两座数据中心。上周芬兰监管机构以未完成必要的环评为由下令工程停工。Google 芬兰子公司 Tuike Finland 遵…",
+       "time": "18:25",
+       "hot": ""
+      },
+      {
+       "title": "Reddit 将强制要求所有用户登录",
+       "url": "https://www.solidot.org/story?sid=85753",
+       "summary": "在强制要求旧版本 Old Reddit(old.reddit.com)的用户必须登录之后，Reddit 宣布接下来将强制要求所有用户必须登录。Reddit 成为最新一个限制非登录用户浏览的社交平台，而它也准备推出类似其它社交平台的算法推荐信…",
+       "time": "16:43",
+       "hot": ""
+      },
+      {
+       "title": "Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元",
+       "url": "https://www.solidot.org/story?sid=85752",
+       "summary": "Google 在公布三季度财报之后遭遇了它自 2004 年上市以来最大的单日跌幅，市值蒸发逾 5000 亿美元。在股价最低点，Google 市值蒸发 5240 亿美元，这是美股上市公司有史以来第二大单日市值缩水。仅次于英伟达在 2025 年…",
+       "time": "16:10",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+       "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+       "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as r…",
+       "time": "06:32",
+       "hot": ""
+      },
+      {
+       "title": "The biggest names in AI are backing a new way to opt out of scraping",
+       "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being…",
+       "time": "06:04",
+       "hot": ""
+      },
+      {
+       "title": "Exclusive details about Akai’s MPC Sample Key",
+       "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+       "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the…",
+       "time": "05:27",
+       "hot": ""
+      },
+      {
+       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+       "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's…",
+       "time": "04:48",
+       "hot": ""
+      },
+      {
+       "title": "Google’s satellite AI server transmits its first response to Earth",
+       "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+       "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says i…",
+       "time": "02:21",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+       "summary": "https://cursor.com/blog/claude-code-extension-security-notic...",
+       "time": "15:09",
+       "hot": "784 分 · 489 评论"
+      },
+      {
+       "title": "AI isn't replacing SREs, it's deskilling them",
+       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+       "summary": "",
+       "time": "23:52",
+       "hot": "511 分 · 384 评论"
+      },
+      {
+       "title": "Northflank Breached",
+       "url": "https://status.northflank.com",
+       "summary": "",
+       "time": "23:10",
+       "hot": "364 分 · 275 评论"
+      },
+      {
+       "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+       "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+       "summary": "",
+       "time": "20:50",
+       "hot": "324 分 · 218 评论"
+      },
+      {
+       "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+       "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+       "summary": "",
+       "time": "18:06",
+       "hot": "264 分 · 53 评论"
+      },
+      {
+       "title": "My favourite PowerMac is a Nintendo Wii",
+       "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+       "summary": "",
+       "time": "01:25",
+       "hot": "248 分 · 65 评论"
+      },
+      {
+       "title": "The federated code forge",
+       "url": "https://tangled.org/blog/forge/",
+       "summary": "",
+       "time": "23:44",
+       "hot": "235 分 · 78 评论"
+      },
+      {
+       "title": "Florilegium: Procedural Flowers in LaTeX",
+       "url": "https://github.com/kevinraymond/florilegium",
+       "summary": "",
+       "time": "23:48",
+       "hot": "220 分 · 36 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "thedotmack/claude-mem",
+       "url": "https://github.com/thedotmack/claude-mem",
+       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, comp…",
+       "time": "",
+       "hot": "TypeScript · +1,140 stars today"
+      },
+      {
+       "title": "milind-soni/OpenMausBot",
+       "url": "https://github.com/milind-soni/OpenMausBot",
+       "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+       "time": "",
+       "hot": "TypeScript · +895 stars today"
+      },
+      {
+       "title": "pbakaus/impeccable",
+       "url": "https://github.com/pbakaus/impeccable",
+       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, cat…",
+       "time": "",
+       "hot": "Rust · +2,300 stars today"
+      },
+      {
+       "title": "CopilotKit/OpenBot",
+       "url": "https://github.com/CopilotKit/OpenBot",
+       "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action…",
+       "time": "",
+       "hot": "TypeScript · +706 stars today"
+      },
+      {
+       "title": "Renhuai123/ziwei-doushu",
+       "url": "https://github.com/Renhuai123/ziwei-doushu",
+       "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+       "time": "",
+       "hot": "TypeScript · +1,126 stars today"
+      },
+      {
+       "title": "expo/skills",
+       "url": "https://github.com/expo/skills",
+       "summary": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+       "time": "",
+       "hot": "Shell · +38 stars today"
+      },
+      {
+       "title": "macro-inc/macro",
+       "url": "https://github.com/macro-inc/macro",
+       "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together w…",
+       "time": "",
+       "hot": "Rust · +57 stars today"
+      },
+      {
+       "title": "mattpocock/skills",
+       "url": "https://github.com/mattpocock/skills",
+       "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+       "time": "",
+       "hot": "Shell · +876 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+       "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+       "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "08:00",
+       "hot": ""
+      },
+      {
+       "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
+       "url": "https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "21:00",
+       "hot": ""
+      },
+      {
+       "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+       "url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "19:27",
+       "hot": ""
+      },
+      {
+       "title": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+       "url": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:53",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "英特尔股价暴跌28.58%创52年来最大日跌幅，市值蒸发近1500亿美元，怎样解读市场的反应？",
+       "url": "https://www.zhihu.com/question/2099621992160817192",
+       "summary": "美东时间周五，美股三大指数集体收跌。英特尔和亚马逊周四盘后发布的业绩令人失望，科技股遭大举抛售，纳指跌近3%，录得6月5日以来最大单日跌幅。 本周三大指数均录得下跌。10月份，纳指累计下跌5.3%，为2025年3月以来最…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "大学生用四年codex，每天进步一点，四年之后，与没用上codex的同学会有很大的差距么？",
+       "url": "https://www.zhihu.com/question/2097999293596620662",
+       "summary": "",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "如何评价 369 采访称「想赢才会兴奋，怕输才会紧张」？",
+       "url": "https://www.zhihu.com/question/2099473143257461228",
+       "summary": "英雄联盟S赛瑞士轮TES战胜BLG，赛后上单369接受了采访。 Q：你能不能聊一下对于你自己而言，可能一路走来你觉得自己在这过程当中有什么样的一些不断的成长和精进呢？ 369 ：其实我看到过一句话就是给我感触很深，想赢才…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "传统武术为什么会有“掌”这种离谱的攻击方式？",
+       "url": "https://www.zhihu.com/question/2099434281768637388",
+       "summary": "第一是接触面积增大，攻击力变弱；第二是和腕骨呈直角，天然一个杠杆，指骨掌骨腕骨骨折风险无限增加。 在武侠小说里，掌一直是一种高逼格的攻击方式，什么降龙十八掌，黯然销魂掌，大力金刚掌…相比之下，拳法的档次低很多。 为什么会…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "BLG 抽中 HLE，最后一轮中韩大战谁输谁回家，如何评价瑞士轮的最后一轮抽签？",
+       "url": "https://www.zhihu.com/question/2099786388279505951",
+       "summary": "最期待也是关注最多的签，对如今的 BLG 来说抽中 HLE ，到底算是好事还是坏事。",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "宜家、霸王茶姬等品牌开始试点「消费入座」，如何看待这一措施？你支持吗？",
+       "url": "https://www.zhihu.com/question/2099436533199783614",
+       "summary": "近日，星巴克全国门店启动“消费入座”的倡议，商家消费空间与座位资源该如何管理引发关注。目前，多个品牌门店出现了类似“消费入座”的提示。 据澎湃新闻10月29日报道，有网友反映，上海徐汇宜家餐厅开始实行“消费入座”，周二、…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "张雪机车90后专科生员工年薪五六十万，张雪对校招生直言「你们起点比他高」，现场学生真能年薪比他们高吗？",
+       "url": "https://www.zhihu.com/question/2099502093383852580",
+       "summary": "张雪机车来到重庆理工大学举行校园招聘宣讲会，公司创始人张雪登台演讲。演讲中，张雪以公司90后员工秦攀为例激励大学生。秦攀专科毕业，跟随张雪工作10年，已从月薪几千元干到年薪五六十万元。张雪表示，秦攀还有…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "波兰疑发生政变，目前局势如何？",
+       "url": "https://www.zhihu.com/question/2099752942588912041",
+       "summary": "突发新闻：波兰首都华沙发生政变，亲欧盟的波兰总理图斯克在波兰总统纳弗罗茨基出访塞内加尔的情况下，派遣警察强制解散了波兰宪法法院。支持PIS党的波兰宪法法院院长博格丹·希维奇科夫斯基已经被华沙警察扣留，他与数名议员试图进入…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "工资发到数币钱包和打银行卡有何不同",
+       "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E5%8F%91%E5%88%B0%E6%95%B0%E5%B8%81%E9%92%B1%E5%8C%85%E5%92%8C%E6%89%93%E9%93%B6%E8%A1%8C%E5%8D%A1%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，江苏多所高校相继发布通知，教职工工资将逐步通过数字人民币钱包发放。记者解读此举和打银行卡的区别时称：二者都是存在银行里的钱，从数币钱包兑回绑定银行卡，免手续费、实时到账，跨行同样适用。",
+       "time": "",
+       "hot": "780.96w"
+      },
+      {
+       "title": "小区物业退场 谁来收拾“烂摊子”",
+       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E9%80%80%E5%9C%BA+%E8%B0%81%E6%9D%A5%E6%94%B6%E6%8B%BE%E2%80%9C%E7%83%82%E6%91%8A%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "多地小区陷入“服务滑坡-拒缴物业费-物业退场”的恶性循环，背后交织着质价不符、权责错位、行业逻辑转变等多重矛盾，业主自治门槛极高，多方正在探索酬金制、信托制等多元治理出路。",
+       "time": "",
+       "hot": "771.4w"
+      },
+      {
+       "title": "这件“关系民生的大事”务必抓实抓好",
+       "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%B6%E2%80%9C%E5%85%B3%E7%B3%BB%E6%B0%91%E7%94%9F%E7%9A%84%E5%A4%A7%E4%BA%8B%E2%80%9D%E5%8A%A1%E5%BF%85%E6%8A%93%E5%AE%9E%E6%8A%93%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "时序更替，寒意渐增。眼下，北方地区已陆续启动冬季保暖保供。“供电供热事关经济发展全局和社会稳定大局，是关系民生的大事。”习近平总书记高度重视保障能源安全稳定供应，多次强调“确保群众温暖过冬”。",
+       "time": "",
+       "hot": "761.93w"
+      },
+      {
+       "title": "有地方明确：12345不再接这几类诉求",
+       "url": "https://www.baidu.com/s?wd=%E6%9C%89%E5%9C%B0%E6%96%B9%E6%98%8E%E7%A1%AE%EF%BC%9A12345%E4%B8%8D%E5%86%8D%E6%8E%A5%E8%BF%99%E5%87%A0%E7%B1%BB%E8%AF%89%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "12345成“许愿池”引热议，广东阳江出台“十不接”指引：超管辖、涉密、恶意骚扰、重复反映等十类诉求不予受理，紧急事项转110等热线，并出“十不准”规范承办。",
+       "time": "",
+       "hot": "752.34w"
+      },
+      {
+       "title": "中国爆款AI漫剧全球“刷屏”",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%88%86%E6%AC%BEAI%E6%BC%AB%E5%89%A7%E5%85%A8%E7%90%83%E2%80%9C%E5%88%B7%E5%B1%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "今年以来，AI技术推动国产漫剧加速出海。我国爆款AI漫剧全球“刷屏”，海外AI漫剧市场预计突破40亿美元。海外短剧付费应用前十，中国厂商占据九席，活跃用户超1.5亿。",
+       "time": "",
+       "hot": "742.41w"
+      },
+      {
+       "title": "00后女生租30套房每套住1周 真相意外",
+       "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E7%94%9F%E7%A7%9F30%E5%A5%97%E6%88%BF%E6%AF%8F%E5%A5%97%E4%BD%8F1%E5%91%A8+%E7%9C%9F%E7%9B%B8%E6%84%8F%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "浙江00后女生在武汉租30套房、每套只住一周，中介疑其诈骗。真相：22岁的杨心怡带领50多人团队，为人形机器人采集训练数据，房子是供机器人“练手”做家务用。",
+       "time": "",
+       "hot": "732.79w"
+      },
+      {
+       "title": "小沈阳获《披荆斩棘》总冠军",
+       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E8%8E%B7%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "小沈阳凭借319票个人喜爱度第一，夺得《披荆斩棘2026》年度总冠军，并成为本季X-Fire。一公选人时他曾接连被拒9次，全季也未曾拿下歌唱类单项第一。",
+       "time": "",
+       "hot": "723.91w"
+      },
+      {
+       "title": "超强台风“烟花”最新路径",
+       "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%83%9F%E8%8A%B1%E2%80%9D%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "今年第31号超强台风“烟花”中心位于日本东京南偏东方向约1680公里的西北太平洋洋面上，中心附近最大风力16级。预计其将以每小时15公里左右的速度向偏北方向移动，未来对我国近海无影响。",
+       "time": "",
+       "hot": "713.92w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "HLE抽到BLG",
+       "url": "https://s.weibo.com/weibo?q=HLE%E6%8A%BD%E5%88%B0BLG",
+       "summary": "",
+       "time": "",
+       "hot": "111.9w"
+      },
+      {
+       "title": "波兰政变",
+       "url": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%85%B0%E6%94%BF%E5%8F%98",
+       "summary": "",
+       "time": "",
+       "hot": "82.6w"
+      },
+      {
+       "title": "开创新时代管党治党兴党强党新局面",
+       "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2",
+       "summary": "",
+       "time": "",
+       "hot": "73.1w"
+      },
+      {
+       "title": "小沈阳披荆斩棘冠军",
+       "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B",
+       "summary": "",
+       "time": "",
+       "hot": "70.1w"
+      },
+      {
+       "title": "英特尔美股暴跌科技股同步大跌",
+       "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E7%A7%91%E6%8A%80%E8%82%A1%E5%90%8C%E6%AD%A5%E5%A4%A7%E8%B7%8C",
+       "summary": "",
+       "time": "",
+       "hot": "48.3w"
+      },
+      {
+       "title": "好剧本都要从赵丽颖手中过一遍",
+       "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%89%A7%E6%9C%AC%E9%83%BD%E8%A6%81%E4%BB%8E%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%89%8B%E4%B8%AD%E8%BF%87%E4%B8%80%E9%81%8D",
+       "summary": "",
+       "time": "",
+       "hot": "47.8w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
