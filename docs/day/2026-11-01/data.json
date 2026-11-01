@@ -1,0 +1,477 @@
+{
+ "date": "2026-11-01",
+ "weekday": "星期日",
+ "generated_at": "2026-11-01T09:59:54+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "小米澎程少量 N70 现车可选：享 3 年 0 息 / 5 年分期前 3 年 0 息等方案",
+       "url": "https://www.ithome.com/1/020/668.htm",
+       "summary": "小米汽车官方今日宣布， 2026 年 10 月，小米汽车交付量超过 50,000 台 。 IT之家注意到，小米汽车 App 显示， 少量 N70 现车可选 。2026 年 11 月 1 日 0 点至 2026…",
+       "time": "01:57",
+       "hot": ""
+      },
+      {
+       "title": "高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动，改进多款游戏体验",
+       "url": "https://www.ithome.com/1/020/667.htm",
+       "summary": "Qualcomm（高通）于当地时间 10 月 29 日发布了适用于骁龙 X 系列 PC 处理器的 2026.10.1 版本 Adreno GPU Windows 显卡驱动程序。 该驱动程序针对初代骁龙 X 和…",
+       "time": "01:54",
+       "hot": ""
+      },
+      {
+       "title": "搜狐张朝阳：短剧不会把长剧的需求完全侵蚀掉",
+       "url": "https://www.ithome.com/1/020/666.htm",
+       "summary": "搜狐创始人、董事局主席兼首席执行官张朝阳在接受界面新闻等媒体采访时表示， 短剧不会把看长剧的需求完全侵蚀掉 ，依然有很多人看长剧，这是两种不同的需求。 张朝阳表示，碎片化时间消磨时光，可以看看短剧；作为一个艺…",
+       "time": "01:44",
+       "hot": ""
+      },
+      {
+       "title": "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励",
+       "url": "https://www.ithome.com/1/020/665.htm",
+       "summary": "据汽车媒体 Electrek 前天报道，特斯拉现已在美国推出全新推荐奖励计划， 车主推荐好友购买车辆不再获得购车奖励 ，而是获得一个月 FSD 监督版使用权益。如果推荐对象随后开始订阅 FSD，推荐人可获得…",
+       "time": "01:35",
+       "hot": ""
+      },
+      {
+       "title": "《影之刃零》初体验：快意恩仇武侠路，NVIDIA DLSS 4.5 来相助",
+       "url": "https://www.ithome.com/1/020/664.htm",
+       "summary": "灵游坊 S-GAME 自主研发和发行，虚幻 5 引擎打造的全新功夫朋克暗黑武侠动作 RPG 游戏《影之刃零》（Phantom Blade Zero）正式发售。游戏世界观承接《雨血》系列，舞台设定在架空江湖“影境”，玩家将…",
+       "time": "01:32",
+       "hot": ""
+      },
+      {
+       "title": "砺算 LX 7G100 显卡获推 Windows 驱动 30.0.2260.896，修复《影之刃零》启动问题",
+       "url": "https://www.ithome.com/1/020/663.htm",
+       "summary": "砺算 (LiSuan) 于 10 月 29 日为其消费级产品 LX 7G100 推送了 Pilot Release v30.0.2260.896 显卡驱动程序， 修复《影之刃零》游戏启动问题 。 这一版本的显…",
+       "time": "01:29",
+       "hot": ""
+      },
+      {
+       "title": "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%",
+       "url": "https://www.ithome.com/1/020/662.htm",
+       "summary": "深蓝汽车今日官宣，2026 年 10 月全球销量 32602 辆， 环比增长 8.01% 。 综合IT之家此前报道，深蓝汽车在 2026 年 10 月发布了 2027 款深蓝 L06 及深蓝 L06 追风版车…",
+       "time": "01:27",
+       "hot": ""
+      },
+      {
+       "title": "2026 年 10 月汽车销量 / 交付汇总（持续更新）：小米超 5 万辆，深蓝汽车 32602 辆",
+       "url": "https://www.ithome.com/1/020/661.htm",
+       "summary": "各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。 上汽 MG ：85,000 辆（备注：原文为“全球新能源销量突破 85000+”）。 小米汽车 ：5…",
+       "time": "01:20",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+       "url": "https://sspai.com/post/117960",
+       "summary": "欢迎你在评论区分享 10 月新作的游玩体验。",
+       "time": "13:29",
+       "hot": ""
+      },
+      {
+       "title": "一图流 | 一张图看懂中国版 Apple 智能",
+       "url": "https://sspai.com/post/117953",
+       "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。",
+       "time": "12:10",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 9 部作品",
+       "url": "https://sspai.com/post/117867",
+       "summary": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...",
+       "time": "17:57",
+       "hot": ""
+      },
+      {
+       "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+       "url": "https://sspai.com/post/116047",
+       "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。",
+       "time": "14:59",
+       "hot": ""
+      },
+      {
+       "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+       "url": "https://sspai.com/prime/story/zhuanglesha-261030",
+       "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自…",
+       "time": "11:30",
+       "hot": ""
+      },
+      {
+       "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+       "url": "https://sspai.com/post/116435",
+       "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。",
+       "time": "11:13",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+       "url": "https://www.solidot.org/story?sid=85764",
+       "summary": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 202…",
+       "time": "20:59",
+       "hot": ""
+      },
+      {
+       "title": "Sam Altman 认为 PC 内存闲置太糟糕",
+       "url": "https://www.solidot.org/story?sid=85763",
+       "summary": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块…",
+       "time": "20:46",
+       "hot": ""
+      },
+      {
+       "title": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+       "url": "https://www.solidot.org/story?sid=85762",
+       "summary": "第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月…",
+       "time": "20:24",
+       "hot": ""
+      },
+      {
+       "title": "黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币",
+       "url": "https://www.solidot.org/story?sid=85761",
+       "summary": "在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的…",
+       "time": "20:12",
+       "hot": ""
+      },
+      {
+       "title": "Kogui 族人谈 AI",
+       "url": "https://www.solidot.org/story?sid=85760",
+       "summary": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力…",
+       "time": "18:59",
+       "hot": ""
+      },
+      {
+       "title": "英特尔股价暴跌 29%",
+       "url": "https://www.solidot.org/story?sid=85757",
+       "summary": "英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高…",
+       "time": "22:34",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Get in the spirit with these horrors from YouTube",
+       "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+       "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I pre…",
+       "time": "05:06",
+       "hot": ""
+      },
+      {
+       "title": "Keyboards of The Verge",
+       "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+       "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, b…",
+       "time": "03:17",
+       "hot": ""
+      },
+      {
+       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+       "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO…",
+       "time": "02:40",
+       "hot": ""
+      },
+      {
+       "title": "Happy Pikmin Day Eve",
+       "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+       "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short…",
+       "time": "01:50",
+       "hot": ""
+      },
+      {
+       "title": "I built an AI Tamagotchi before Meta could",
+       "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+       "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wa…",
+       "time": "00:09",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Serbia just elected the world's brainiest parliament",
+       "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+       "summary": "",
+       "time": "18:21",
+       "hot": "812 分 · 465 评论"
+      },
+      {
+       "title": "HackerTube: YouTube built from videos recommended by HN",
+       "url": "https://karpathy.bearblog.dev/hacker-tube/",
+       "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/",
+       "time": "03:56",
+       "hot": "722 分 · 243 评论"
+      },
+      {
+       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+       "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+       "summary": "",
+       "time": "03:16",
+       "hot": "347 分 · 166 评论"
+      },
+      {
+       "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+       "url": "https://piefed.world/post/1503394",
+       "summary": "",
+       "time": "18:23",
+       "hot": "304 分 · 180 评论"
+      },
+      {
+       "title": "Do the math: How we took over ChatGPT accounts",
+       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+       "summary": "",
+       "time": "18:30",
+       "hot": "303 分 · 150 评论"
+      },
+      {
+       "title": "Simple circuits can create complex behaviors",
+       "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+       "summary": "",
+       "time": "00:01",
+       "hot": "216 分 · 68 评论"
+      },
+      {
+       "title": "Jepsen: ParticleDB 1.1.4",
+       "url": "https://jepsen.io/analyses/particledb-1.1.4",
+       "summary": "https://github.com/jepsen-io/particledb",
+       "time": "21:39",
+       "hot": "199 分 · 106 评论"
+      },
+      {
+       "title": "Switch Lowering in GCC",
+       "url": "https://xoranth.net/gcc-switch/",
+       "summary": "",
+       "time": "16:02",
+       "hot": "199 分 · 40 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "thedotmack/claude-mem",
+       "url": "https://github.com/thedotmack/claude-mem",
+       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, comp…",
+       "time": "",
+       "hot": "TypeScript · +1,723 stars today"
+      },
+      {
+       "title": "mattpocock/skills",
+       "url": "https://github.com/mattpocock/skills",
+       "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+       "time": "",
+       "hot": "Shell · +883 stars today"
+      },
+      {
+       "title": "Donchitos/Claude-Code-Game-Studios",
+       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+       "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination s…",
+       "time": "",
+       "hot": "Shell · +742 stars today"
+      },
+      {
+       "title": "pingdotgg/t3code",
+       "url": "https://github.com/pingdotgg/t3code",
+       "summary": "",
+       "time": "",
+       "hot": "TypeScript · +1,148 stars today"
+      },
+      {
+       "title": "Renhuai123/ziwei-doushu",
+       "url": "https://github.com/Renhuai123/ziwei-doushu",
+       "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+       "time": "",
+       "hot": "TypeScript · +1,092 stars today"
+      },
+      {
+       "title": "milind-soni/OpenMausBot",
+       "url": "https://github.com/milind-soni/OpenMausBot",
+       "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+       "time": "",
+       "hot": "TypeScript · +1,303 stars today"
+      },
+      {
+       "title": "pbakaus/impeccable",
+       "url": "https://github.com/pbakaus/impeccable",
+       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, cat…",
+       "time": "",
+       "hot": "Rust · +1,338 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +665 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+       "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "20:43",
+       "hot": ""
+      },
+      {
+       "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+       "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "16:15",
+       "hot": ""
+      },
+      {
+       "title": "一边拥抱 JDK 27，一边保留 JDK 21：Helidon 开启双轨发布",
+       "url": "https://www.infoq.cn/article/qRZCxTQbL1CwAUy28Zm8?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "15:00",
+       "hot": ""
+      },
+      {
+       "title": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+       "url": "https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "14:49",
+       "hot": ""
+      },
+      {
+       "title": "Flink 负责时间，Iceberg 负责记忆：Pinterest 如何最终确认数据分区？",
+       "url": "https://www.infoq.cn/article/9OhgYkwYlPYgTbAvWlGz?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "13:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 8,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "S16 瑞士轮 BLG 2:0 淘汰 HLE 拿下最后一张淘汰赛门票，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2100108531160687738",
+       "summary": "北京时间11月1日，S16瑞士轮最后一个比赛日，HLE 0-2不敌BLG，以2-3的战绩在瑞士轮阶段遭到淘汰，成为LCK赛区唯一一支没能进入淘汰赛的战队。 LCK唯一一个没晋级的，HLE以2-3在瑞士轮阶段遭到淘汰_腾讯…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "如何评价Deepseek Harness发布的super-agent构想？",
+       "url": "https://www.zhihu.com/question/2099984457524572950",
+       "summary": "Super-agent 设计探索：迈向更自主的 Agent 系统https://mp.weixin.qq.com/s/zoS7GlReWPhfCjENGxXCdg",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "卖650万捐赠房产要缴450万的税，夫妻遗赠毕生积蓄救人，接收遗产的基金会却被吓退，问题出在哪？",
+       "url": "https://www.zhihu.com/question/2099855613391893093",
+       "summary": "在上海徐汇区，有一对老夫妇 他们生前立下遗嘱 要捐出毕生积蓄与房产 救助先心病患儿 可受托基金会 在处置房产变现时遇到难题 房屋一旦先过户、再出售 就要缴纳高额税费 达房屋总价六七成 如何让老人的善意顺利落地？ 一个搪瓷…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "和初二女儿约定好，晚上10点半把手机放客厅，不留卧室，第一天到点女儿没放，我该怎么沟通呢？",
+       "url": "https://www.zhihu.com/question/2035506887307813404",
+       "summary": "和初二女儿特定好，晚上10点半把手机放客厅，不留卧室，第一天到点我去提醒女儿，她笑着说我要睡觉了，关下灯就睡了，这时候我该不该强制收呢？",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "超八成充电运营商面临亏损，每度电净利仅 4 分钱，为何车企仍要狂砸百亿自建万座快充站？",
+       "url": "https://www.zhihu.com/question/2099788811895158669",
+       "summary": "扛不住了！超80%充电桩运营商陷入亏损：每度电净利仅4分钱|充电桩|元_新浪科技_新浪网扛不住了！超80%充电桩运营商陷入亏损：每度电净利仅4分钱 2026年9月，全国公共充电桩的功率利用率仅为6.51%，低于业内估算的…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "S16 八强赛抽签结果：BLG 将战 DK，iG 内战 TES，如何评价今年的八强赛对阵？",
+       "url": "https://www.zhihu.com/question/2100134078523466248",
+       "summary": "",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "2627 赛季 NBA 常规赛开拓者 112-90 爵士，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2100062847761899537",
+       "summary": "北京时间11月1日NBA 常规赛，犹他爵士对阵波特兰开拓者。半场爵士42-59开拓者，最终爵士90-112开拓者。犹他爵士达伦-彼得森16分4板4助，马尔卡宁13分6板1助；波特兰开拓者阿夫迪亚24分5板2助，利拉德22…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "小米为什么热衷于把高管和工程师推到台前？",
+       "url": "https://www.zhihu.com/question/2016241093059040200",
+       "summary": "比如卢伟冰 王腾 汽车的工程师李田原 任周灿 其它大公司要么只立老板一个大ICON 比如苹果的乔布斯 特斯拉的马斯克",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 54,
+  "sources": 8,
+  "sections": 3
+ },
+ "errors": [
+  "百度热搜: HTTP 403",
+  "微博热搜: HTTP 403",
+  "每日 60 秒: HTTP 403"
+ ]
+}
