@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-02",
+ "weekday": "星期一",
+ "generated_at": "2026-11-02T10:11:21+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "我国已达到世界地空导弹武器系统第一梯队前列水平",
+       "url": "https://www.ithome.com/1/020/893.htm",
+       "summary": "我国已达到世界地空导弹武器系统第一梯队前列水平 。 报道提到，近年演训任务中， 中部战区空军地导某部已成功拦截多型目标，成功击毁多型导弹，开创多个首次 。在某次拦截海上目标任务中，同时抗…",
+       "time": "02:11",
+       "hot": ""
+      },
+      {
+       "title": "东芝 HDTP4 系列 Canvio Ready 移动机械硬盘发售：4TB 款 1199 元",
+       "url": "https://www.ithome.com/1/020/892.htm",
+       "summary": "Toshiba（东芝）现已启动 HDTP4 系列 Canvio Ready 移动机械硬盘的国行销售。其提供 1TB / 2TB / 4TB 三种容量，到手价分别为 659 / 759 / 1199 元。 该产…",
+       "time": "02:08",
+       "hot": ""
+      },
+      {
+       "title": "国产武侠游戏《影之刃零》72 小时销量突破 400 万",
+       "url": "https://www.ithome.com/1/020/891.htm",
+       "summary": "国产武侠游戏《影之刃零》官方今日宣布， 发售后 72 小时全平台销量突破 400 万 。 官方表示，几天来大家反馈的各种问题也已一一记录并着手进行优化调整，会在近期先进行一批明显 bug 的修复。 IT之家注…",
+       "time": "02:07",
+       "hot": ""
+      },
+      {
+       "title": "首届 CMG 世界机器人登泰山大赛今日开赛，记者一路小跑跟不上",
+       "url": "https://www.ithome.com/1/020/890.htm",
+       "summary": "首届 CMG 世界机器人登泰山大赛于今日（11 月 2 日）在山东泰安正式开赛，各类机器人齐聚泰山脚下，在红门至中天门（3100 级台阶、600 米高差）千年盘道开启实景山地竞技比拼。 从央视新闻今日放出的直…",
+       "time": "02:07",
+       "hot": ""
+      },
+      {
+       "title": "优必选 Thinker-Sim 具身智能仿真平台发布，为机器人能力评测提供一站式体系",
+       "url": "https://www.ithome.com/1/020/888.htm",
+       "summary": "优必选科技今天发布具身智能仿真平台 Thinker-Sim，构建覆盖真实场景数字化、规模化仿真数据合成、机器人能力评测的一站式技术体系。 让真实世界快速进入仿真 ， 验证机器人能力 。 据介绍，该平台采用优必…",
+       "time": "02:02",
+       "hot": ""
+      },
+      {
+       "title": "1007.48 公里、128Tb/s：中国电信、长飞、中兴完成全球首个千公里空芯光纤实时传输验证",
+       "url": "https://www.ithome.com/1/020/887.htm",
+       "summary": "中国电信研究院今日宣布，近日，全国重点实验室共建单位中国电信研究院、长飞公司联合中兴通讯共同 完成了全球首个千公里空芯光纤双向实时传输验证： 1007.48 公里空芯光纤链路上实现扩展 C+L 波段单波 80…",
+       "time": "02:00",
+       "hot": ""
+      },
+      {
+       "title": "北汽新能源享界汽车 10 月“战报”曝光，销量达 6174 辆",
+       "url": "https://www.ithome.com/1/020/886.htm",
+       "summary": "多位博主今日分享了北汽新能源享界汽车 10 月“战报”。 海报显示， 享界汽车 10 月销量为 6174 辆 ，并宣称品牌进入多车型协同增长新阶段。 作为参考，北汽新能源昨晚公布了最新销量数据，10 月销量…",
+       "time": "01:54",
+       "hot": ""
+      },
+      {
+       "title": "15 元以下订单减半，美团薛冰称外卖行业迎来拐点、低价泡沫在消退",
+       "url": "https://www.ithome.com/1/020/885.htm",
+       "summary": "在今年 10 月的 2026 外卖产业大会上，美团外卖事业部总经理薛冰发言，称外卖行业迎来拐点， 低价泡沫在消退 。 薛冰表示，要让订单和利润同时增长，还是要从提升效率入手。美团推出新一代专业外卖店型“超级厨…",
+       "time": "01:51",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+       "url": "https://sspai.com/post/118191",
+       "summary": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63 亿美元资产被盗…",
+       "time": "07:22",
+       "hot": ""
+      },
+      {
+       "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+       "url": "https://sspai.com/post/116991",
+       "summary": "",
+       "time": "15:02",
+       "hot": ""
+      },
+      {
+       "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+       "url": "https://sspai.com/post/117960",
+       "summary": "欢迎你在评论区分享 10 月新作的游玩体验。",
+       "time": "13:29",
+       "hot": ""
+      },
+      {
+       "title": "一图流 | 一张图看懂中国版 Apple 智能",
+       "url": "https://sspai.com/post/117953",
+       "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。",
+       "time": "12:10",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 9 部作品",
+       "url": "https://sspai.com/post/117867",
+       "summary": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...",
+       "time": "17:57",
+       "hot": ""
+      },
+      {
+       "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+       "url": "https://sspai.com/post/116047",
+       "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。",
+       "time": "14:59",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "Google AI Mode 未给网站带来流量",
+       "url": "https://www.solidot.org/story?sid=85767",
+       "summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。R…",
+       "time": "00:46",
+       "hot": ""
+      },
+      {
+       "title": "数据中心抵消了过去 15 年美国的减排努力",
+       "url": "https://www.solidot.org/story?sid=85766",
+       "summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI…",
+       "time": "19:45",
+       "hot": ""
+      },
+      {
+       "title": "NASA 征询拯救哈勃望远镜的方案",
+       "url": "https://www.solidot.org/story?sid=85765",
+       "summary": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道…",
+       "time": "19:32",
+       "hot": ""
+      },
+      {
+       "title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+       "url": "https://www.solidot.org/story?sid=85764",
+       "summary": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 202…",
+       "time": "20:59",
+       "hot": ""
+      },
+      {
+       "title": "Sam Altman 认为 PC 内存闲置太糟糕",
+       "url": "https://www.solidot.org/story?sid=85763",
+       "summary": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块…",
+       "time": "20:46",
+       "hot": ""
+      },
+      {
+       "title": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+       "url": "https://www.solidot.org/story?sid=85762",
+       "summary": "第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月…",
+       "time": "20:24",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Flock keeps ignoring requests to cancel its contracts",
+       "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+       "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can b…",
+       "time": "05:27",
+       "hot": ""
+      },
+      {
+       "title": "NASA hopes the commercial space industry can help save Hubble",
+       "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+       "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubb…",
+       "time": "05:09",
+       "hot": ""
+      },
+      {
+       "title": "Apple’s HomeView could add security camera features",
+       "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+       "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its…",
+       "time": "01:16",
+       "hot": ""
+      },
+      {
+       "title": "A fully playable version of Portal prequel F-Stop leaked",
+       "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+       "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the…",
+       "time": "00:22",
+       "hot": ""
+      },
+      {
+       "title": "North Korea linked to massive Binance crypto heist",
+       "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+       "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labe…",
+       "time": "22:33",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "HackerTube: YouTube built from videos recommended by HN",
+       "url": "https://karpathy.bearblog.dev/hacker-tube/",
+       "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/",
+       "time": "03:56",
+       "hot": "2298 分 · 540 评论"
+      },
+      {
+       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+       "url": "https://hackerbooks.org",
+       "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.…",
+       "time": "23:58",
+       "hot": "938 分 · 183 评论"
+      },
+      {
+       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+       "summary": "",
+       "time": "06:41",
+       "hot": "772 分 · 202 评论"
+      },
+      {
+       "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+       "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+       "summary": "",
+       "time": "22:34",
+       "hot": "400 分 · 146 评论"
+      },
+      {
+       "title": "Patrick Stewart taught us what good men do with power",
+       "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+       "summary": "",
+       "time": "01:28",
+       "hot": "377 分 · 264 评论"
+      },
+      {
+       "title": "The AI cost of JavaScript frameworks",
+       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+       "summary": "",
+       "time": "14:06",
+       "hot": "303 分 · 230 评论"
+      },
+      {
+       "title": "Mathematics has changed. Let's act like it",
+       "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+       "summary": "",
+       "time": "02:28",
+       "hot": "226 分 · 251 评论"
+      },
+      {
+       "title": "Frontier Airlines Likely Breached",
+       "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+       "summary": "",
+       "time": "00:46",
+       "hot": "178 分 · 69 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "thedotmack/claude-mem",
+       "url": "https://github.com/thedotmack/claude-mem",
+       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, comp…",
+       "time": "",
+       "hot": "TypeScript · +1,526 stars today"
+      },
+      {
+       "title": "lightpanda-io/browser",
+       "url": "https://github.com/lightpanda-io/browser",
+       "summary": "Lightpanda: the headless browser designed for AI and automation",
+       "time": "",
+       "hot": "Zig · +825 stars today"
+      },
+      {
+       "title": "shiyu-coder/Kronos",
+       "url": "https://github.com/shiyu-coder/Kronos",
+       "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
+       "time": "",
+       "hot": "Python · +630 stars today"
+      },
+      {
+       "title": "pingdotgg/t3code",
+       "url": "https://github.com/pingdotgg/t3code",
+       "summary": "",
+       "time": "",
+       "hot": "TypeScript · +3,094 stars today"
+      },
+      {
+       "title": "milind-soni/OpenMausBot",
+       "url": "https://github.com/milind-soni/OpenMausBot",
+       "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+       "time": "",
+       "hot": "TypeScript · +922 stars today"
+      },
+      {
+       "title": "public-apis/public-apis",
+       "url": "https://github.com/public-apis/public-apis",
+       "summary": "A collective list of free APIs",
+       "time": "",
+       "hot": "Python · +324 stars today"
+      },
+      {
+       "title": "cjpais/Handy",
+       "url": "https://github.com/cjpais/Handy",
+       "summary": "A free, open source, and extensible speech-to-text application that works completely offline.",
+       "time": "",
+       "hot": "Rust · +339 stars today"
+      },
+      {
+       "title": "Donchitos/Claude-Code-Game-Studios",
+       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+       "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination s…",
+       "time": "",
+       "hot": "Shell · +967 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+       "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:20",
+       "hot": ""
+      },
+      {
+       "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+       "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:16",
+       "hot": ""
+      },
+      {
+       "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+       "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:12",
+       "hot": ""
+      },
+      {
+       "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+       "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "19:12",
+       "hot": ""
+      },
+      {
+       "title": "从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践",
+       "url": "https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:58",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "如何看待鸿蒙智行五界2026年10月销量合计33537辆？五界是否能生存下去？",
+       "url": "https://www.zhihu.com/question/2100246281591510431",
+       "summary": "",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "《影之刃零》能复刻《黑神话：悟空》的千万级销量神话吗？",
+       "url": "https://www.zhihu.com/question/2098861445219985178",
+       "summary": "武侠题材比西游题材传播更大，而且出海的话老外可能看不懂武侠的人情世故和招式美学。",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "庆功宴上，领导表扬你一句后夹起一块鱼给你，说“鱼是好鱼，就是刺多”，你该如何高情商地回答？",
+       "url": "https://www.zhihu.com/question/2099783520373756743",
+       "summary": "",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "为何AI短剧好像放弃了清宫戏，而更倾向于唐/宋/架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
+       "url": "https://www.zhihu.com/question/2100281204884731770",
+       "summary": "最近看AI短剧，发现一个大问题，和演艺圈的价值观差异非常大 最明显的就是清宫戏，AI短剧似乎没有，没看到过。演艺圈，就有大量的清宫戏，可能是历史上一直这么拍下来了，擅长拍这类戏。但是AI短剧就完全放弃了这类题材。 其实以…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？",
+       "url": "https://www.zhihu.com/question/2099653516453328673",
+       "summary": "近日，江苏多地物业引进巡逻机器人保安。该机器人可 24 小时不间断执勤，工作量相当于 5 名真人保安，无需休息、不用发放工资、缴纳社保，每月仅耗电约 200 度，便于管理。 此话题迅速引发网友热议，有网友…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
+       "url": "https://www.zhihu.com/question/2100317442232644379",
+       "summary": "比亚迪披露10月产销业绩，10月新能源汽车销量49.02万辆；前10个月累计销量362.17万辆，同比下降2.16%。其中，纯电动汽车10月销量30.57万辆，同比增长37.38%；插电式混合动力汽车销量17.74万辆，…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "张雪提出飞行超 5 小时全员必须头等舱，说老板单独坐头等舱很 low，现实里其他公司能照搬吗？",
+       "url": "https://www.zhihu.com/question/2100303604582191689",
+       "summary": "张雪机车创始人张雪带领一行9人团队从国内出发，前往意大利米兰参加即将开幕的第83届米兰国际两轮车展（EICMA）。 张雪在出发前介绍了公司的差旅原则：“飞行时间超过5小时必须乘坐头等舱，低于5小时则不乘坐头等…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "法定节假日增至 13 天并优化调休，将对公众生活与休假体验带来哪些改变？",
+       "url": "https://www.zhihu.com/question/2099697728552952157",
+       "summary": "根据修订后的《全国年节及纪念日放假办法》，从2025年1月1日起，全体公民放假的假日增加2天，其中春节、劳动节各增加1天。 也就是说，截至目前，法定放假总数已增至13天。 据此对放假调休原则作进一步优化完善，除个别特殊情…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "美飞机坠毁9人遇难 地面被撞出大坑",
+       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%819%E4%BA%BA%E9%81%87%E9%9A%BE+%E5%9C%B0%E9%9D%A2%E8%A2%AB%E6%92%9E%E5%87%BA%E5%A4%A7%E5%9D%91&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "当地时间1日，美国佛罗里达州棕榈滩县一处居民区发生坠机。一架载有9人的公务机从得克萨斯州起飞后，以超380km/h速度俯冲坠毁，机上9人全部遇难。美国联邦航空局表示事故原因仍在调查中。",
+       "time": "",
+       "hot": "780.81w"
+      },
+      {
+       "title": "超20万人看了一场“假”乒乓球比赛",
+       "url": "https://www.baidu.com/s?wd=%E8%B6%8520%E4%B8%87%E4%BA%BA%E7%9C%8B%E4%BA%86%E4%B8%80%E5%9C%BA%E2%80%9C%E5%81%87%E2%80%9D%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，多个短视频平台出现伪造“实时乒乓球比赛”的直播间。主播拼接过往比赛音频、伪造比分，利用观众信息差博取流量引流带货，有的直播间观看人数甚至超过20万。律师指出，假赛事直播存在版权侵权、消费欺诈等风险。",
+       "time": "",
+       "hot": "771.24w"
+      },
+      {
+       "title": "从“看热闹”到“看门道”",
+       "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E7%9C%8B%E7%83%AD%E9%97%B9%E2%80%9D%E5%88%B0%E2%80%9C%E7%9C%8B%E9%97%A8%E9%81%93%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "带着AI（人工智能）助手逛博物馆，遇到不懂的内容随时提问；提前数日预约专业讲解，为一场文博研学甘愿彻夜排队……当下，文博热潮正在悄然迭代：人们不再步履匆匆、“到此一游”打卡留念，也不再满足于“走马观花”匆匆一瞥。",
+       "time": "",
+       "hot": "761.82w"
+      },
+      {
+       "title": "电诈团伙已转移到非洲",
+       "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%88%B0%E9%9D%9E%E6%B4%B2&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，马达加斯加捣毁13个由中国公民营运的电诈园区，目前已有148名涉案中国公民被引渡回中国。此前，受东南亚执法行动影响，犯罪组织将业务从柬埔寨转移至当地。",
+       "time": "",
+       "hot": "752.39w"
+      },
+      {
+       "title": "被赞国泰民安脸 颁奖礼仪小姐回应",
+       "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%B5%9E%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89%E8%84%B8+%E9%A2%81%E5%A5%96%E7%A4%BC%E4%BB%AA%E5%B0%8F%E5%A7%90%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，在2026苏超决赛走红的颁奖礼仪小姐杨阳回应称，自己今年22岁刚大学毕业，曾因脸圆有容貌焦虑，网友鼓励缓解了她的焦虑。此前她在颁奖时因长相端庄大气被网友赞“国泰民安脸”意外走红。",
+       "time": "",
+       "hot": "742.51w"
+      },
+      {
+       "title": "A股开盘：创业板指高开1.05%",
+       "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%AB%98%E5%BC%801.05%25&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "A股三大指数集体高开，沪指高开0.42%，深成指高开0.59%，创业板指高开1.05%。",
+       "time": "",
+       "hot": "733.3w"
+      },
+      {
+       "title": "孙颖莎退出法兰克福冠军赛",
+       "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BA%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E5%86%A0%E5%86%9B%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，WTT更新名单，刚拿下蒙彼利埃女单冠军的孙颖莎选择退出法兰克福冠军赛，由巴约递补，国乒女单剩王艺迪等4人出征。此前她带伤打完蒙彼利埃硬仗，为优先保障身体健康计划调养半月。",
+       "time": "",
+       "hot": "723.36w"
+      },
+      {
+       "title": "自建房厨卫一体 看房人直呼难接受",
+       "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%BB%BA%E6%88%BF%E5%8E%A8%E5%8D%AB%E4%B8%80%E4%BD%93+%E7%9C%8B%E6%88%BF%E4%BA%BA%E7%9B%B4%E5%91%BC%E9%9A%BE%E6%8E%A5%E5%8F%97&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "广东中山市民廖先生反映，有客户实地看房时发现，一套约20平方米的自建房格局特殊，厨房与卫生间连通在一起。该格局让看房人十分意外且难以接受。据悉该房源目前仍空置。",
+       "time": "",
+       "hot": "713.93w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "微信转账加一个动作",
+       "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%BD%AC%E8%B4%A6%E5%8A%A0%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C",
+       "summary": "",
+       "time": "",
+       "hot": "180.8w"
+      },
+      {
+       "title": "A股",
+       "url": "https://s.weibo.com/weibo?q=A%E8%82%A1",
+       "summary": "",
+       "time": "",
+       "hot": "95.0w"
+      },
+      {
+       "title": "今年乌镇峰会首次向社会开放预约",
+       "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E9%A6%96%E6%AC%A1%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BC%80%E6%94%BE%E9%A2%84%E7%BA%A6",
+       "summary": "",
+       "time": "",
+       "hot": "73.0w"
+      },
+      {
+       "title": "罗技跟用户干上了",
+       "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%8A%80%E8%B7%9F%E7%94%A8%E6%88%B7%E5%B9%B2%E4%B8%8A%E4%BA%86",
+       "summary": "",
+       "time": "",
+       "hot": "71.9w"
+      },
+      {
+       "title": "许飞厉娜 感谢我的人生你曾出现过",
+       "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%20%E6%84%9F%E8%B0%A2%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BD%A0%E6%9B%BE%E5%87%BA%E7%8E%B0%E8%BF%87",
+       "summary": "",
+       "time": "",
+       "hot": "45.7w"
+      },
+      {
+       "title": "曝王子璇最终选择不和好",
+       "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%8E%8B%E5%AD%90%E7%92%87%E6%9C%80%E7%BB%88%E9%80%89%E6%8B%A9%E4%B8%8D%E5%92%8C%E5%A5%BD",
+       "summary": "",
+       "time": "",
+       "hot": "42.2w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
