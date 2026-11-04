@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-04",
+ "weekday": "星期三",
+ "generated_at": "2026-11-04T10:57:24+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "《英雄联盟》S16 淘汰赛首日：iG 3:1 战胜 TES 晋级，时隔 7 年重回四强舞台",
+       "url": "https://www.ithome.com/1/022/004.htm",
+       "summary": "2026 全球总决赛淘汰赛 1/4 决赛第一日火热进行中，来自 LPL 赛区的四号种子 iG 成功战胜三号种子 TES 战队，拿下这轮 BO5 的胜利，成为首个晋级 S16 四强的队伍，时隔 7 年重回半决赛…",
+       "time": "02:51",
+       "hot": ""
+      },
+      {
+       "title": "水月雨 ddHiFi Blue Rose 便携解码耳放发售：双 CS43198 芯片，1399 元全球限量 1000 套",
+       "url": "https://www.ithome.com/1/021/977.htm",
+       "summary": "ddHiFi 与水月雨联名的 Blue Rose 便携解码耳放（型号 MD-DA-016）今日正式发售，定价为 1399 元，全球限量 1000 套。 京东 水月雨 × ddHiFi Blue Rose 便携…",
+       "time": "02:44",
+       "hot": ""
+      },
+      {
+       "title": "7-Eleven 日本公司送货上门服务遭非法访问，超 16 万条客户信息外泄",
+       "url": "https://www.ithome.com/1/021/972.htm",
+       "summary": "便利店企业 7-Eleven 日本公司 3 日宣布，送货上门服务“7NOW”的配送业务外包方遭遇非法访问，总计逾 16 万条客户信息外泄。 泄露的信息包括 姓名、住址、电话号码 等，不涉及信用卡…",
+       "time": "02:44",
+       "hot": ""
+      },
+      {
+       "title": "华邦 2026Q3 营收同比大增 278.2%，核准 713.63 亿新台币高雄扩产计划",
+       "url": "https://www.ithome.com/1/021/963.htm",
+       "summary": "中国台湾地区利基型存储器制造商华邦电子 (Winbond) 昨日公布了其 2026 年第 3 季度运营表现： 合并营收 ：823.31 亿新台币，同比增长 278.2% 毛利率 ：70.6%； 归母税后净利润…",
+       "time": "02:41",
+       "hot": ""
+      },
+      {
+       "title": "消息称极氪计划推出硬派越野 SUV：对标奔驰大 G，预计 2028-2029 年量产",
+       "url": "https://www.ithome.com/1/021/961.htm",
+       "summary": "“未来汽车 Daily”今天（4 日）上午援引知情人士消息称，极氪内部正在筹划一款方盒子硬派越野 SUV，并已向多家供应商匹配需求。 极氪内部并没有给这款硬派越野 SUV 设立代号，从供应商的口径来讲，他们将…",
+       "time": "02:33",
+       "hot": ""
+      },
+      {
+       "title": "SIA & WSTS：全球 2026Q3 半导体销售额 5177 亿美元，环比增幅 24.1%",
+       "url": "https://www.ithome.com/1/021/960.htm",
+       "summary": "美国半导体行业协会 (SIA) 当地时间 3 日表示，根据世界半导体贸易统计组织 (WSTS) 编制的数据， 全球半导体销售额在 2026 年第 3 季度达到 5,177 亿美元 （IT之家注：现汇率约合 3…",
+       "time": "02:28",
+       "hot": ""
+      },
+      {
+       "title": "机械师 G5 Pro V3 手柄发售：搭载力度可调 TMR 摇杆，199 元起",
+       "url": "https://www.ithome.com/1/021/958.htm",
+       "summary": "机械师 (MACHENIKE) 现已正式开售 G5 Pro V3 手柄。这一控制器 搭载力度可调节的 TMR 传感器摇杆 ，单品售价 199 元、包含额外本体功能与充电座的套装售价 269 元。 G5 Pro…",
+       "time": "02:09",
+       "hot": ""
+      },
+      {
+       "title": "全球首个千公里空芯光纤双向实时传输验证，中国电信、长飞公司、中兴通讯联合完成",
+       "url": "https://www.ithome.com/1/021/957.htm",
+       "summary": "中国电信研究院 11 月 2 日宣布，全国重点实验室共建单位中国电信研究院、长飞公司联合中兴通讯， 共同完成全球首个千公里空芯光纤双向实时传输验证 ： 在 1007.48 公里空芯光纤链路上，实现扩展 C+L…",
+       "time": "02:06",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+       "url": "https://sspai.com/post/118402",
+       "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。",
+       "time": "08:00",
+       "hot": ""
+      },
+      {
+       "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+       "url": "https://sspai.com/post/118263",
+       "summary": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。",
+       "time": "22:00",
+       "hot": ""
+      },
+      {
+       "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+       "url": "https://sspai.com/post/118317",
+       "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。",
+       "time": "15:12",
+       "hot": ""
+      },
+      {
+       "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+       "url": "https://sspai.com/post/118211",
+       "summary": "把喜欢的图烧进 CD 里，你也可以。",
+       "time": "10:53",
+       "hot": ""
+      },
+      {
+       "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+       "url": "https://sspai.com/post/118232",
+       "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。",
+       "time": "08:18",
+       "hot": ""
+      },
+      {
+       "title": "派评 | 近期值得关注的 App",
+       "url": "https://sspai.com/post/118240",
+       "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。",
+       "time": "17:57",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+       "url": "https://www.solidot.org/story?sid=85788",
+       "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 A…",
+       "time": "00:58",
+       "hot": ""
+      },
+      {
+       "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
+       "url": "https://www.solidot.org/story?sid=85787",
+       "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引…",
+       "time": "00:33",
+       "hot": ""
+      },
+      {
+       "title": "Fedora Linux 45 释出",
+       "url": "https://www.solidot.org/story?sid=85786",
+       "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedo…",
+       "time": "00:22",
+       "hot": ""
+      },
+      {
+       "title": "科学家发现 1.15 亿年前的恐龙红细胞",
+       "url": "https://www.solidot.org/story?sid=85785",
+       "summary": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红…",
+       "time": "17:54",
+       "hot": ""
+      },
+      {
+       "title": "Enlightenment 0.28.0 释出，初步支持 BSD",
+       "url": "https://www.solidot.org/story?sid=85783",
+       "summary": "轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设…",
+       "time": "16:16",
+       "hot": ""
+      },
+      {
+       "title": "全球加速发展核电",
+       "url": "https://www.solidot.org/story?sid=85782",
+       "summary": "全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年…",
+       "time": "15:41",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+       "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+       "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most prof…",
+       "time": "09:17",
+       "hot": ""
+      },
+      {
+       "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+       "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+       "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 r…",
+       "time": "09:05",
+       "hot": ""
+      },
+      {
+       "title": "The biggest modding site in PC gaming is taking a stance on AI",
+       "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+       "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that…",
+       "time": "08:42",
+       "hot": ""
+      },
+      {
+       "title": "Please stop asking me when the AI bubble will pop",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+       "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble wil…",
+       "time": "07:37",
+       "hot": ""
+      },
+      {
+       "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+       "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+       "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie…",
+       "time": "06:59",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+       "summary": "",
+       "time": "01:22",
+       "hot": "1063 分 · 349 评论"
+      },
+      {
+       "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+       "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+       "summary": "",
+       "time": "20:21",
+       "hot": "914 分 · 192 评论"
+      },
+      {
+       "title": "Jailbreaking my car's navigation system just so I can change the time",
+       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+       "summary": "",
+       "time": "00:29",
+       "hot": "637 分 · 266 评论"
+      },
+      {
+       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+       "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+       "summary": "",
+       "time": "01:40",
+       "hot": "504 分 · 156 评论"
+      },
+      {
+       "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+       "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+       "summary": "",
+       "time": "15:56",
+       "hot": "455 分 · 218 评论"
+      },
+      {
+       "title": "Stringman, an $800 open-source room scale gripper robot",
+       "url": "https://neufangled.com/",
+       "summary": "",
+       "time": "00:47",
+       "hot": "406 分 · 151 评论"
+      },
+      {
+       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+       "summary": "",
+       "time": "22:02",
+       "hot": "392 分 · 173 评论"
+      },
+      {
+       "title": "Mac at any scale",
+       "url": "https://namespace.so/blog/mac-at-any-scale",
+       "summary": "",
+       "time": "22:53",
+       "hot": "319 分 · 190 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "thedotmack/claude-mem",
+       "url": "https://github.com/thedotmack/claude-mem",
+       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, comp…",
+       "time": "",
+       "hot": "TypeScript · +1,139 stars today"
+      },
+      {
+       "title": "vercel-labs/agent-desktop",
+       "url": "https://github.com/vercel-labs/agent-desktop",
+       "summary": "Computer use CLI for AI agents",
+       "time": "",
+       "hot": "Rust · +3,791 stars today"
+      },
+      {
+       "title": "max-sixty/worktrunk",
+       "url": "https://github.com/max-sixty/worktrunk",
+       "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+       "time": "",
+       "hot": "Rust · +438 stars today"
+      },
+      {
+       "title": "JustVugg/colibri",
+       "url": "https://github.com/JustVugg/colibri",
+       "summary": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in R…",
+       "time": "",
+       "hot": "C · +802 stars today"
+      },
+      {
+       "title": "mattpocock/skills",
+       "url": "https://github.com/mattpocock/skills",
+       "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+       "time": "",
+       "hot": "Shell · +1,164 stars today"
+      },
+      {
+       "title": "p-e-w/heretic",
+       "url": "https://github.com/p-e-w/heretic",
+       "summary": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+       "time": "",
+       "hot": "Python · +701 stars today"
+      },
+      {
+       "title": "spotify/portal-ai-plugins",
+       "url": "https://github.com/spotify/portal-ai-plugins",
+       "summary": "",
+       "time": "",
+       "hot": "TypeScript · +91 stars today"
+      },
+      {
+       "title": "floci-io/floci",
+       "url": "https://github.com/floci-io/floci",
+       "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+       "time": "",
+       "hot": "Java · +482 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+       "url": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+       "url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "21:26",
+       "hot": ""
+      },
+      {
+       "title": "AI 改变的是数据接口，而不是查询引擎",
+       "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "17:07",
+       "hot": ""
+      },
+      {
+       "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+       "url": "https://www.infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "16:11",
+       "hot": ""
+      },
+      {
+       "title": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+       "url": "https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "15:40",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "中国公务团组人员被瑞典警方拘押，中使馆再发提醒，具体情况如何？海外游玩需注意哪些标识？",
+       "url": "https://www.zhihu.com/question/2100906229702681889",
+       "summary": "中国驻瑞典大使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员。 近日，有中国公务团组人员在瑞典参访期间不慎拍摄当地敏感设施及人员，被瑞典警方拘押，对后续行程造成较大影响。 在此，中国驻瑞典大使馆再次就中国公民…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "S16 淘汰赛 iG 3:1 击败 TES 时隔七年重回四强，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2101181692593584075",
+       "summary": "",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "英国男子卡尔布什比徒步 28 年环游地球一圈回家，一路经历了哪些难以想象的挑战？这样的坚持意味着什么？",
+       "url": "https://www.zhihu.com/question/2099928060027990576",
+       "summary": "英国男子卡尔·布什比11月2日回到家乡英格兰东约克郡赫尔市，为一场历时28年、行程约5万公里的徒步环球之旅画上句号。 1998年11月1日，年仅29岁的布什比从南美洲最南端智利蓬塔阿雷纳斯出发，目的地是家乡赫尔。他为自己…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "两人分1亿元，对方给自己9999万9999，只给你1元，若你拒绝双方都会失去全部收益，你会接受吗？",
+       "url": "https://www.zhihu.com/question/2056394072684770376",
+       "summary": "假如桌子上有1亿元，你和一个素不相识的人分，并且是由对方来分，你来决定是否接受。他给自己留了9999万9999，只给你留了1元，你会接受还是拒绝？（如果拒绝，两个人将1分都得不到） 这个问题来自： 两人分1亿元。对方给自…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "胡歌自曝过了40岁身体开始走下坡路，已戒烟很久，出差会背AED，年龄真是分水岭吗？这些措施用处有多大？",
+       "url": "https://www.zhihu.com/question/2100539537923338651",
+       "summary": "演员胡歌在一档医疗访谈节目中透露，自己过了40岁以后，身体就开始走下坡路，近几年较大强度的工作也透支了健康，如今他出门随身都会携带速效救心丸。 节目内容显示，胡歌录制这一期访谈当天，他的良师益友、表演艺术家…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "思科计划 2 年内用 AI 重写 98%遗留代码，这一目标在工程上可行吗？",
+       "url": "https://www.zhihu.com/question/2100514961130778724",
+       "summary": "IT之家 11 月 2 日消息，据《财富》报道，思科（Cisco）总裁兼首席产品官吉图 · 帕特尔（Jeetu Patel）透露，他指派了一位 27 岁的年轻工程师，设定了在 24 个月内利用 AI 重构 / 重写公司…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "月薪2万但毫无意义的工作值得坚持吗？",
+       "url": "https://www.zhihu.com/question/2046955271797454069",
+       "summary": "目前有一份高薪但完全没有成长、也毫无成就感的工作，每天都很内耗，不知道要不要为了钱继续熬下去，大家会怎么选？",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "如何看待宇树机器人因过热退出登泰山大赛，被担架抬下山？人形机器人的发展目前还存在哪些技术瓶颈？",
+       "url": "https://www.zhihu.com/question/2100633417675293561",
+       "summary": "据极目新闻，11月2日，首届CMG世界机器人登泰山大赛在山东泰安开赛。随着裁判员一声令下，各机器人按照顺序每隔一分多钟出发。 明星产品宇树机器人作为永达智诚的参赛选品亮相。据操作手介绍，该机器人为宇树机器人G1开发版本，…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "上汽奥迪“买一赠一”宣传已被立案",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E2%80%9C%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80%E2%80%9D%E5%AE%A3%E4%BC%A0%E5%B7%B2%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，上海嘉定区市场监管局就上汽奥迪“全系买一赠一”营销争议正式立案。起因是10月11日上汽奥迪发文祝贺郑钦文夺冠，标题称“全系买一赠一”，实际赠送的是车模而非车辆本身，且仅限两款车型。",
+       "time": "",
+       "hot": "780.89w"
+      },
+      {
+       "title": "iPhone系统天气bug 显示下周五-32℃",
+       "url": "https://www.baidu.com/s?wd=iPhone%E7%B3%BB%E7%BB%9F%E5%A4%A9%E6%B0%94bug+%E6%98%BE%E7%A4%BA%E4%B8%8B%E5%91%A8%E4%BA%94-32%E2%84%83&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "大量iPhone用户发现自带天气App显示11月13日北京、上海、青岛、河南等地气温骤降至-28℃至-32℃，一天温差近50度，引发热议。",
+       "time": "",
+       "hot": "771.26w"
+      },
+      {
+       "title": "9图看中国互联网发展最新成就",
+       "url": "https://www.baidu.com/s?wd=9%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E6%9C%80%E6%96%B0%E6%88%90%E5%B0%B1&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2026年世界互联网大会乌镇峰会在浙江乌镇举行。当前，我国网民规模达11.25亿人，互联网普及率突破80%；人工智能加速发展，核心产业规模预计突破1.2万亿元。9张图带你了解中国互联网发展最新成就。",
+       "time": "",
+       "hot": "761.77w"
+      },
+      {
+       "title": "S16淘汰赛：TES vs IG",
+       "url": "https://www.baidu.com/s?wd=S16%E6%B7%98%E6%B1%B0%E8%B5%9B%EF%BC%9ATES+vs+IG&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "",
+       "time": "",
+       "hot": "752w"
+      },
+      {
+       "title": "清华留英硕士失联最新进展：已回家",
+       "url": "https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E7%95%99%E8%8B%B1%E7%A1%95%E5%A3%AB%E5%A4%B1%E8%81%94%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%EF%BC%9A%E5%B7%B2%E5%9B%9E%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "清华留英硕士施某某的母亲发文报平安，称孩子已安全回家，感谢驻英使馆、中英两地警方等帮助。此前，施某某10月20日前后在英国遭冒充移民局的电诈，被诱导转账45万元并欲飞往柬埔寨，11月1日失联。",
+       "time": "",
+       "hot": "742.67w"
+      },
+      {
+       "title": "“向公安局索赔14万亿美元”二审判了",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%91%E5%85%AC%E5%AE%89%E5%B1%80%E7%B4%A2%E8%B5%9414%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%9D%E4%BA%8C%E5%AE%A1%E5%88%A4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "上海一男子因不服警方对冲突“不予处罚”决定，诉称派出所曾给其戴手铐、未供餐，向公安局索赔14万亿美元；二审认定主张缺乏依据，驳回上诉维持原判。",
+       "time": "",
+       "hot": "733.07w"
+      },
+      {
+       "title": "美媒预计民主党将夺回众议院多数席位",
+       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E9%A2%84%E8%AE%A1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%B0%86%E5%A4%BA%E5%9B%9E%E4%BC%97%E8%AE%AE%E9%99%A2%E5%A4%9A%E6%95%B0%E5%B8%AD%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "美国媒体3日晚预测，民主党将在此次中期选举中从共和党手中夺回多个众议院席位，重新掌控国会众议院。",
+       "time": "",
+       "hot": "723.72w"
+      },
+      {
+       "title": "S16突发故障",
+       "url": "https://www.baidu.com/s?wd=S16%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "英雄联盟S16全球总决赛1/4决赛TES对阵IG第四局前出现长暂停，目前延迟接近一小时。此前TES暂1-2落后IG。",
+       "time": "",
+       "hot": "714.25w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "苹果天气突现-32",
+       "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94%E7%AA%81%E7%8E%B0-32",
+       "summary": "",
+       "time": "",
+       "hot": "110.1w"
+      },
+      {
+       "title": "气象局回应苹果天气APP预报极端天气",
+       "url": "https://s.weibo.com/weibo?q=%E6%B0%94%E8%B1%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94APP%E9%A2%84%E6%8A%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94",
+       "summary": "",
+       "time": "",
+       "hot": "80.6w"
+      },
+      {
+       "title": "2026中国广播电视精品创作大会",
+       "url": "https://s.weibo.com/weibo?q=2026%E4%B8%AD%E5%9B%BD%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E7%B2%BE%E5%93%81%E5%88%9B%E4%BD%9C%E5%A4%A7%E4%BC%9A",
+       "summary": "",
+       "time": "",
+       "hot": "80.0w"
+      },
+      {
+       "title": "厉娜经纪人放了厉娜两马",
+       "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%94%BE%E4%BA%86%E5%8E%89%E5%A8%9C%E4%B8%A4%E9%A9%AC",
+       "summary": "",
+       "time": "",
+       "hot": "79.8w"
+      },
+      {
+       "title": "红果短剧到底有多离谱",
+       "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+       "summary": "",
+       "time": "",
+       "hot": "54.8w"
+      },
+      {
+       "title": "女生刷到另一个自己竟是双胞胎",
+       "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%AB%9F%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E",
+       "summary": "",
+       "time": "",
+       "hot": "35.9w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
