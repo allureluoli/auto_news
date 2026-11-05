@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-05",
+ "weekday": "星期四",
+ "generated_at": "2026-11-05T11:19:25+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供",
+       "url": "https://www.ithome.com/1/022/572.htm",
+       "summary": "Kimi 今日宣布推出 Kimi Hosted Agents（托管智能体） ，将支撑 Agent 运行的 Harness 作为云端服务提供（Harness as a Service）。 企业和开发者无需自行搭…",
+       "time": "03:15",
+       "hot": ""
+      },
+      {
+       "title": "消息称某厂子系 2nm 旗舰测试 50Mp 中底潜望镜，预计小米 REDMI 旗下",
+       "url": "https://www.ithome.com/1/022/571.htm",
+       "summary": "据博主 @数码闲聊站 今日爆料，某厂子系 2nm 旗舰新机的潜望镜测试 50Mp 1/1.95 英寸中底传感器， 支持 3X± 光变 。结合该博主此前的爆料习惯，预计该机为小米 REDMI 旗下。 目前，这款…",
+       "time": "03:13",
+       "hot": ""
+      },
+      {
+       "title": "博通 VMware 推新套餐挽回中小企业：最高 128 核虚拟化方案",
+       "url": "https://www.ithome.com/1/022/570.htm",
+       "summary": "科技媒体 The Register 今天（11 月 5 日）发布博文， 报道称博通（Broadcom）旗下 VMware 面向中小企业，推出入门级虚拟化产品 vSphere Express，试图挽回因高端产品…",
+       "time": "03:11",
+       "hot": ""
+      },
+      {
+       "title": "微星推出 MAG 256QR36 显示器：24.5\" WQHD 360Hz Rapid IPS，HDR400",
+       "url": "https://www.ithome.com/1/022/562.htm",
+       "summary": "微星 (MSI) 现已推出 MAG 256QR36 显示器。这一型号基于 Rapid IPS LCD 面板，具备 WQHD (2560×1400) 分辨率、360Hz 刷新率， 获得 VESA Display…",
+       "time": "03:06",
+       "hot": ""
+      },
+      {
+       "title": "思锐推出 999 元 AF40mm F2.2 和 AF20mm F2.4 全画幅自动对焦镜头，适配索尼 E 和 L 卡口",
+       "url": "https://www.ithome.com/1/022/553.htm",
+       "summary": "思锐光学今日宣布推出 AF40mm F2.2 和 AF20mm F2.4 全画幅自动对焦镜头新品，仅售 999 元，提供索尼 E 和 L 卡口版本。 其中，40mm F2.2 镜头采用 8 组 11 片结构、…",
+       "time": "03:00",
+       "hot": ""
+      },
+      {
+       "title": "摩托罗拉 moto one 手机曝光：高通第五代骁龙 8 芯片，12GB 内存",
+       "url": "https://www.ithome.com/1/022/552.htm",
+       "summary": "科技媒体 GSMArena 昨日（11 月 4 日）发布博文， 报道称基于无线充电联盟（WPC）最新认证信息，摩托罗拉正在筹备一款 One 系列智能手机。 认证信息显示，这款机型以“moto one”名义通过…",
+       "time": "02:55",
+       "hot": ""
+      },
+      {
+       "title": "国铁集团：Z、N、V 字头普速旅客列车 11 月 25 日发行，首批车票 11 月 11 日起发售",
+       "url": "https://www.ithome.com/1/022/551.htm",
+       "summary": "据国铁集团官方，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施， 11 月 25 日 0 时起始发开行的普速旅客列车、11 月 24 日 18 时起始发开行的货物列车将正式启用新车次 ，按照 202…",
+       "time": "02:51",
+       "hot": ""
+      },
+      {
+       "title": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》",
+       "url": "https://www.ithome.com/1/022/550.htm",
+       "summary": "科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称谷歌携手演员亨利 · 卡维尔（Henry Cavill）合作， 官宣一款直接在 Googlebook 上制作的 16 位横…",
+       "time": "02:49",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+       "url": "https://sspai.com/post/118498",
+       "summary": "的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...",
+       "time": "08:16",
+       "hot": ""
+      },
+      {
+       "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+       "url": "https://sspai.com/post/117713",
+       "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。",
+       "time": "20:25",
+       "hot": ""
+      },
+      {
+       "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+       "url": "https://sspai.com/post/115819",
+       "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。",
+       "time": "14:50",
+       "hot": ""
+      },
+      {
+       "title": "国行 Apple 智能上手：这些功能已经准备好",
+       "url": "https://sspai.com/post/118404",
+       "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。",
+       "time": "10:41",
+       "hot": ""
+      },
+      {
+       "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+       "url": "https://sspai.com/post/118402",
+       "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。",
+       "time": "08:00",
+       "hot": ""
+      },
+      {
+       "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+       "url": "https://sspai.com/post/118263",
+       "summary": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。",
+       "time": "22:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "AMD 营收预计将首次超过英特尔",
+       "url": "https://www.solidot.org/story?sid=85799",
+       "summary": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场…",
+       "time": "01:20",
+       "hot": ""
+      },
+      {
+       "title": "韩国游戏 PC 启动器被植入恶意代码",
+       "url": "https://www.solidot.org/story?sid=85798",
+       "summary": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始…",
+       "time": "01:05",
+       "hot": ""
+      },
+      {
+       "title": "法国银行被盗走 1.18 亿欧元",
+       "url": "https://www.solidot.org/story?sid=85797",
+       "summary": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭…",
+       "time": "00:02",
+       "hot": ""
+      },
+      {
+       "title": "Firefox 测试迷你窗口功能",
+       "url": "https://www.solidot.org/story?sid=85796",
+       "summary": "Mozilla 正在新版 Firefox Nightly 中测试迷你窗口（Mini Window）功能。该功能类似视频画中画功能，将一个标签页作为独立窗口一直显示在当前标签页之上，这个窗口隐去了地址栏、各类控件、滚动条等常见标签页元素，但如…",
+       "time": "23:54",
+       "hot": ""
+      },
+      {
+       "title": "富士胶片因 AI 热加大磁带产能",
+       "url": "https://www.solidot.org/story?sid=85795",
+       "summary": "富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的…",
+       "time": "19:26",
+       "hot": ""
+      },
+      {
+       "title": "Nexus Mods 公布 AI 生成内容政策",
+       "url": "https://www.solidot.org/story?sid=85794",
+       "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 M…",
+       "time": "18:57",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "X says its updated web app is way faster",
+       "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+       "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the upda…",
+       "time": "08:25",
+       "hot": ""
+      },
+      {
+       "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+       "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost i…",
+       "time": "06:42",
+       "hot": ""
+      },
+      {
+       "title": "17 better ways Elon Musk could have wasted $446 million",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+       "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts…",
+       "time": "05:44",
+       "hot": ""
+      },
+      {
+       "title": "How I learned to love an obnoxious phone grip",
+       "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+       "summary": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip,…",
+       "time": "05:20",
+       "hot": ""
+      },
+      {
+       "title": "Bose’s QuietComfort Headphones are more than half off",
+       "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+       "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-…",
+       "time": "05:13",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "AI is forcing us to pay off 40 years of technical debt",
+       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+       "summary": "",
+       "time": "19:52",
+       "hot": "1105 分 · 643 评论"
+      },
+      {
+       "title": "Residential proxies detected on White House network",
+       "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+       "summary": "",
+       "time": "04:45",
+       "hot": "725 分 · 231 评论"
+      },
+      {
+       "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+       "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+       "summary": "",
+       "time": "23:38",
+       "hot": "491 分 · 177 评论"
+      },
+      {
+       "title": "Kimi K3.1 Pro model weights are out",
+       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+       "summary": "",
+       "time": "23:30",
+       "hot": "407 分 · 113 评论"
+      },
+      {
+       "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+       "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+       "summary": "",
+       "time": "23:01",
+       "hot": "273 分 · 195 评论"
+      },
+      {
+       "title": "Incident with Pull Requests, Git Operations and Issues",
+       "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+       "summary": "",
+       "time": "18:00",
+       "hot": "257 分 · 129 评论"
+      },
+      {
+       "title": "A new Go API for JSON",
+       "url": "https://go.dev/blog/jsonv2",
+       "summary": "",
+       "time": "01:52",
+       "hot": "246 分 · 104 评论"
+      },
+      {
+       "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+       "url": "https://www.ricursive.com/ripple",
+       "summary": "",
+       "time": "02:53",
+       "hot": "239 分 · 81 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "NVIDIA/auto-ontology",
+       "url": "https://github.com/NVIDIA/auto-ontology",
+       "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables…",
+       "time": "",
+       "hot": "Python · +2,050 stars today"
+      },
+      {
+       "title": "max-sixty/worktrunk",
+       "url": "https://github.com/max-sixty/worktrunk",
+       "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+       "time": "",
+       "hot": "Rust · +531 stars today"
+      },
+      {
+       "title": "mattpocock/skills",
+       "url": "https://github.com/mattpocock/skills",
+       "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+       "time": "",
+       "hot": "Shell · +1,379 stars today"
+      },
+      {
+       "title": "floci-io/floci",
+       "url": "https://github.com/floci-io/floci",
+       "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+       "time": "",
+       "hot": "Java · +1,090 stars today"
+      },
+      {
+       "title": "thedotmack/claude-mem",
+       "url": "https://github.com/thedotmack/claude-mem",
+       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, comp…",
+       "time": "",
+       "hot": "TypeScript · +1,172 stars today"
+      },
+      {
+       "title": "vercel-labs/agent-desktop",
+       "url": "https://github.com/vercel-labs/agent-desktop",
+       "summary": "Computer use CLI for AI agents",
+       "time": "",
+       "hot": "Rust · +2,470 stars today"
+      },
+      {
+       "title": "github/spec-kit",
+       "url": "https://github.com/github/spec-kit",
+       "summary": "💫 Toolkit to help you get started with SDD or any other process!",
+       "time": "",
+       "hot": "Python · +808 stars today"
+      },
+      {
+       "title": "The-PR-Agent/pr-agent",
+       "url": "https://github.com/The-PR-Agent/pr-agent",
+       "summary": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+       "time": "",
+       "hot": "Python · +280 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+       "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+       "url": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+       "url": "https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:44",
+       "hot": ""
+      },
+      {
+       "title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
+       "url": "https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:00",
+       "hot": ""
+      },
+      {
+       "title": "当 Agent 成为数据库新用户，腾讯云如何解决“未知”的难题？",
+       "url": "https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "22:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "如何评价张雪回应校招起薪10万被嫌低，称「你不能逼我把应届生工资提到20万」？其拿老员工举例算傲慢吗？",
+       "url": "https://www.zhihu.com/question/2101274789797282938",
+       "summary": "近日，张雪机车创始人张雪前往重庆大学进行校园招聘，其公布的薪资方案受到部分在场学生质疑，认为低于预期。尽管张雪以“老员工十年逆袭、持股估值3000万”的案例强调长期成长空间，但被媒体评价“透着一种错位的傲慢”。 对此，1…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "为什么字节跳动如此害怕「字节时间」？",
+       "url": "https://www.zhihu.com/question/2100649711723963421",
+       "summary": "围绕秦朔掀起的“字节时间”公共争论仍未停息。著名大V 胡锡进发文，批评抖音集团副总裁李亮“很失大公司风度”。11月4日，李亮再度发文，回应知名自媒体人秦朔和胡锡进。 抖音集团副总裁李亮表示，原本他和秦朔的争论打算到此为止…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "我请客的饭局席间一人感谢主赐他日用的饮食，我开玩笑说那这顿我不买单了，他为何会生气？",
+       "url": "https://www.zhihu.com/question/406887759",
+       "summary": "之前去江南某地出差顺便会会朋友，我请客吃饭，朋友带了其它这些人，一切都还好，只有一事，就是上完菜后一个人就开始祈祷，就是感谢主赐予他日用的饮食吧啦吧啦那些，一群人不说话等着他施法完毕。我见有点冷场就开玩笑说我不敢跟主抢买…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "S16淘汰赛GEN 3:0 击败 LYON进入四强，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2101542785706890207",
+       "summary": "",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "南京一老人横穿快速路，后方车辆反应不及致多车连环追尾，如何看待交警判决老人不担责，追尾车辆按比担责？",
+       "url": "https://www.zhihu.com/question/2100991454428522427",
+       "summary": "前车急刹避让横穿快速路的老人，后方车辆来不及反应发生连环追尾。近日，在江苏南京的江北快速路上，视频车正常行驶在车道内，突然一名老人从车辆右侧的道路窜出，小跑着横穿机动车道，视频车急刹避让，但紧随其后的车辆来不及停下，发生…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "小伙200多万买14套房年收租21万，成功实现30岁退休，这是怎么做到的？会涉及交税问题吗？",
+       "url": "https://www.zhihu.com/question/2101275943104951665",
+       "summary": "总共花200多万元，吉林小伙范俊杰2023年在长沙入手了14套房 ，年收租达21万3千，成功实现30岁退休。其中，最贵的一套总价为24万5千元，月租金达2200元；最便宜的一套总价为15万元，月租金稳定在1700元左右。…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "钱德勒·帕森斯吐槽中国品牌球鞋「给钱多，但鞋太烂，我受伤绝对跟这有关系」，这算实话实说，还是吃饭砸锅？",
+       "url": "https://www.zhihu.com/question/2101352581674919157",
+       "summary": "",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "古人头皮痒了，为什么宁可拿篦子刮，也不烧水洗头？",
+       "url": "https://www.zhihu.com/question/2099529450455148042",
+       "summary": "",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "马兴瑞被提起公诉",
+       "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "记者5日从最高人民检察院获悉，中共中央政治局原委员、中央农村工作领导小组原副组长马兴瑞涉嫌受贿案，由国家监察委员会调查终结，移送检察机关审查起诉。近日，宜昌市人民检察院已向宜昌市中级人民法院提起公诉。",
+       "time": "",
+       "hot": "780.89w"
+      },
+      {
+       "title": "“偷拍黑产”调查：约14万女性被偷拍",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "媒体报道偷拍黑产调查：反偷拍志愿者估算硬盘中受害女性约14万人，全国34个省级行政区均现偷拍案例，黑产从设备售卖到视频变现各环节均涉违法。",
+       "time": "",
+       "hot": "771.2w"
+      },
+      {
+       "title": "透过丰收景象看到“三个一”",
+       "url": "https://www.baidu.com/s?wd=%E9%80%8F%E8%BF%87%E4%B8%B0%E6%94%B6%E6%99%AF%E8%B1%A1%E7%9C%8B%E5%88%B0%E2%80%9C%E4%B8%89%E4%B8%AA%E4%B8%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "今年是“十五五”开局之年，夺取全年粮食丰收意义重大。当前，秋冬种正在各地有序推进。透过动荡的国际农产品供应链，看到我国秋日“丰”景背后的“三个一”，这份稳弥足珍贵。中国饭碗之稳，正在为解决好14亿多人口的吃饭问题、推动全球粮食安全注入源源不…",
+       "time": "",
+       "hot": "761.95w"
+      },
+      {
+       "title": "无论走到哪都被精准跟踪 原因竟是它",
+       "url": "https://www.baidu.com/s?wd=%E6%97%A0%E8%AE%BA%E8%B5%B0%E5%88%B0%E5%93%AA%E9%83%BD%E8%A2%AB%E7%B2%BE%E5%87%86%E8%B7%9F%E8%B8%AA+%E5%8E%9F%E5%9B%A0%E7%AB%9F%E6%98%AF%E5%AE%83&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，国家安全部披露一起利用恶意链接精准定位案件。此前陈某与周某存在债务纠纷，周某将非法定位页面包装成小程序发给陈某，陈某点击授权后遭精准跟踪催债。最终周某与软件开发者因侵犯公民个人信息罪分别被判有期徒刑一年、三年。",
+       "time": "",
+       "hot": "751.98w"
+      },
+      {
+       "title": "全年少有的购票窗口期来了",
+       "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%B9%B4%E5%B0%91%E6%9C%89%E7%9A%84%E8%B4%AD%E7%A5%A8%E7%AA%97%E5%8F%A3%E6%9C%9F%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "11月本是民航市场传统淡季，今年却淡季不淡。数据显示，截至11月15日，前往张家口的机票预订量同比上涨约293%，海口、三亚跻身全国最热门目的地。",
+       "time": "",
+       "hot": "742.74w"
+      },
+      {
+       "title": "高市早苗面见日本天皇姿势被批丢人",
+       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E5%A7%BF%E5%8A%BF%E8%A2%AB%E6%89%B9%E4%B8%A2%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "当地时间11月3日，日本首相高市早苗出席皇居举行的文化勋章授予仪式。其面见天皇时，以鞠躬近90度的怪异姿势呈上勋章，引发日本网友吐槽，被批离谱、丢人。",
+       "time": "",
+       "hot": "733.09w"
+      },
+      {
+       "title": "女子花1200万买商铺 开门营业时傻眼",
+       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B11200%E4%B8%87%E4%B9%B0%E5%95%86%E9%93%BA+%E5%BC%80%E9%97%A8%E8%90%A5%E4%B8%9A%E6%97%B6%E5%82%BB%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，浙江湖州费女士反映，其花1200多万买的商铺通往商场的大门被砌墙封堵。此前，该商铺于2014年交付，此门已开通4年多。10月20日朋友开门营业时发现门被堵死，影响租金与客流。",
+       "time": "",
+       "hot": "723.25w"
+      },
+      {
+       "title": "詹姆斯不看人妙传",
+       "url": "https://www.baidu.com/s?wd=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E7%9C%8B%E4%BA%BA%E5%A6%99%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，詹姆斯面对奥萨防守，左手单手运球直接起球送出妙传，助攻博纳吃饼打成2+1。现场底特律球迷一片惊呼。凭借此球，76人将分差扩大到两位数。",
+       "time": "",
+       "hot": "713.86w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "陕西重大刑案嫌疑人弃车疑逃入山林",
+       "url": "https://s.weibo.com/weibo?q=%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BC%83%E8%BD%A6%E7%96%91%E9%80%83%E5%85%A5%E5%B1%B1%E6%9E%97",
+       "summary": "",
+       "time": "",
+       "hot": "112.9w"
+      },
+      {
+       "title": "上岸第一件先娶意中人",
+       "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E4%BB%B6%E5%85%88%E5%A8%B6%E6%84%8F%E4%B8%AD%E4%BA%BA",
+       "summary": "",
+       "time": "",
+       "hot": "83.2w"
+      },
+      {
+       "title": "第九届进博会亮点扎堆",
+       "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%89%8E%E5%A0%86",
+       "summary": "",
+       "time": "",
+       "hot": "66.4w"
+      },
+      {
+       "title": "金价",
+       "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
+       "summary": "",
+       "time": "",
+       "hot": "63.4w"
+      },
+      {
+       "title": "许飞只是来告别",
+       "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8F%AA%E6%98%AF%E6%9D%A5%E5%91%8A%E5%88%AB",
+       "summary": "",
+       "time": "",
+       "hot": "55.6w"
+      },
+      {
+       "title": "Ruler谈iG",
+       "url": "https://s.weibo.com/weibo?q=Ruler%E8%B0%88iG",
+       "summary": "",
+       "time": "",
+       "hot": "46.1w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
