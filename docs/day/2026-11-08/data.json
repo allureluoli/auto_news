@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-08",
+ "weekday": "星期日",
+ "generated_at": "2026-11-08T10:08:46+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "美国 NHTSA 推进车辆召回机制改革，OTA 升级成提升修复率核心路径",
+       "url": "https://www.ithome.com/1/023/866.htm",
+       "summary": "美国国家公路交通安全管理局（NHTSA）希望改进汽车召回机制，而远程无线（OTA）软件更新将成为改革重点之一。 在 NHTSA 举办的“召回机制未来发展峰会”（Recalls Next）上，该机构局长乔纳森…",
+       "time": "02:03",
+       "hot": ""
+      },
+      {
+       "title": "分析师：索尼、微软和任天堂需适当放缓高性能追求，避免次世代主机售价突破 1000 美元",
+       "url": "https://www.ithome.com/1/023/865.htm",
+       "summary": "据科技媒体 TechRadar 今天报道，多名行业分析师表示，游戏主机厂商们需要适当放缓高性能追求，避免推出售价高于 1,000 美元 （IT之家注：现汇率约合 6,691 元人民币） 的次世代主机。 Amp…",
+       "time": "01:48",
+       "hot": ""
+      },
+      {
+       "title": "明年停产的特斯拉 Cybertruck 又涨价，入门版已暂停接受订单",
+       "url": "https://www.ithome.com/1/023/863.htm",
+       "summary": "特斯拉 Cybertruck 又涨价了。特斯拉已将美国市场 Cybertruck 的售价上调，最高涨幅达 9%，同时暂停了入门版双电机全轮驱动（Dual Motor AWD）车型的新订单。 此次调整恰逢马斯克…",
+       "time": "01:37",
+       "hot": ""
+      },
+      {
+       "title": "微软使出新招推广 Win11 新版 Outlook：给用户奖励 Microsoft Rewards 积分",
+       "url": "https://www.ithome.com/1/023/862.htm",
+       "summary": "据科技媒体 Windows Latest 今天报道，微软如今正在使用新招数推广 Win11 系统的新版 Outlook。 只要用户使用新版 Outlook ， 就能领到 Microsoft Rewards 积…",
+       "time": "01:30",
+       "hot": ""
+      },
+      {
+       "title": "陶琳：特斯拉上海超级工厂零部件本土化率达 98%",
+       "url": "https://www.ithome.com/1/023/861.htm",
+       "summary": "第九届进博会于 11 月 5 日至 10 日在上海举办。特斯拉以“富足非凡的世界，今日可见”为主题，携特斯拉 Cybercab 无人驾驶电动车、人形机器人、新近上市的 Model Y 高性能版及全球销冠 Mo…",
+       "time": "01:29",
+       "hot": ""
+      },
+      {
+       "title": "索尼首发“车载乘客眩晕检测”新技术，可提示驾驶员减少急刹、急转",
+       "url": "https://www.ithome.com/1/023/860.htm",
+       "summary": "2026 年 11 月 5 日，索尼（中国）有限公司（下称“索尼”）在第九届中国国际进口博览会上，全球首发“融合双路视觉信息的车载乘客眩晕检测”技术，聚焦乘车观看视频时的眩晕问题。 据介绍，从驾驶员到乘客，索…",
+       "time": "01:29",
+       "hot": ""
+      },
+      {
+       "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+       "url": "https://www.ithome.com/1/023/859.htm",
+       "summary": "人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。 芝加哥大…",
+       "time": "01:10",
+       "hot": ""
+      },
+      {
+       "title": "CPU-Z 数据显示 PC 内存容量首次同比下降，16GB 配置占比上涨 12.9%",
+       "url": "https://www.ithome.com/1/023/858.htm",
+       "summary": "据 CPU-Z Validator 最新统计数据，配备 32GB 和 64GB 内存的 PC 正变得越来越少。 在 CPU-Z Validator 统计数据中，32GB 仍是目前最受欢迎的内存容量，在提交验证…",
+       "time": "01:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "一个 05 后的个人数码编年史",
+       "url": "https://sspai.com/post/116750",
+       "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。",
+       "time": "17:05",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 9 部作品",
+       "url": "https://sspai.com/post/118623",
+       "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...",
+       "time": "17:30",
+       "hot": ""
+      },
+      {
+       "title": "iPhone 变强了，但我没有",
+       "url": "https://sspai.com/post/118250",
+       "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。",
+       "time": "14:56",
+       "hot": ""
+      },
+      {
+       "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+       "url": "https://sspai.com/post/118570",
+       "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。",
+       "time": "11:06",
+       "hot": ""
+      },
+      {
+       "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+       "url": "https://sspai.com/post/118587",
+       "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。",
+       "time": "08:24",
+       "hot": ""
+      },
+      {
+       "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+       "url": "https://sspai.com/post/118546",
+       "summary": "全新 MacBook Pro，开启 Mac 的下一个世代。",
+       "time": "22:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+       "url": "https://www.solidot.org/story?sid=85825",
+       "summary": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NAS…",
+       "time": "00:17",
+       "hot": ""
+      },
+      {
+       "title": "FAA 计划到 2028 年淘汰软盘",
+       "url": "https://www.solidot.org/story?sid=85824",
+       "summary": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，201…",
+       "time": "00:05",
+       "hot": ""
+      },
+      {
+       "title": "抗议者闯入微软在欧洲的一处数据中心工地",
+       "url": "https://www.solidot.org/story?sid=85823",
+       "summary": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者…",
+       "time": "19:46",
+       "hot": ""
+      },
+      {
+       "title": "天宫即将迎来首位巴基斯坦宇航员",
+       "url": "https://www.solidot.org/story?sid=85822",
+       "summary": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——…",
+       "time": "19:22",
+       "hot": ""
+      },
+      {
+       "title": "广电总局整治 AI 低俗微短剧",
+       "url": "https://www.solidot.org/story?sid=85821",
+       "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理…",
+       "time": "19:19",
+       "hot": ""
+      },
+      {
+       "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+       "url": "https://www.solidot.org/story?sid=85820",
+       "summary": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利…",
+       "time": "01:20",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+       "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+       "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that…",
+       "time": "23:47",
+       "hot": ""
+      },
+      {
+       "title": "The US let Nvidia sell chips to an empty office in China",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+       "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to…",
+       "time": "23:43",
+       "hot": ""
+      },
+      {
+       "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+       "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+       "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors…",
+       "time": "22:45",
+       "hot": ""
+      },
+      {
+       "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+       "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+       "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not t…",
+       "time": "22:12",
+       "hot": ""
+      },
+      {
+       "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+       "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+       "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative…",
+       "time": "08:30",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Need for Speed Underground 2 online in the browser",
+       "url": "https://nfsu2.xyz/",
+       "summary": "",
+       "time": "17:36",
+       "hot": "826 分 · 227 评论"
+      },
+      {
+       "title": "Every Mac comes with an (undocumented) family member classifier",
+       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+       "summary": "",
+       "time": "17:46",
+       "hot": "606 分 · 348 评论"
+      },
+      {
+       "title": "The end of Microsoft Research's AI Frontiers group",
+       "url": "https://hunch.net/?p=13764006",
+       "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft...",
+       "time": "02:02",
+       "hot": "389 分 · 227 评论"
+      },
+      {
+       "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+       "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+       "summary": "",
+       "time": "01:06",
+       "hot": "361 分 · 243 评论"
+      },
+      {
+       "title": "What I run on my $10 USD OpenStick homelab",
+       "url": "https://blog.bosscher.ch/posts/openstick/",
+       "summary": "",
+       "time": "02:12",
+       "hot": "341 分 · 84 评论"
+      },
+      {
+       "title": "Asahi Linux Progress Linux 7.3",
+       "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+       "summary": "",
+       "time": "13:20",
+       "hot": "324 分 · 261 评论"
+      },
+      {
+       "title": "Running a law firm on Free software",
+       "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+       "summary": "",
+       "time": "17:39",
+       "hot": "236 分 · 118 评论"
+      },
+      {
+       "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+       "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+       "summary": "",
+       "time": "19:11",
+       "hot": "219 分 · 212 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "vercel-labs/agent-browser",
+       "url": "https://github.com/vercel-labs/agent-browser",
+       "summary": "Browser automation CLI for AI agents",
+       "time": "",
+       "hot": "Rust · +190 stars today"
+      },
+      {
+       "title": "cloudflare/security-audit-skill",
+       "url": "https://github.com/cloudflare/security-audit-skill",
+       "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+       "time": "",
+       "hot": "JavaScript · +2,085 stars today"
+      },
+      {
+       "title": "google/skills",
+       "url": "https://github.com/google/skills",
+       "summary": "Agent Skills for Google products and technologies",
+       "time": "",
+       "hot": "Python · +443 stars today"
+      },
+      {
+       "title": "mattpocock/skills",
+       "url": "https://github.com/mattpocock/skills",
+       "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+       "time": "",
+       "hot": "Shell · +1,100 stars today"
+      },
+      {
+       "title": "anthropics/skills",
+       "url": "https://github.com/anthropics/skills",
+       "summary": "Public repository for Agent Skills",
+       "time": "",
+       "hot": "Python · +390 stars today"
+      },
+      {
+       "title": "meta/astryx",
+       "url": "https://github.com/meta/astryx",
+       "summary": "An open source design system that's fully customizable and agent ready",
+       "time": "",
+       "hot": "TypeScript · +96 stars today"
+      },
+      {
+       "title": "prometheus/prometheus",
+       "url": "https://github.com/prometheus/prometheus",
+       "summary": "The Prometheus monitoring system and time series database.",
+       "time": "",
+       "hot": "Go · +322 stars today"
+      },
+      {
+       "title": "sherlock-project/sherlock",
+       "url": "https://github.com/sherlock-project/sherlock",
+       "summary": "Hunt down social media accounts by username across social networks",
+       "time": "",
+       "hot": "Python · +1,766 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+       "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+       "url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:00",
+       "hot": ""
+      },
+      {
+       "title": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+       "url": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "16:11",
+       "hot": ""
+      },
+      {
+       "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+       "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+       "url": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "S16 半决赛 GEN 3:0 淘汰 iG 晋级决赛，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2102631107258750557",
+       "summary": "北京时间11月8日，S16半决赛第一场，GEN 3-0横扫iG晋级决赛。 双方BP iG禁用：杰斯 潘森 皇子 卡莎 飞机 iG选用：纳尔 纳亚菲利 洛克 EZ 牛头 GEN禁用：烈娜塔 发条 璐璐 轮子妈 鳄鱼 GEN…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "如何看待深圳一机顶盒厂商在 130 万台出厂设备中预埋系统级后门，并将控制权出售给黑产的行为？",
+       "url": "https://www.zhihu.com/question/2101846693520085716",
+       "summary": "IT之家 11 月 4 日消息，谷歌近日捣毁了一项大规模僵尸网络行动，涉事方是一家同时从事 OEM（原始设备制造商）和 ODM（原始设计制造商）业务的企业。 根据谷歌发布的博客文章，曾获得 Android TV 合作伙伴…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "广州多名小学生家长反映，孩子在校园周边小卖部签名即可赊账买零食，有学生月赊超千元，店家的做法合法吗？",
+       "url": "https://www.zhihu.com/question/2102366518650718030",
+       "summary": "广州海珠区沙园街一名小学生家长反映，日前，学校老师提醒家长留意孩子的赊账消费情况。“询问后，孩子才承认在一家小卖部赊账买过零食。”该家长告诉记者，商家有专门登记学生消费的台账，学生签名确认后可赊账消费，而且还可以设置还款…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "如何评价《嫁金钗》大结局女主软禁太后杀死亲王摆下鸿门宴携胚胎以令诸侯，最后以护国长公主身份摄政天下？",
+       "url": "https://www.zhihu.com/question/2102316298638250371",
+       "summary": "",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "为什么说健身房练完后器械上面的杠铃片要归位？",
+       "url": "https://www.zhihu.com/question/470350250",
+       "summary": "去了好多健身房感觉练完腿的器械都很多片",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "温瑞博0-4林昀儒，无缘法兰克福冠军赛男单4强，如何评价本场比赛？",
+       "url": "https://www.zhihu.com/question/2102532401465398179",
+       "summary": "北京时间11月7日，WTT法兰克福冠军赛男单四分之一决赛，国乒选手温瑞博以0比4不敌中国台北选手林昀儒，无缘本站赛事男单四强。 就此，国乒男队也在本站赛事全军覆没，无人晋级四强。与此同时，在今年的全部六站冠军赛中，国乒男…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "中国空间站将迎首位外籍航天员，巴基斯坦载荷专家参加神舟二十四号任务，具有哪些意义？",
+       "url": "https://www.zhihu.com/question/2102344635867559303",
+       "summary": "神舟二十四号载人飞行任务将有1名巴基斯坦航天员以载荷专家身份参加，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "怎么看字节跳动的扣子宣布下线解散，AI工作流是不是已经没有市场了？",
+       "url": "https://www.zhihu.com/question/2101391707430565604",
+       "summary": "字节旗下AI应用开发平台扣子（Coze）发布《扣子企业版下线公告》，企业标准版与企业旗舰版将于2026年11月30日起停止接受新客户购买，存量套餐最晚于2027年12月31日全面下线，超期未使用部分将自动退款。 扣子企业…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "暴雨暴雪大降温来了",
+       "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%9A%B4%E9%9B%AA%E5%A4%A7%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "",
+       "time": "",
+       "hot": "780.95w"
+      },
+      {
+       "title": "以色列总统没有选择内塔尼亚胡",
+       "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "当地时间7日晚间，以色列总统赫尔佐格声明，决定于8日授权前总参谋长埃森科特组建新政府。此前，11月4日选举结果获确认，内塔尼亚胡阵营获53席，反对派获48席，均未达61席组阁门槛。随后总统与各党磋商总理人选。",
+       "time": "",
+       "hot": "771.42w"
+      },
+      {
+       "title": "消费“新故事”背后有一共同底色",
+       "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E6%95%85%E4%BA%8B%E2%80%9D%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%80%E5%85%B1%E5%90%8C%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "商务部发布报告显示2025年中华老字号营收突破2万亿元。从老字号守正创新、上海第九届进博会首发首秀创新高，到“双11”平台促销规则做“减法”，这些消费“新故事”背后有一共同底色：以更适合自己的消费来过更好的日子。以此为牵引，经济持续向新向优…",
+       "time": "",
+       "hot": "761.6w"
+      },
+      {
+       "title": "落马干部被留置当天仍在收礼",
+       "url": "https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%95%99%E7%BD%AE%E5%BD%93%E5%A4%A9%E4%BB%8D%E5%9C%A8%E6%94%B6%E7%A4%BC&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2025年9月，青海省林业和草原局原副局长旦增被开除党籍公职，涉嫌犯罪问题移送检察机关。其被留置当天仍在收礼，自2018年起他将收礼视为“人情惯例”，把绕过程序叫“灵活变通”，逐步滑向腐败泥潭。",
+       "time": "",
+       "hot": "752.26w"
+      },
+      {
+       "title": "央视曝光“免费鉴宝高价回收”骗局",
+       "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E2%80%9C%E5%85%8D%E8%B4%B9%E9%89%B4%E5%AE%9D%E9%AB%98%E4%BB%B7%E5%9B%9E%E6%94%B6%E2%80%9D%E9%AA%97%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，央视曝光“免费鉴宝高价回收”骗局：团伙利用AI视频以高价回收为饵，将老年人引流至私域直播间。主播通过认干妈、承诺养老金骗取信任，利用砸金蛋预设中奖，将低成本假工艺品卖给老人。湖北武汉警方抓获81名嫌疑人。",
+       "time": "",
+       "hot": "742.74w"
+      },
+      {
+       "title": "多地官宣调整中小学上学时间",
+       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E8%B0%83%E6%95%B4%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%B8%8A%E5%AD%A6%E6%97%B6%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "江苏江阴市中小学调整上学时间，计划本周落实到位，小学延至8:00到校。此前，全国多地已陆续探索延迟中小学到校时间，旨在保障学生充足睡眠。",
+       "time": "",
+       "hot": "733.2w"
+      },
+      {
+       "title": "iG0比3不敌GEN 无缘S16决赛",
+       "url": "https://www.baidu.com/s?wd=iG0%E6%AF%943%E4%B8%8D%E6%95%8CGEN+%E6%97%A0%E7%BC%98S16%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "《英雄联盟》2026全球总决赛（S16）淘汰赛半决赛第一日，来自LPL赛区的iG战队0:3不敌GEN战队，遗憾止步四强。",
+       "time": "",
+       "hot": "723.2w"
+      },
+      {
+       "title": "当我们终于开始认真谈论友情",
+       "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E4%BB%AC%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%AE%A4%E7%9C%9F%E8%B0%88%E8%AE%BA%E5%8F%8B%E6%83%85&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，综艺《后会友期》热播，四对昔日决裂好友在高原重逢，全网热议友情话题。有媒体评论称，友情是长期缺少严肃审视的亲密关系，如今人们终于开始认真谈论它。",
+       "time": "",
+       "hot": "713.59w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "GEN战胜iG",
+       "url": "https://s.weibo.com/weibo?q=GEN%E6%88%98%E8%83%9CiG",
+       "summary": "",
+       "time": "",
+       "hot": "117.0w"
+      },
+      {
+       "title": "TheShy评分",
+       "url": "https://s.weibo.com/weibo?q=TheShy%E8%AF%84%E5%88%86",
+       "summary": "",
+       "time": "",
+       "hot": "92.0w"
+      },
+      {
+       "title": "今天第27个中国记者节",
+       "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E7%AC%AC27%E4%B8%AA%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E8%8A%82",
+       "summary": "",
+       "time": "",
+       "hot": "67.2w"
+      },
+      {
+       "title": "外国人不理解中国人不用邮件办公",
+       "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8A%9E%E5%85%AC",
+       "summary": "",
+       "time": "",
+       "hot": "65.6w"
+      },
+      {
+       "title": "文吉儿王子璇 吵架原对话",
+       "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87%20%E5%90%B5%E6%9E%B6%E5%8E%9F%E5%AF%B9%E8%AF%9D",
+       "summary": "",
+       "time": "",
+       "hot": "65.4w"
+      },
+      {
+       "title": "iG队史首次在世界赛BO5不敌韩国队",
+       "url": "https://s.weibo.com/weibo?q=iG%E9%98%9F%E5%8F%B2%E9%A6%96%E6%AC%A1%E5%9C%A8%E4%B8%96%E7%95%8C%E8%B5%9BBO5%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E9%98%9F",
+       "summary": "",
+       "time": "",
+       "hot": "61.8w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
