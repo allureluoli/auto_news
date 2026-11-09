@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-09",
+ "weekday": "星期一",
+ "generated_at": "2026-11-09T10:29:50+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "何刚解释华为睿影 XMAGE 命名：三次升级始终保留了字母“X”，代表着未知",
+       "url": "https://www.ithome.com/1/024/064.htm",
+       "summary": "华为董事、终端 BG CEO 何刚今日发布长文，回顾了华为影像大赛的发展历程，并宣布华为影像大赛颁奖盛典暨 10 周年展“温暖共生”将于 11 月 11 日至 15 日在巴黎大皇宫举行。 文中，何刚还解释了华…",
+       "time": "02:24",
+       "hot": ""
+      },
+      {
+       "title": "Akko 空影 TAN8 鼠标新增 Master N2 版：升级 nRF54LM20 主控，329 元",
+       "url": "https://www.ithome.com/1/024/063.htm",
+       "summary": "Akko 本月 7 日宣布为其空影 TAN8 系列鼠标新增 \"Master N2\" 版本。这一版本搭载 Nordic nRF54LM20 主控， 329 元的售价相比非 N2 原版 \"Master\" (nRF…",
+       "time": "02:21",
+       "hot": ""
+      },
+      {
+       "title": "荣耀 700 系列手机新技术 11 月 13 日亮相，预约已开启",
+       "url": "https://www.ithome.com/1/024/062.htm",
+       "summary": "荣耀今天宣布， 荣耀 700 系列手机新技术将于 11 月 13 日亮相 。从官方公布的预热视频来看， 这款手机的代言人预计是鞠婧祎 。 IT之家了解到，荣耀 700 系列手机已经在京东开启预约。 京东 荣耀…",
+       "time": "02:19",
+       "hot": ""
+      },
+      {
+       "title": "宝马新世代 BMW iX3/ i3 即将开启大订，将于 11 月 25 日 / 27 日上市",
+       "url": "https://www.ithome.com/1/024/061.htm",
+       "summary": "宝马中国今日宣布，新世代 BMW iX3 与新世代 BMW i3 双车大订，即将开启。 11 月 25 日，新世代 BMW iX3 正式上市，试驾及客户交付同步启动，采用全国统一价模式，已预订客户可直接转大订…",
+       "time": "02:15",
+       "hot": ""
+      },
+      {
+       "title": "OPPO Watch 5 智能手表外观公布：主打轻薄方表形态，11 月 16 日发布",
+       "url": "https://www.ithome.com/1/024/060.htm",
+       "summary": "OPPO 官方刚刚公开了 OPPO Watch 5 智能手表的外观， 并宣布新品将在 11 月 16 日 19:00 发布 。 预热图画面显示，OPPO Watch 5 智能手表回归了方表造型，侧面边框采用亮…",
+       "time": "02:14",
+       "hot": ""
+      },
+      {
+       "title": "2027 款岚图知音汽车 11 月 13 日上市，896 线双光路激光雷达 + 81 度电池",
+       "url": "https://www.ithome.com/1/024/059.htm",
+       "summary": "2027 款岚图知音汽车官宣将于 11 月 13 日上市 ，定位“智慧超充纯电大五座 SUV”。 IT之家从官方预热了解到，2027 款岚图知音搭载： 896 线双光路激光雷达 + 华为乾崑智驾 ADS 5…",
+       "time": "02:12",
+       "hot": ""
+      },
+      {
+       "title": "东风日产 NX7 全球首秀定档 11 月 13 日，即将开启预售",
+       "url": "https://www.ithome.com/1/024/058.htm",
+       "summary": "东风日产今日宣布 The New NX7 全球首秀 11 月 13 日见，将正式开启预售。 据IT之家此前报道，插电式混合动力 SUV 东风日产 NX7 已在今年 8 月完成申报 ，尺寸为 4785×1932…",
+       "time": "02:07",
+       "hot": ""
+      },
+      {
+       "title": "荣耀 700 系列手机背屏爆料：2 亿像素自拍、小游戏、灵动通知、行业独家支持 XXXX",
+       "url": "https://www.ithome.com/1/024/057.htm",
+       "summary": "微博博主 @数码闲聊站 今日发文称，荣耀 700 系列手机已在部分门店展出。该机的 ID 设计迎来大换代，配备 6.57 英寸中屏 +0.98mm 窄边框 + 原生背屏，质感“很棒”。 博主透露，这款手机的背…",
+       "time": "02:03",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：特斯拉将停产 Cybertruck",
+       "url": "https://sspai.com/post/118805",
+       "summary": "特斯拉将停产 Cybertruck 深圳在 APEC 前夕整顿非法市场 美国数据中心股持续遭抛售，大量建设项目被取消 京津冀三地消协组织敦促航司、平台规范机票退改签 FBI 警告冰柜网络安全攻击风险 广电总局部署开展新一轮微短剧专项治理工作…",
+       "time": "06:41",
+       "hot": ""
+      },
+      {
+       "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+       "url": "https://sspai.com/post/118114",
+       "summary": "",
+       "time": "11:18",
+       "hot": ""
+      },
+      {
+       "title": "一个 05 后的个人数码编年史",
+       "url": "https://sspai.com/post/116750",
+       "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。",
+       "time": "17:05",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 9 部作品",
+       "url": "https://sspai.com/post/118623",
+       "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...",
+       "time": "17:30",
+       "hot": ""
+      },
+      {
+       "title": "iPhone 变强了，但我没有",
+       "url": "https://sspai.com/post/118250",
+       "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。",
+       "time": "14:56",
+       "hot": ""
+      },
+      {
+       "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+       "url": "https://sspai.com/post/118570",
+       "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。",
+       "time": "11:06",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "LG 因其智能电视监视用户面临法律诉讼",
+       "url": "https://www.solidot.org/story?sid=85829",
+       "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到…",
+       "time": "23:23",
+       "hot": ""
+      },
+      {
+       "title": "太平洋垃圾带海水变得更蓝更绿",
+       "url": "https://www.solidot.org/story?sid=85828",
+       "summary": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸…",
+       "time": "22:40",
+       "hot": ""
+      },
+      {
+       "title": "微软移除了 PC 到 PC 的迁移功能",
+       "url": "https://www.solidot.org/story?sid=85827",
+       "summary": "Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再…",
+       "time": "22:34",
+       "hot": ""
+      },
+      {
+       "title": "台积电考虑进入内存行业",
+       "url": "https://www.solidot.org/story?sid=85826",
+       "summary": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进…",
+       "time": "21:43",
+       "hot": ""
+      },
+      {
+       "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+       "url": "https://www.solidot.org/story?sid=85825",
+       "summary": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NAS…",
+       "time": "00:17",
+       "hot": ""
+      },
+      {
+       "title": "FAA 计划到 2028 年淘汰软盘",
+       "url": "https://www.solidot.org/story?sid=85824",
+       "summary": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，201…",
+       "time": "00:05",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+       "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed execu…",
+       "time": "10:24",
+       "hot": ""
+      },
+      {
+       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+       "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an…",
+       "time": "06:54",
+       "hot": ""
+      },
+      {
+       "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+       "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+       "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two si…",
+       "time": "06:37",
+       "hot": ""
+      },
+      {
+       "title": "Epic Games Launcher is coming to SteamOS",
+       "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+       "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At…",
+       "time": "04:52",
+       "hot": ""
+      },
+      {
+       "title": "Apple is racing to make Siri more agentic",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+       "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and de…",
+       "time": "03:18",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Goodbye Claude, hello Pi",
+       "url": "https://caleb.software/posts/claude-to-pi.html",
+       "summary": "",
+       "time": "11:11",
+       "hot": "704 分 · 436 评论"
+      },
+      {
+       "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+       "summary": "",
+       "time": "02:16",
+       "hot": "616 分 · 361 评论"
+      },
+      {
+       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+       "summary": "",
+       "time": "04:45",
+       "hot": "592 分 · 399 评论"
+      },
+      {
+       "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+       "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+       "summary": "",
+       "time": "04:26",
+       "hot": "398 分 · 297 评论"
+      },
+      {
+       "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+       "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+       "summary": "",
+       "time": "06:20",
+       "hot": "373 分 · 390 评论"
+      },
+      {
+       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+       "url": "https://github.com/synchopate/llama-modchip",
+       "summary": "",
+       "time": "18:22",
+       "hot": "370 分 · 161 评论"
+      },
+      {
+       "title": "Declarative Dragging",
+       "url": "https://declarative-dragging.github.io/",
+       "summary": "",
+       "time": "01:05",
+       "hot": "363 分 · 44 评论"
+      },
+      {
+       "title": "Writing as a thinking tool",
+       "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+       "summary": "",
+       "time": "18:41",
+       "hot": "285 分 · 83 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "sherlock-project/sherlock",
+       "url": "https://github.com/sherlock-project/sherlock",
+       "summary": "Hunt down social media accounts by username across social networks",
+       "time": "",
+       "hot": "Python · +2,373 stars today"
+      },
+      {
+       "title": "dsx-ai-factory/nvke",
+       "url": "https://github.com/dsx-ai-factory/nvke",
+       "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+       "time": "",
+       "hot": "Go · +345 stars today"
+      },
+      {
+       "title": "milind-soni/OpenMausBot",
+       "url": "https://github.com/milind-soni/OpenMausBot",
+       "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+       "time": "",
+       "hot": "TypeScript · +1,439 stars today"
+      },
+      {
+       "title": "anthropics/claude-quickstarts",
+       "url": "https://github.com/anthropics/claude-quickstarts",
+       "summary": "A collection of projects designed to help developers quickly get started with building deployable applications…",
+       "time": "",
+       "hot": "Python · +32 stars today"
+      },
+      {
+       "title": "vercel-labs/agent-browser",
+       "url": "https://github.com/vercel-labs/agent-browser",
+       "summary": "Browser automation CLI for AI agents",
+       "time": "",
+       "hot": "Rust · +815 stars today"
+      },
+      {
+       "title": "meta/astryx",
+       "url": "https://github.com/meta/astryx",
+       "summary": "An open source design system that's fully customizable and agent ready",
+       "time": "",
+       "hot": "TypeScript · +875 stars today"
+      },
+      {
+       "title": "anthropics/skills",
+       "url": "https://github.com/anthropics/skills",
+       "summary": "Public repository for Agent Skills",
+       "time": "",
+       "hot": "Python · +792 stars today"
+      },
+      {
+       "title": "google-deepmind/mujoco",
+       "url": "https://github.com/google-deepmind/mujoco",
+       "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+       "time": "",
+       "hot": "C++ · +41 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+       "url": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "Agent 越用越多，企业为何仍不够 AI Native？",
+       "url": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "00:08",
+       "hot": ""
+      },
+      {
+       "title": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+       "url": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "16:19",
+       "hot": ""
+      },
+      {
+       "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+       "url": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "15:03",
+       "hot": ""
+      },
+      {
+       "title": "租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效",
+       "url": "https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "14:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
+       "url": "https://www.zhihu.com/question/2102992165089579738",
+       "summary": "",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "自媒体曝胖东来爆火的卡蓓诺洗发水疑为非日本制造，胖东来否认产地造假并将启动维权，哪些信息值得关注？",
+       "url": "https://www.zhihu.com/question/2102487963552765120",
+       "summary": "今天（8日），胖东来商贸集团发布《关于“卡蓓诺洗发水”相关不实信息的说明》，全文如下： 2026年11月7日，网络平台出现“胖东来销售卡蓓诺洗发水产地造假”的相关视频，对此公司高度重视。 此类不实信息在2026年1月已经…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "黄渤自曝今年几乎没戏拍，如何看待实力派演员陷入空窗期？",
+       "url": "https://www.zhihu.com/question/2102012267004958599",
+       "summary": "近日，演员黄渤受访自曝今年到现在几乎没戏拍。他坦言长时间没遇到合适剧本会浮现疲惫感，兴奋劲被消磨，但也表示能从事喜欢的职业无需抱怨。此番言论引发网友热议，感慨影视寒冬波及知名演员，也让大众看到了演员空窗期的真实困境。‌‌…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "成都蓉城会被这次惨痛的丢冠经历击垮吗？",
+       "url": "https://www.zhihu.com/question/2102818383121084958",
+       "summary": "",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "一名普通人在拼命的情况下，能不能20分钟跑完5公里？",
+       "url": "https://www.zhihu.com/question/2018447241094902917",
+       "summary": "能用20分钟跑完5公里，会需要什么样的配速？",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "汝南那么好听，为什么要改成驻马店？",
+       "url": "https://www.zhihu.com/question/418412789",
+       "summary": "",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "韦世豪停赛缺席中超最后4轮，成都蓉城4连败最终丢冠，有因果关系吗？他的停赛影响有多大？",
+       "url": "https://www.zhihu.com/question/2102828585153029477",
+       "summary": "2026年8月29日，中超联赛第25轮，在成都蓉城主场2-1击败辽宁铁人，手握14分优势后，韦世豪向球迷喊话。 当时，成都蓉城的夺冠形势是，只要下轮客场击败河南队，成都蓉城即可提前4轮夺得冠军。 赛后，韦世豪在场边向蓉城…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "曹操和刘备死后，孙权便是天下第一雄主，而且正值壮年，为什么不能一统天下？",
+       "url": "https://www.zhihu.com/question/1949198428434313335",
+       "summary": "虽然孙权、曹丕、刘禅都是二代，但当时的孙权已经继位十几年了，而曹丕和刘禅都是新人，论谋略、论政治手腕，都不是孙权的对手。",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "BLG战胜T1 挺进S16决赛",
+       "url": "https://www.baidu.com/s?wd=BLG%E6%88%98%E8%83%9CT1+%E6%8C%BA%E8%BF%9BS16%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "BLG在S16半决赛中以3:1击败T1晋级决赛，成为S赛历史首支单届世界赛连斩三支LCK队伍的LPL战队。BLG将在决赛迎战GEN。",
+       "time": "",
+       "hot": "780.97w"
+      },
+      {
+       "title": "重大突破！中国新一代光刻机模型亮相",
+       "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%89%E5%88%BB%E6%9C%BA%E6%A8%A1%E5%9E%8B%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "第九届中国国际进口博览会在上海举行。上海微电子装备集团携自主研发的新一代前道干式扫描投影光刻机SSC800、SSB800（模型）亮相中国馆，展示我国前道光刻装备自主化的阶段性成果。",
+       "time": "",
+       "hot": "771.35w"
+      },
+      {
+       "title": "“把想法带到中国就能实现”",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%8A%E6%83%B3%E6%B3%95%E5%B8%A6%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%B0%B1%E8%83%BD%E5%AE%9E%E7%8E%B0%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "第九届中国国际进口博览会正在上海举行，超4000家境外企业携新技术、新产品亮相“四叶草”。有美国企业创始人感慨：在美国和加拿大产生的想法可以带到中国，发展成一种全新的事物，这样的事情除了中国，在任何其他地方都很难实现。",
+       "time": "",
+       "hot": "761.6w"
+      },
+      {
+       "title": "最强厄尔尼诺来了 这个冬天怎么过",
+       "url": "https://www.baidu.com/s?wd=%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%9D%A5%E4%BA%86+%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%80%8E%E4%B9%88%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "10月，有监测记录以来最强厄尔尼诺事件形成，将对我国今冬明春气候产生明显影响。专家分析，受其影响我国冬季大部分地区偏暖概率大，但冷暖起伏明显寒潮偏多，建议公众关注气象预警并分层穿衣防寒。",
+       "time": "",
+       "hot": "752.09w"
+      },
+      {
+       "title": "央视曝光后 江西赣州连夜成立调查组",
+       "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%A5%BF%E8%B5%A3%E5%B7%9E%E8%BF%9E%E5%A4%9C%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "赣州蓉江新区住房和城乡建设局通报称，针对央视曝光问题成立调查组开展核查，后续将依法依规推进整改。此前，央视《财经调查》曝光江西赣州两座人行天桥建成两年，配套无障碍电梯却长期闲置等“建而不用”现象。",
+       "time": "",
+       "hot": "742.55w"
+      },
+      {
+       "title": "老人数量第一次比孩子多",
+       "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%95%B0%E9%87%8F%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E5%AD%A9%E5%AD%90%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2025年，中国每100个劳动年龄人口，对应23个65岁及以上老人、22个0岁-14岁孩子。这是1982年有可比数据以来，“养老”的担子第一次重于“养小”。很多人看到这里，第一反应是“负担来了”。但如果把这本账摊开看完，负担远不是全部。",
+       "time": "",
+       "hot": "732.88w"
+      },
+      {
+       "title": "20公斤陨石砸进石家庄农田",
+       "url": "https://www.baidu.com/s?wd=20%E5%85%AC%E6%96%A4%E9%99%A8%E7%9F%B3%E7%A0%B8%E8%BF%9B%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%86%9C%E7%94%B0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "火流星划过华北上空，部分陨石坠落在河北石家庄的农田中，“陨石猎人”俞斌奔赴现场搜寻。俞斌在一农户家中找到一块重约20公斤的陨石，推测大概率是本次火流星主体。陨石断面可见金属颗粒，这也是当晚流星呈现多彩光芒的原因。",
+       "time": "",
+       "hot": "723.2w"
+      },
+      {
+       "title": "战胜T1 就在今天",
+       "url": "https://www.baidu.com/s?wd=%E6%88%98%E8%83%9CT1+%E5%B0%B1%E5%9C%A8%E4%BB%8A%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2026年S16半决赛，BLG三比一战胜T1，就在今天！",
+       "time": "",
+       "hot": "713.88w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "BLG战胜T1",
+       "url": "https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CT1",
+       "summary": "",
+       "time": "",
+       "hot": "1109.2w"
+      },
+      {
+       "title": "BLG成首支S赛BO5战胜T1的LPL战队",
+       "url": "https://s.weibo.com/weibo?q=BLG%E6%88%90%E9%A6%96%E6%94%AFS%E8%B5%9BBO5%E6%88%98%E8%83%9CT1%E7%9A%84LPL%E6%88%98%E9%98%9F",
+       "summary": "",
+       "time": "",
+       "hot": "203.2w"
+      },
+      {
+       "title": "透过关键词解码进博会",
+       "url": "https://s.weibo.com/weibo?q=%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E7%A0%81%E8%BF%9B%E5%8D%9A%E4%BC%9A",
+       "summary": "",
+       "time": "",
+       "hot": "159.0w"
+      },
+      {
+       "title": "白小纯口碑反转",
+       "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%A3%E7%A2%91%E5%8F%8D%E8%BD%AC",
+       "summary": "",
+       "time": "",
+       "hot": "93.6w"
+      },
+      {
+       "title": "Faker告别S16",
+       "url": "https://s.weibo.com/weibo?q=Faker%E5%91%8A%E5%88%ABS16",
+       "summary": "",
+       "time": "",
+       "hot": "72.6w"
+      },
+      {
+       "title": "Faker太夸张了",
+       "url": "https://s.weibo.com/weibo?q=Faker%E5%A4%AA%E5%A4%B8%E5%BC%A0%E4%BA%86",
+       "summary": "",
+       "time": "",
+       "hot": "71.7w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
