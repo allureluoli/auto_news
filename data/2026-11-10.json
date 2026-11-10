@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-10",
+ "weekday": "星期二",
+ "generated_at": "2026-11-10T12:31:58+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
+       "url": "https://www.ithome.com/1/024/748.htm",
+       "summary": "原今日头条 CEO 陈林昨日在个人公众号发表文章《我为什么还要做教育？》，谈到离职字节、筹备 AI 教育创业等事。 IT之家注意到，陈林在公众号简介中写着“小鹿爱学（银河智学）创始人，曾任今日头条 CEO，…",
+       "time": "04:21",
+       "hot": ""
+      },
+      {
+       "title": "龙芯中科胡伟武：通用 CPU 3B6600、7A3000 即将回片",
+       "url": "https://www.ithome.com/1/024/746.htm",
+       "summary": "《科创板日报》10 日讯，龙芯中科董事长、总经理胡伟武今日在业绩会上表示，龙芯 6600 系列通用 CPU 及其配套芯片研制方面，公司第五代微结构桌面 CPU 3B6600 已于 20…",
+       "time": "04:05",
+       "hot": ""
+      },
+      {
+       "title": "消息称七彩虹主板双 11 后线上型号全面涨价，微星显卡代理商价格最高涨 8000 元",
+       "url": "https://www.ithome.com/1/024/745.htm",
+       "summary": "据博板堂旗下公众号 ChannelGate 视博合聚今日消息，七彩虹主板 11 月份开始执行最新线上销售价格， 从 11 月 11 日结束之后，全面调整 MSRP 销售指导价，主流型号均有一不小的上涨幅度…",
+       "time": "04:04",
+       "hot": ""
+      },
+      {
+       "title": "全新深蓝 G318 四驱畅行乾崑版 11 月 11 日上市，搭载华为乾崑技术与鸿蒙座舱",
+       "url": "https://www.ithome.com/1/024/744.htm",
+       "summary": "深蓝汽车今日宣布全新深蓝 G318 四驱畅行乾崑版将于 11 月 11 日上市，搭载华为乾崑技术与鸿蒙座舱。 IT之家注意到，全新深蓝 G318 于今年 8 月在成都车展上市， 限时优惠价 19.68 万元…",
+       "time": "04:04",
+       "hot": ""
+      },
+      {
+       "title": "小鹏汇天 CEO 赵德力：未来十年全球将迎来飞行汽车高速发展时期",
+       "url": "https://www.ithome.com/1/024/743.htm",
+       "summary": "小鹏汇天 CEO 赵德力发布微博称，相信未来十年全球将迎来飞行汽车高速发展时期。2026 web summit 中国企业阵容空前，扛起了世界先进科技的大旗。 IT之家注意到，11 月 9…",
+       "time": "03:56",
+       "hot": ""
+      },
+      {
+       "title": "华为 MateBook Fold S 鸿蒙小折叠电脑三色外观公布：搭载 Live 小方屏，11 月 14 日预订",
+       "url": "https://www.ithome.com/1/024/742.htm",
+       "summary": "华为官方今日宣布全新鸿蒙小折叠电脑 —— MateBook Fold S 将于 11 月 14 日 10:08 开启预订。 官方预热海报显示，新机搭载 Live 小方屏， 提供云海蓝、天际白、幻夜黑三款配色…",
+       "time": "03:54",
+       "hot": ""
+      },
+      {
+       "title": "消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量",
+       "url": "https://www.ithome.com/1/024/741.htm",
+       "summary": "韩媒 ETNEWS 当地时间昨日报道称，在三星电子 MX（移动体验）业务的规划中， Pro 和 Ultra 两个高阶版本将 Galaxy S27 系列智能手机整体出货量的七成左右 。 三星电子的 Galax…",
+       "time": "03:53",
+       "hot": ""
+      },
+      {
+       "title": "欲摘通用量子计算下一个“皇冠”：正元量子完成天使轮融资",
+       "url": "https://www.ithome.com/1/024/740.htm",
+       "summary": "新浪科技今天（11 月 10 日）发布博文，报道称正元量子完成天使轮融资， 将推动研发“千比特”超导量子计算机 ，加速三维封装、低温互连和集成测控等关键技术验证。 正元量子成立于 2026 年 2 月，致力…",
+       "time": "03:51",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "今年双十一，这些鼠标值得一看",
+       "url": "https://sspai.com/post/111065",
+       "summary": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+       "url": "https://sspai.com/post/118854",
+       "summary": "的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...",
+       "time": "08:24",
+       "hot": ""
+      },
+      {
+       "title": "派评 | 近期值得关注的 App",
+       "url": "https://sspai.com/post/118833",
+       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+       "time": "18:27",
+       "hot": ""
+      },
+      {
+       "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+       "url": "https://sspai.com/post/118799",
+       "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。",
+       "time": "16:24",
+       "hot": ""
+      },
+      {
+       "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
+       "url": "https://sspai.com/post/118227",
+       "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...",
+       "time": "15:40",
+       "hot": ""
+      },
+      {
+       "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
+       "url": "https://sspai.com/post/118029",
+       "summary": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。",
+       "time": "15:02",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "火星发现存在活火山的证据",
+       "url": "https://www.solidot.org/story?sid=85841",
+       "summary": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，…",
+       "time": "21:19",
+       "hot": ""
+      },
+      {
+       "title": "世界大城市都在沉降",
+       "url": "https://www.solidot.org/story?sid=85840",
+       "summary": "北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座城市城市的地面沉降。数据显示，10 座地面沉降最严重的城市分别是：墨西哥的托雷翁、墨…",
+       "time": "21:08",
+       "hot": ""
+      },
+      {
+       "title": "30 公斤的巨鼠曾在三千万年前生活在今天的泰国",
+       "url": "https://www.solidot.org/story?sid=85839",
+       "summary": "科学家根据两枚化石牙齿识别出一种体重约 30 公斤的巨型啮齿动物曾在 3300 万至 3500 万年前活跃于今天的泰国南部地区。泰国矿产资源部地质学家于 2004 年在甲米省一处煤矿中发现的一枚臼齿和一枚门齿。甲米盆地此前曾出土过古代灵长类…",
+       "time": "20:41",
+       "hot": ""
+      },
+      {
+       "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
+       "url": "https://www.solidot.org/story?sid=85838",
+       "summary": "高盛限制交易员和银行家使用 Anthropic 的 Claude Code 和微软的 GitHub，此举主要是出于风险方面的考虑。AI 编程工具主要提供给软件工程师，以及负责交易、量化研究和软件工程等的策略师。交易员将无法再使用这些工具监控…",
+       "time": "19:04",
+       "hot": ""
+      },
+      {
+       "title": "噪声污染伤害全球野生动物",
+       "url": "https://www.solidot.org/story?sid=85837",
+       "summary": "科学家早就知道，从喷气发动机的轰鸣到船舶螺旋桨的嗡鸣，人类活动产生的噪声会伤害动物，甚至会干扰鱼卵的正常发育。但此前人们并不清楚这一问题的普遍严重程度。一项大规模分析表明，噪声带来的影响远比研究人员预想的范围更广。研究涵盖陆地与水域共 17…",
+       "time": "18:23",
+       "hot": ""
+      },
+      {
+       "title": "英国纯电动汽车销量即将超过汽油车",
+       "url": "https://www.solidot.org/story?sid=85836",
+       "summary": "根据英国汽车行业组织 SMMT 的数据，10 月纯电汽车销量占英国新车的份额达到了 32%，而汽油车份额则降至 37.2%。按此趋势，英国纯电动汽车的销量将在一年内超过汽油车，甚至最早今年 12 月就能实现。10 月英国新车注册量为 152…",
+       "time": "17:57",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+       "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+       "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger i…",
+       "time": "08:28",
+       "hot": ""
+      },
+      {
+       "title": "What could China get from Jensen Huang?",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+       "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advan…",
+       "time": "08:07",
+       "hot": ""
+      },
+      {
+       "title": "Here’s what Trump said he knew about Jensen Huang",
+       "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+       "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge o…",
+       "time": "08:02",
+       "hot": ""
+      },
+      {
+       "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+       "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring a…",
+       "time": "07:46",
+       "hot": ""
+      },
+      {
+       "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+       "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+       "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-recondition…",
+       "time": "05:43",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Foldable Flight: The Best Paper Airplanes",
+       "url": "https://www.foldableflight.com",
+       "summary": "",
+       "time": "20:19",
+       "hot": "897 分 · 141 评论"
+      },
+      {
+       "title": "USPS now offers official ZIP Code boundary polygons",
+       "url": "https://postalpro.usps.com/zcb",
+       "summary": "",
+       "time": "03:58",
+       "hot": "541 分 · 276 评论"
+      },
+      {
+       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+       "summary": "",
+       "time": "00:00",
+       "hot": "490 分 · 273 评论"
+      },
+      {
+       "title": "Google Gemini routes personal Drive files and emails to human annotators",
+       "url": "https://github.com/thisisme6598/gemini_files/",
+       "summary": "",
+       "time": "02:24",
+       "hot": "479 分 · 114 评论"
+      },
+      {
+       "title": "Claude Fable 5.2 and Mythos 5.2",
+       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+       "summary": "",
+       "time": "02:01",
+       "hot": "321 分 · 669 评论"
+      },
+      {
+       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+       "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+       "summary": "",
+       "time": "04:04",
+       "hot": "313 分 · 230 评论"
+      },
+      {
+       "title": "E-means: Outperforming k-means in one-tenth the epochs",
+       "url": "https://e-means.github.io/",
+       "summary": "",
+       "time": "02:45",
+       "hot": "312 分 · 28 评论"
+      },
+      {
+       "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+       "summary": "https://www.cell.com/cell-reports-physical-science/fulltext/...",
+       "time": "22:31",
+       "hot": "290 分 · 190 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "anthropics/skills",
+       "url": "https://github.com/anthropics/skills",
+       "summary": "Public repository for Agent Skills",
+       "time": "",
+       "hot": "Python · +1,038 stars today"
+      },
+      {
+       "title": "meta/astryx",
+       "url": "https://github.com/meta/astryx",
+       "summary": "An open source design system that's fully customizable and agent ready",
+       "time": "",
+       "hot": "TypeScript · +3,278 stars today"
+      },
+      {
+       "title": "sherlock-project/sherlock",
+       "url": "https://github.com/sherlock-project/sherlock",
+       "summary": "Hunt down social media accounts by username across social networks",
+       "time": "",
+       "hot": "Python · +4,267 stars today"
+      },
+      {
+       "title": "google-deepmind/mujoco",
+       "url": "https://github.com/google-deepmind/mujoco",
+       "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+       "time": "",
+       "hot": "C++ · +574 stars today"
+      },
+      {
+       "title": "anthropics/claude-quickstarts",
+       "url": "https://github.com/anthropics/claude-quickstarts",
+       "summary": "A collection of projects designed to help developers quickly get started with building deployable applications…",
+       "time": "",
+       "hot": "Python · +551 stars today"
+      },
+      {
+       "title": "garrytan/gbrain",
+       "url": "https://github.com/garrytan/gbrain",
+       "summary": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+       "time": "",
+       "hot": "TypeScript · +216 stars today"
+      },
+      {
+       "title": "vercel-labs/agent-browser",
+       "url": "https://github.com/vercel-labs/agent-browser",
+       "summary": "Browser automation CLI for AI agents",
+       "time": "",
+       "hot": "Rust · +916 stars today"
+      },
+      {
+       "title": "ruvnet/RuView",
+       "url": "https://github.com/ruvnet/RuView",
+       "summary": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence…",
+       "time": "",
+       "hot": "Rust · +172 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+       "url": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:56",
+       "hot": ""
+      },
+      {
+       "title": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+       "url": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:28",
+       "hot": ""
+      },
+      {
+       "title": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+       "url": "https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+       "url": "https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:40",
+       "hot": ""
+      },
+      {
+       "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+       "url": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "胖东来发布系统化问题处理标准，称赔到破产也要坚守原则，落地难点在哪？",
+       "url": "https://www.zhihu.com/question/2102955820770125630",
+       "summary": "胖东来商贸集团发布《胖东来最新解决问题的标准方式系统》，系统化公开其面对公众质疑、商品问题及经营纠纷时的处理理念与底线原则。#胖东来给出底线承诺#胖东来表示，通过近几年胖东来在网络上出现的各个方面的问题，以及…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "女儿兴高采烈地向爸爸述说第一笔工资的用途，全是用来买她喜爱的东西，一分都不考虑家长。这个问题怎么看？",
+       "url": "https://www.zhihu.com/question/2081714595043993560",
+       "summary": "今天刷到一个爸爸发上来的视频，视频中女儿很兴奋的述说着人生第一笔工资的分配方式，从头到尾都没有提到给父母的一分钱或者礼物，我也有2个孩子，若是他们以后也如此这般，我将倍感心寒。",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "Faker 无缘四连冠，赛后镜头捕捉其释怀笑容，对此你有什么想说的？",
+       "url": "https://www.zhihu.com/question/2103089913650312793",
+       "summary": "",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "疑似秦始皇儿子头骨面容被复原，男子死时约30岁，头骨右颞骨中嵌有一枚青铜箭头，哪些细节值得关注？",
+       "url": "https://www.zhihu.com/question/2102853586312849265",
+       "summary": "西北大学科研团队利用颅面复原技术，还原了秦陵东侧上焦村陪葬墓中一名年轻男子的面容。专家推测，他大概率是秦始皇的儿子，死于秦二世胡亥的清洗运动。 这名男子死时约30岁，头骨右颞骨中嵌有一枚青铜箭头，头和四肢被肢解后置于棺内…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "如何看待蓉城博主发文「请成都纪委介入调查成都蓉城可能存在的违法违纪行为」？",
+       "url": "https://www.zhihu.com/question/2103131292707415197",
+       "summary": "直播吧11月08日讯 中超收官战，成都蓉城客场2-3不敌山东泰山，英博主场3-1击败天津津门虎，英博逆袭夺冠，蓉城遭逆转丢冠！ 蓉城博主“Royeesss”发文@成都纪委：“请介入调查成都兴城集团和下属公司成都蓉城足球俱…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "AI短剧《持械入宋》为什么能火爆出圈？",
+       "url": "https://www.zhihu.com/question/2101701219836060907",
+       "summary": "日前，AI短剧《持械入宋》火爆出圈。针对创作团队也产生了很多传言，“前基金分析师失业后创作了热播AI短剧《持械入宋》”就是其中之一。 11月3日，红星新闻记者采访了《持械入宋》总策划张汉生。他表示，目前，团队的30多名成…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "女子设置失误，5年给邻居充了近6000元话费，发觉后要求返还被拒，法院判定应全部返还，如何看待此事？",
+       "url": "https://www.zhihu.com/question/2100595201832116526",
+       "summary": "福建泉州安溪的王女士（化名）怎么也没想到，一次不经意的支付宝设置失误，竟让她连续5年每月自动往同村邻居的手机号码里充值话费，前后累计近6000元。 近日，法院对这场因话费引发的纠纷作出一审判决。 王女士诉称，她与陈女士是…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "动物都知道躲避天敌，而为什么几千年了，昆虫还是不知道躲着人类？",
+       "url": "https://www.zhihu.com/question/2017588180904346561",
+       "summary": "难道人类还不够致命，还是天敌是造物主写在基因中的信息，而不是进化出来的？",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "幼儿园、小学、初中学龄人口已经达峰",
+       "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E3%80%81%E5%B0%8F%E5%AD%A6%E3%80%81%E5%88%9D%E4%B8%AD%E5%AD%A6%E9%BE%84%E4%BA%BA%E5%8F%A3%E5%B7%B2%E7%BB%8F%E8%BE%BE%E5%B3%B0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "国家发改委在新闻发布会上表示，目前全国幼儿园、小学、初中学龄人口已经达峰，高中和高等教育学龄人口还在持续增长。这对资源配置提出新要求：需优化学前和义务教育资源配置，多渠道增加普通高中和高等教育学位供给，并更好保障城乡各类群体平…",
+       "time": "",
+       "hot": "780.92w"
+      },
+      {
+       "title": "华为推出全新小折叠电脑",
+       "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E5%B0%8F%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "华为常务董事余承东宣布推出全新小折叠电脑华为MateBook Fold S。该机提供三款配色，将于11月14日进入华为线下门店，并于当日10:08开启预售。",
+       "time": "",
+       "hot": "771.22w"
+      },
+      {
+       "title": "进博会“一米展台”洽谈热切",
+       "url": "https://www.baidu.com/s?wd=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E2%80%9C%E4%B8%80%E7%B1%B3%E5%B1%95%E5%8F%B0%E2%80%9D%E6%B4%BD%E8%B0%88%E7%83%AD%E5%88%87&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "第九届进博会进入第五天，各大展馆依然火热。参展商里，有体量庞大的世界500强，也有来自各国的中小微企业。有些展台往往只有一米多宽，但是把产品推向中国大市场的心情同样热切。",
+       "time": "",
+       "hot": "761.93w"
+      },
+      {
+       "title": "立陶宛要求所谓“台湾代表处” 改名",
+       "url": "https://www.baidu.com/s?wd=%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%A6%81%E6%B1%82%E6%89%80%E8%B0%93%E2%80%9C%E5%8F%B0%E6%B9%BE%E4%BB%A3%E8%A1%A8%E5%A4%84%E2%80%9D+%E6%94%B9%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "当地时间11月9日，立陶宛总统瑙塞达证实，立陶宛正与中国台湾方面就更改位于维尔纽斯的所谓“台湾代表处”名称进行磋商。此前，立陶宛外交部于9月向台北代表递交非正式文件，要求其在10月1日前完成更名。",
+       "time": "",
+       "hot": "752.32w"
+      },
+      {
+       "title": "零元面馆每天出面上千碗 排百米长队",
+       "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E6%AF%8F%E5%A4%A9%E5%87%BA%E9%9D%A2%E4%B8%8A%E5%8D%83%E7%A2%97+%E6%8E%92%E7%99%BE%E7%B1%B3%E9%95%BF%E9%98%9F&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，南京两家零元面馆每日免费供应上千碗素面，吸引大批市民排队，队伍最长达百米。面馆面向所有人开放，附近部分面馆生意受到冲击，有商户日营业额下降数百至2000元。",
+       "time": "",
+       "hot": "742.93w"
+      },
+      {
+       "title": "中国队战胜日本队夺“首金”",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E9%98%9F%E5%A4%BA%E2%80%9C%E9%A6%96%E9%87%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "在2026年达喀尔青奥会体操女子团体决赛中，中国队以0.234分的微弱优势战胜日本队，夺得该项目青奥会历史首枚金牌。",
+       "time": "",
+       "hot": "732.97w"
+      },
+      {
+       "title": "特斯拉中国10月销量从第1名掉到第66",
+       "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD10%E6%9C%88%E9%94%80%E9%87%8F%E4%BB%8E%E7%AC%AC1%E5%90%8D%E6%8E%89%E5%88%B0%E7%AC%AC66&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "据懂车帝最新数据，2026年10月特斯拉国内零售销量仅8817辆，同比下滑66.1%，Model Y仅售7807辆，跌至第66位。此前Model Y稳居前三。",
+       "time": "",
+       "hot": "723.68w"
+      },
+      {
+       "title": "湖人6连胜升至联盟第一",
+       "url": "https://www.baidu.com/s?wd=%E6%B9%96%E4%BA%BA6%E8%BF%9E%E8%83%9C%E5%8D%87%E8%87%B3%E8%81%94%E7%9B%9F%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "北京时间11月10日，东契奇32分8篮板10助攻5抢断2封盖，湖人拒绝大逆转，6连胜升至联盟第一！",
+       "time": "",
+       "hot": "713.68w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "花坛藏尸案一人死刑一人死缓",
+       "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E4%B8%80%E4%BA%BA%E6%AD%BB%E5%88%91%E4%B8%80%E4%BA%BA%E6%AD%BB%E7%BC%93",
+       "summary": "",
+       "time": "",
+       "hot": "169.7w"
+      },
+      {
+       "title": "花坛藏尸案死者儿子的心停留在10岁",
+       "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E6%AD%BB%E8%80%85%E5%84%BF%E5%AD%90%E7%9A%84%E5%BF%83%E5%81%9C%E7%95%99%E5%9C%A810%E5%B2%81",
+       "summary": "",
+       "time": "",
+       "hot": "94.2w"
+      },
+      {
+       "title": "浦江潮涌共赴进博之约",
+       "url": "https://s.weibo.com/weibo?q=%E6%B5%A6%E6%B1%9F%E6%BD%AE%E6%B6%8C%E5%85%B1%E8%B5%B4%E8%BF%9B%E5%8D%9A%E4%B9%8B%E7%BA%A6",
+       "summary": "",
+       "time": "",
+       "hot": "82.9w"
+      },
+      {
+       "title": "等风热吻你全阵容官宣",
+       "url": "https://s.weibo.com/weibo?q=%E7%AD%89%E9%A3%8E%E7%83%AD%E5%90%BB%E4%BD%A0%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3",
+       "summary": "",
+       "time": "",
+       "hot": "82.0w"
+      },
+      {
+       "title": "石家庄陨石确认为普通球粒陨石",
+       "url": "https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%99%A8%E7%9F%B3%E7%A1%AE%E8%AE%A4%E4%B8%BA%E6%99%AE%E9%80%9A%E7%90%83%E7%B2%92%E9%99%A8%E7%9F%B3",
+       "summary": "",
+       "time": "",
+       "hot": "76.8w"
+      },
+      {
+       "title": "东北成人礼割双眼皮是真的吗",
+       "url": "https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E6%88%90%E4%BA%BA%E7%A4%BC%E5%89%B2%E5%8F%8C%E7%9C%BC%E7%9A%AE%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97",
+       "summary": "",
+       "time": "",
+       "hot": "71.7w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
