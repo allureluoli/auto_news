@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-11",
+ "weekday": "星期三",
+ "generated_at": "2026-11-11T10:37:46+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "马斯克杀入通信圈：SpaceX 购买 800MHz 黄金频段申请获受理，几乎覆盖全美 100% 人口",
+       "url": "https://www.ithome.com/1/025/306.htm",
+       "summary": "美国联邦通信委员会（FCC）昨日（11 月 10 日）发布公告， 宣布受理 SpaceX 收购 Grain Management 旗下全美 800 兆赫兹频段牌照的申请，相关交易进入公众意见与审查程序。 I…",
+       "time": "02:31",
+       "hot": ""
+      },
+      {
+       "title": "AMD 推出企业级 AI 辅助编程平台 Instinct Coder 355，支持本地运行 GLM-5.3",
+       "url": "https://www.ithome.com/1/025/305.htm",
+       "summary": "AMD 当地时间本月 9 日宣布携手 Spectro Cloud 推出企业级 AI 辅助编程平台 Instinct Coder 355。该系统支持 GLM-5.3 推理部署， 可在本地实现前沿模型 98%…",
+       "time": "02:30",
+       "hot": ""
+      },
+      {
+       "title": "3999 元：微星推出 MAG 321UPX18 显示器，31.5 英寸 4K 180Hz QD-OLED 面板",
+       "url": "https://www.ithome.com/1/025/304.htm",
+       "summary": "微星现已推出 MAG 321UPX18 显示器。新品采用 31.5 英寸三星第四代 QD-OLED 面板，支持 4K 180Hz 高刷， 到手价 3999 元 。 据介绍，这款显示器采用三星第四代 QD-O…",
+       "time": "02:18",
+       "hot": ""
+      },
+      {
+       "title": "微软推送 11 月 Win10 扩展更新：修复打印机 87 错误，以及远程桌面故障",
+       "url": "https://www.ithome.com/1/025/303.htm",
+       "summary": "在本月补丁星期二活动日（11 月 10 日），微软面向处于扩展支持（ESU）状态的 Windows 10 设备，推送 KB5131096 累积更新，22H2 安装后版本号升至 Build 19045.784…",
+       "time": "02:15",
+       "hot": ""
+      },
+      {
+       "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
+       "url": "https://www.ithome.com/1/025/301.htm",
+       "summary": "阿里巴巴今日官宣， 全新一代千问大模型 Qwen4 即将发布 ：知识理解更深入，世界感知更立体，Coding 与 Agentic 能力持续进阶。 现在， Qwen4-Max 预览版已首发上线阿里 Token…",
+       "time": "02:10",
+       "hot": ""
+      },
+      {
+       "title": "余承东换上 OSTA O1 Pro 阔直板新机，官宣全新华为子品牌 OSTA 星芒",
+       "url": "https://www.ithome.com/1/025/300.htm",
+       "summary": "华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文， 全新华为子品牌 OSTA 星…",
+       "time": "02:06",
+       "hot": ""
+      },
+      {
+       "title": "三星官宣图库应用支持同步谷歌云存储，此前已结束同微软 OneDrive 合作",
+       "url": "https://www.ithome.com/1/025/299.htm",
+       "summary": "三星电子 (Samsung) 当地时间 10 日宣布， 其图库应用 Samsung Gallery 正式支持与 Google（谷歌）云存储的同步集成 ，用户可在更多位置随时访问保存照片和视频。 三星电子还推…",
+       "time": "02:04",
+       "hot": ""
+      },
+      {
+       "title": "谷歌本月开放 3 个顶级域名注册：吃饭用 .eat、出行用 .fly、办事用 .here",
+       "url": "https://www.ithome.com/1/025/298.htm",
+       "summary": "谷歌昨日（11 月 10 日）发布公告， 宣布旗下域名注册管理机构 Google Registry 推出 .eat、.fly 和 .here 三款顶级域名，为企业和个人提供新的网址后缀选择。 IT之家援引博…",
+       "time": "02:02",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+       "url": "https://sspai.com/post/118905",
+       "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。",
+       "time": "08:26",
+       "hot": ""
+      },
+      {
+       "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+       "url": "https://sspai.com/post/118861",
+       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...",
+       "time": "16:44",
+       "hot": ""
+      },
+      {
+       "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+       "url": "https://sspai.com/post/118824",
+       "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...",
+       "time": "16:02",
+       "hot": ""
+      },
+      {
+       "title": "今年双十一，这些鼠标值得一看",
+       "url": "https://sspai.com/post/111065",
+       "summary": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+       "url": "https://sspai.com/post/118854",
+       "summary": "的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...",
+       "time": "08:24",
+       "hot": ""
+      },
+      {
+       "title": "派评 | 近期值得关注的 App",
+       "url": "https://sspai.com/post/118833",
+       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+       "time": "18:27",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "微软宣布 .NET 11",
+       "url": "https://www.solidot.org/story?sid=85851",
+       "summary": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建…",
+       "time": "00:50",
+       "hot": ""
+      },
+      {
+       "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+       "url": "https://www.solidot.org/story?sid=85850",
+       "summary": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（C…",
+       "time": "00:23",
+       "hot": ""
+      },
+      {
+       "title": "波士顿动力为其人形机器人加入了轮子",
+       "url": "https://www.solidot.org/story?sid=85849",
+       "summary": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或…",
+       "time": "23:58",
+       "hot": ""
+      },
+      {
+       "title": "中国 Android 厂商开始要求开发者身份验证",
+       "url": "https://www.solidot.org/story?sid=85848",
+       "summary": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析…",
+       "time": "19:18",
+       "hot": ""
+      },
+      {
+       "title": "生成式 AI 过度美化现实",
+       "url": "https://www.solidot.org/story?sid=85847",
+       "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。…",
+       "time": "19:04",
+       "hot": ""
+      },
+      {
+       "title": "Epic Games 计划支持尽可能多的 Linux 发行版",
+       "url": "https://www.solidot.org/story?sid=85846",
+       "summary": "Epic Games 通讯主管 Jake Jones 表示，新 Epic Games 启动器目前处于预览阶段。Epic Games 计划支持尽可能多的 Linux 发行版，包括 Fedora、SteamOS、CachyOS、Omarchy…",
+       "time": "17:09",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+       "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+       "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's D…",
+       "time": "08:34",
+       "hot": ""
+      },
+      {
+       "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+       "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+       "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney P…",
+       "time": "06:07",
+       "hot": ""
+      },
+      {
+       "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+       "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+       "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding…",
+       "time": "05:40",
+       "hot": ""
+      },
+      {
+       "title": "Sony cancels live-service shooter Fairgames",
+       "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+       "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Son…",
+       "time": "05:06",
+       "hot": ""
+      },
+      {
+       "title": "The PlayStation Plus PC app is shutting down next month",
+       "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+       "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shu…",
+       "time": "04:42",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Smart home devices should work without the internet",
+       "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+       "summary": "",
+       "time": "23:25",
+       "hot": "732 分 · 260 评论"
+      },
+      {
+       "title": ".name Grandfathered",
+       "url": "https://neil.fraser.name/news/2026/11/10/",
+       "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments)",
+       "time": "00:37",
+       "hot": "697 分 · 163 评论"
+      },
+      {
+       "title": "AlphaProof Code",
+       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+       "summary": "",
+       "time": "20:11",
+       "hot": "583 分 · 178 评论"
+      },
+      {
+       "title": "AI usage generates a fragile codebase",
+       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+       "summary": "",
+       "time": "18:25",
+       "hot": "397 分 · 418 评论"
+      },
+      {
+       "title": "Scion is back and is going to sell a kei truck in America",
+       "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+       "summary": "",
+       "time": "03:50",
+       "hot": "344 分 · 258 评论"
+      },
+      {
+       "title": "Val Town is winding down",
+       "url": "https://blog.val.town/winding-down",
+       "summary": "",
+       "time": "01:31",
+       "hot": "315 分 · 82 评论"
+      },
+      {
+       "title": "Synaptics patent claims stop work on DisplayLink drivers",
+       "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+       "summary": "",
+       "time": "02:02",
+       "hot": "309 分 · 167 评论"
+      },
+      {
+       "title": "Ableton Live 13",
+       "url": "https://www.ableton.com/en/live/",
+       "summary": "",
+       "time": "20:58",
+       "hot": "279 分 · 302 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "meta/astryx",
+       "url": "https://github.com/meta/astryx",
+       "summary": "An open source design system that's fully customizable and agent ready",
+       "time": "",
+       "hot": "TypeScript · +3,108 stars today"
+      },
+      {
+       "title": "anthropics/skills",
+       "url": "https://github.com/anthropics/skills",
+       "summary": "Public repository for Agent Skills",
+       "time": "",
+       "hot": "Python · +1,679 stars today"
+      },
+      {
+       "title": "addyosmani/agent-skills",
+       "url": "https://github.com/addyosmani/agent-skills",
+       "summary": "Production-grade engineering skills for AI coding agents.",
+       "time": "",
+       "hot": "JavaScript · +465 stars today"
+      },
+      {
+       "title": "anthropics/claude-quickstarts",
+       "url": "https://github.com/anthropics/claude-quickstarts",
+       "summary": "A collection of projects designed to help developers quickly get started with building deployable applications…",
+       "time": "",
+       "hot": "Python · +531 stars today"
+      },
+      {
+       "title": "google-deepmind/mujoco",
+       "url": "https://github.com/google-deepmind/mujoco",
+       "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+       "time": "",
+       "hot": "C++ · +456 stars today"
+      },
+      {
+       "title": "we-promise/sure",
+       "url": "https://github.com/we-promise/sure",
+       "summary": "The personal finance app for everyone (by everyone)",
+       "time": "",
+       "hot": "Ruby · +159 stars today"
+      },
+      {
+       "title": "homeassistant-ai/ha-mcp",
+       "url": "https://github.com/homeassistant-ai/ha-mcp",
+       "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+       "time": "",
+       "hot": "Python · +790 stars today"
+      },
+      {
+       "title": "vercel-labs/agent-browser",
+       "url": "https://github.com/vercel-labs/agent-browser",
+       "summary": "Browser automation CLI for AI agents",
+       "time": "",
+       "hot": "Rust · +780 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+       "url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+       "url": "https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:06",
+       "hot": ""
+      },
+      {
+       "title": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+       "url": "https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:58",
+       "hot": ""
+      },
+      {
+       "title": "近 700 亿美元 IPO 定价突然撤回！Anthropic 最快今天路演，下周冲刺上市",
+       "url": "https://www.infoq.cn/article/8tquwes1yGbmTeyOjOId?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:54",
+       "hot": ""
+      },
+      {
+       "title": "Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？",
+       "url": "https://www.infoq.cn/article/UltsRzyiYdLd4r1S3mkm?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "17:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "山姆现20元一包泡面，含肉量60克以上，只能下锅煮不能开水泡，被吐槽太贵不方便，你怎么看？觉得值吗？",
+       "url": "https://www.zhihu.com/question/2103546819556762789",
+       "summary": "近日，山姆和康师傅联名泡面“潮卤牛三宝牛肉面”刷屏，引发网友讨论。然而这款牛肉面在2025年已上架，是山姆的限定款产品。 据悉，该泡面一箱4包，售价79.9元，折算下来单包接近20块。它和普通泡面最大的区别，是自带牛腱子…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "梁家辉、高叶分别拿下影帝、影后，如何评价第 39 届中国电影金鸡奖获奖名单？",
+       "url": "https://www.zhihu.com/question/2103547850734792735",
+       "summary": "最佳故事片奖：《南京照相馆》 ​​​​ 评委会特别奖：《给阿嬤的情书》 最佳导演奖： ​​​​郑大圣《密档》 最佳编剧：（编剧创作集体）蓝鸿春、郑萱轩、杨冷、朱丽云《给阿嬷的情书》 最佳男主角：梁家辉 （《捕风追影》饰傅…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "女子银行短信提醒突然被取消卡里近26万元消失，手机曾不受控制黑屏闪烁，这一过程发生了什么？该如何防范？",
+       "url": "https://www.zhihu.com/question/2103438593268238305",
+       "summary": "近日，湖南湘潭的周女士向媒体反映，自己10月25日买早餐时，支付7元被提示余额不足，才惊觉银行卡内近26万元不翼而飞。 周女士表示，钱款在六天内被分多笔转走，10月17日凌晨3点，自己原本设置的交易短信提醒突然被取消。女…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "为什么说《九州》注定会失败？",
+       "url": "https://www.zhihu.com/question/2103073365011461582",
+       "summary": "请大家理性讨论和平交流。",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
+       "url": "https://www.zhihu.com/question/2103425545253778677",
+       "summary": "快科技11月10日消息，10月份20万元以上新能源汽车零售销量排行榜出炉，小米汽车这次可以说是相当抢眼，旗下3款车型直接包揽榜单前三名，把不少老牌车企都甩在了后面。 从榜单来看，小米澎程N70以14545辆的成绩拿下第一…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "一名校毕业生为泄私愤向境外机构匿名举报，诬陷同事是「间谍」，会造成多大不良影响？诬告人将付出什么代价？",
+       "url": "https://www.zhihu.com/question/2103443808469741832",
+       "summary": "记者从国家安全部获悉，近期，国家安全机关依法处置了一起因发泄不满情绪，恶意向某境外机构举报同事为间谍的案件。 一封指向“间谍”的匿名举报信 刘某是某名牌大学的高才生，2018年研究生毕业后，进入某事业单位工作，工作表现优…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "如何看待网友晒「上海和平饭店6人餐花费51万元的天价小票」，饭店辟谣称小票系伪造，警方目前已介入 ？",
+       "url": "https://www.zhihu.com/question/2103428607267885143",
+       "summary": "一个菜品1288元、一瓶酒水23万元、服务费4.7万多元…11月8日，有网友通过社交平台晒出的一张6人餐花费51万多元的天价消费小票，引发广泛关注。对此，涉事的上海和平饭店辟谣称，相关消费小票系网友伪造，警方表示会跟进处…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "如何评价学院命名冗余的现象？比如“数学学院”“化学学院”，以前都是简单的“数学院”“化学院”？",
+       "url": "https://www.zhihu.com/question/2093992462004102216",
+       "summary": "",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "罗大佑怒批赖清德：不要脸到家了",
+       "url": "https://www.baidu.com/s?wd=%E7%BD%97%E5%A4%A7%E4%BD%91%E6%80%92%E6%89%B9%E8%B5%96%E6%B8%85%E5%BE%B7%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8%E5%88%B0%E5%AE%B6%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "台湾歌手罗大佑怒批民进党及赖清德“不要脸到家”。他批评民进党主政下毫无标准，为赢不择手段，并提及蔡英文没有子女、赖清德儿子送美国，呼吁台湾人为了下一代觉醒。",
+       "time": "",
+       "hot": "780.83w"
+      },
+      {
+       "title": "梁家辉拒绝工作人员帮拿金鸡奖杯",
+       "url": "https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%B6%E8%BE%89%E6%8B%92%E7%BB%9D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B8%AE%E6%8B%BF%E9%87%91%E9%B8%A1%E5%A5%96%E6%9D%AF&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "第39届金鸡奖颁奖后，梁家辉凭《捕风追影》首提即获最佳男主角。采访间工作人员想帮他拿奖杯，他闪身躲开喊“甭想”，又笑着补充“离不开了”。",
+       "time": "",
+       "hot": "771.36w"
+      },
+      {
+       "title": "“效率提升百倍” 新型基础设施来了",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E7%99%BE%E5%80%8D%E2%80%9D+%E6%96%B0%E5%9E%8B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "随着人工智能技术的快速迭代，这两年，AI黑灯实验室正在加快落地，开辟智能科研服务新赛道。黑灯实验室真正厉害的地方，是在没有科研人员现场值守的情况下，也能7×24小时自主设计、执行和分析实验，并根据结果继续优化下一轮方案。企业负责人表示：“效…",
+       "time": "",
+       "hot": "761.58w"
+      },
+      {
+       "title": "“嘉豪”希望改名：被嘲笑晚上睡不着",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%98%89%E8%B1%AA%E2%80%9D%E5%B8%8C%E6%9C%9B%E6%94%B9%E5%90%8D%EF%BC%9A%E8%A2%AB%E5%98%B2%E7%AC%91%E6%99%9A%E4%B8%8A%E7%9D%A1%E4%B8%8D%E7%9D%80&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "一小学男孩因名字“嘉豪”成为网络贬义梗，在学校常遭嘲笑导致失眠，多次请求母亲改掉名字。其母刘女士称名字本寓意美好，但因老家路远暂无法改名。",
+       "time": "",
+       "hot": "752.33w"
+      },
+      {
+       "title": "张雪改口 不捐给韩红基金会了",
+       "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3+%E4%B8%8D%E6%8D%90%E7%BB%99%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，张雪发视频改口，53号冠军赛车拍卖款不再捐给韩红基金会。他称“发生了一些事情，内心有质疑”，宣布22日拍卖所得全部用于资助中国小车手成长。",
+       "time": "",
+       "hot": "742.46w"
+      },
+      {
+       "title": "鲨鱼滞销 4条仅70元",
+       "url": "https://www.baidu.com/s?wd=%E9%B2%A8%E9%B1%BC%E6%BB%9E%E9%94%80+4%E6%9D%A1%E4%BB%8570%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近期，有渔民在码头以4条70元甩卖兼捕的尖吻鲭鲨。9月中旬东海全面开渔后，渔民捕捞时常意外捕获鲨鱼。专家指其属濒危物种，呼吁捕获后放生。",
+       "time": "",
+       "hot": "733w"
+      },
+      {
+       "title": "醉汉持刀闯入家中 男子反击致其死亡",
+       "url": "https://www.baidu.com/s?wd=%E9%86%89%E6%B1%89%E6%8C%81%E5%88%80%E9%97%AF%E5%85%A5%E5%AE%B6%E4%B8%AD+%E7%94%B7%E5%AD%90%E5%8F%8D%E5%87%BB%E8%87%B4%E5%85%B6%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "今年2月，河南平顶山一男子季某被同村醉酒男子持刀闯入家中，情急下用钢筋反击致对方死亡；季某已因涉嫌故意伤害罪被捕、案件进入审查起诉，其律师称属正当防卫。",
+       "time": "",
+       "hot": "723.39w"
+      },
+      {
+       "title": "00后男美人鱼走红后日薪上涨",
+       "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E7%94%B7%E7%BE%8E%E4%BA%BA%E9%B1%BC%E8%B5%B0%E7%BA%A2%E5%90%8E%E6%97%A5%E8%96%AA%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，00后武汉体育学院学生肖淞译因男美人鱼表演走红，商演日薪上涨200元，此前日薪可达2500元。他曾是职业跳水运动员，因伤病退役转型，毕业想当体育老师。",
+       "time": "",
+       "hot": "714.19w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "5个上门维修师傅2个说了实话",
+       "url": "https://s.weibo.com/weibo?q=5%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%852%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D",
+       "summary": "",
+       "time": "",
+       "hot": "111.8w"
+      },
+      {
+       "title": "青稚 白小纯",
+       "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%20%E7%99%BD%E5%B0%8F%E7%BA%AF",
+       "summary": "",
+       "time": "",
+       "hot": "80.2w"
+      },
+      {
+       "title": "让优质教育更可及让上学选择更多元",
+       "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E4%BC%98%E8%B4%A8%E6%95%99%E8%82%B2%E6%9B%B4%E5%8F%AF%E5%8F%8A%E8%AE%A9%E4%B8%8A%E5%AD%A6%E9%80%89%E6%8B%A9%E6%9B%B4%E5%A4%9A%E5%85%83",
+       "summary": "",
+       "time": "",
+       "hot": "63.0w"
+      },
+      {
+       "title": "央视曝光取消外卖短视频系摆拍",
+       "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8F%96%E6%B6%88%E5%A4%96%E5%8D%96%E7%9F%AD%E8%A7%86%E9%A2%91%E7%B3%BB%E6%91%86%E6%8B%8D",
+       "summary": "",
+       "time": "",
+       "hot": "52.2w"
+      },
+      {
+       "title": "塔图姆打招呼布朗没回应",
+       "url": "https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%86%E6%89%93%E6%8B%9B%E5%91%BC%E5%B8%83%E6%9C%97%E6%B2%A1%E5%9B%9E%E5%BA%94",
+       "summary": "",
+       "time": "",
+       "hot": "43.8w"
+      },
+      {
+       "title": "Ming 青稚",
+       "url": "https://s.weibo.com/weibo?q=Ming%20%E9%9D%92%E7%A8%9A",
+       "summary": "",
+       "time": "",
+       "hot": "41.4w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
