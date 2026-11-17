@@ -1,0 +1,601 @@
+{
+ "date": "2026-11-17",
+ "weekday": "星期二",
+ "generated_at": "2026-11-17T13:00:01+08:00",
+ "brief": {
+  "date": "2026-11-17",
+  "tip": "哪怕身处幽暗时刻，也要心向阳光，相信美好，总会如期奔赴而来",
+  "items": [
+   "中央气象台：未来 10 天受频繁的冷空气影响，北方大部地区较常年同期气温偏低",
+   "狮子座流星雨将于 11 月 18 日迎来极大期，最佳观测窗口为 18 日凌晨至天亮前",
+   "11 月旅游 “淡季” 变 “旺季”：冰雪亲子研学游需求预计增长 30% 以上",
+   "统计局：10 月规模以上工业增加值同比增长 4.8%，社会消费品零售总额同比增长 0.4%",
+   "10 月 70 城房价出炉：一线城市房价接近止跌，二手房交易连续多月跑赢新房",
+   "医疗服务价格改革 8 年账本：个人卫生支出占比下降 1.6 个百分点",
+   "DeepSeek 因算力不足对 App / 网页版限额使用：7 天不活跃长对话不再支持，单次输入上限缩至约 4 万字",
+   "国际金价跌破 3900 美元，国内金饰克价年内回撤超 540 元，50 克金镯高点入手已缩水超 2.7 万元",
+   "深圳成为中国内地首个外贸总值超 5 万亿元城市，前 10 月进出口同比增四成",
+   "中俄美三国元首将在深圳会晤，外交部：历史首次面对面会晤，有开创性意义",
+   "英媒：黄仁勋考虑重返英伟达，马斯克等公开签联名信，其硅谷盟友向英伟达董事会施压",
+   "美国拟将英伟达、亚马逊、微软、OpenAI 等逾 24 家企业列为 AI “国家领军企业”",
+   "美国 “火神” 火箭发射失败：升空约 10 分钟后出现异常，未能将 40 颗卫星送入预定轨道",
+   "日本三季度实际 GDP 年率下降 0.1%，为四个季度来首次负增长，表现不及市场预期",
+   "英媒爆以将 350 万张照片上传至亚马逊云平台，通过人脸识别技术追踪巴勒斯坦人"
+  ]
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "消息称京东方 / 华星 / 天马 / 维信诺等屏厂积极送测阔直板，安卓阵营 2027 年将迎集中爆发",
+       "url": "https://www.ithome.com/1/028/219.htm",
+       "summary": "微博博主 @数码闲聊站 今日发文称，京东方 / 华星 / 天马 / 维信诺等面板厂商都在积极送测阔直板， 安卓阵营的阔直板会在明年迎来集中爆发 。 IT之家在此援引博主，安卓厂商的阔直板开屏比例大都押注 1…",
+       "time": "04:42",
+       "hot": ""
+      },
+      {
+       "title": "奇瑞捷途 X70M 上市，官方指导价 6.59 万至 8.09 万元",
+       "url": "https://www.ithome.com/1/028/218.htm",
+       "summary": "捷途 X70M 今日正式上市，官方指导价为 6.59 万至 8.09 万元，同时推出包含惊喜礼、金融礼、生态礼和质保礼在内的 4 大购车权益。 1.5TCI-6MT 舒适版官方指导价为 6.59 万元，购车…",
+       "time": "04:42",
+       "hot": ""
+      },
+      {
+       "title": "消息称阿里调整员工回流政策，知情人士否认“史上最严”说法",
+       "url": "https://www.ithome.com/1/028/217.htm",
+       "summary": "有市场消息称，近日阿里巴巴发布最新通知，员工回流政策有所调整。 即日起， 从阿里集团主动离职 1 次，要满 6 个月后方可应聘 ，但回流到集团内未曾任职的业务集团的岗位，不受此时间限制。…",
+       "time": "04:35",
+       "hot": ""
+      },
+      {
+       "title": "摩托罗拉预告新机：预计为 Edge 70 Neo，搭载高通骁龙 7s Gen 3 芯片",
+       "url": "https://www.ithome.com/1/028/215.htm",
+       "summary": "摩托罗拉前天在 X 平台预热一款新机，名称暂未公布。结合此前爆料图片来看，我们可以预测这款机型是 Edge 70 Neo。 从官方公布的预热图片我们可以得出以下信息：该机采用深绿色配色，背部带有方形摄像头模…",
+       "time": "04:32",
+       "hot": ""
+      },
+      {
+       "title": "比亚迪李柯：未来就是新能源，多国政商界人士点名参观比亚迪",
+       "url": "https://www.ithome.com/1/028/214.htm",
+       "summary": "2026 年亚太经合组织（APEC）工商领导人峰会在深圳举行。 据新浪财经报道，比亚迪执行副总裁李柯在公开接受采访时透露，峰会期间，不少企业及各国领导人专门提出希望前往比亚迪…",
+       "time": "04:30",
+       "hot": ""
+      },
+      {
+       "title": "微软高管自嘲：Win11 仍藏着 Win95 时代的“电话拨号器”",
+       "url": "https://www.ithome.com/1/028/213.htm",
+       "summary": "科技媒体 Windows Latest 昨日（11 月 16 日）发布博文，报道称微软 Windows 传播总监布兰登 · 勒布兰克（Brandon LeBlanc）在 X 平台自嘲， 他“甚至不知道为什么…",
+       "time": "04:25",
+       "hot": ""
+      },
+      {
+       "title": "360 回应副总裁卜思南被带走调查传闻：内审发现其涉嫌经济问题，已报案",
+       "url": "https://www.ithome.com/1/028/212.htm",
+       "summary": "综合第一财经、鞭牛士报道，多位消息人士透露，360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查。 对此，360 官方今日回应称， 公司内审发现卜思南涉嫌经济问题后，已向公安机关报…",
+       "time": "04:23",
+       "hot": ""
+      },
+      {
+       "title": "51.99 万元：东风猛士 M817 Ultimate 智能越野大师上市，马力超千匹",
+       "url": "https://www.ithome.com/1/028/211.htm",
+       "summary": "东风猛士 M817 Ultimate 智能越野大师今日正式上市，新车上市指导价 51.99 万元。即日起定购可享价值 1 万元汉白赭双拼内饰限时免费、价值 5980 元 5mm 底盘装甲限时免费、价值 49…",
+       "time": "04:17",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+       "url": "https://sspai.com/post/118442",
+       "summary": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。",
+       "time": "10:59",
+       "hot": ""
+      },
+      {
+       "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+       "url": "https://sspai.com/post/119160",
+       "summary": "的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...",
+       "time": "07:57",
+       "hot": ""
+      },
+      {
+       "title": "派评 | 近期值得关注的 App",
+       "url": "https://sspai.com/post/119148",
+       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+       "time": "18:09",
+       "hot": ""
+      },
+      {
+       "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+       "url": "https://sspai.com/post/118100",
+       "summary": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...",
+       "time": "15:37",
+       "hot": ""
+      },
+      {
+       "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+       "url": "https://sspai.com/post/119012",
+       "summary": "能切换老设备音质的媒体播放器。",
+       "time": "10:52",
+       "hot": ""
+      },
+      {
+       "title": "派早报：逾十万人次联署要求黄仁勋复职",
+       "url": "https://sspai.com/post/119119",
+       "summary": "逾十万人次联署要求黄仁勋复职 Microsoft 365 服务在 19 小时全球宕机后恢复 国产前沿模型携带 Blackwell GPU 特征 线缆更换导致全美飞机停飞 流媒体用户抱怨更难找到想看作品 特斯拉 Cybercab 订阅协议包含…",
+       "time": "07:24",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "Robert Pattinson 成为第七任 007",
+       "url": "https://www.solidot.org/story?sid=85905",
+       "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Cra…",
+       "time": "00:18",
+       "hot": ""
+      },
+      {
+       "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+       "url": "https://www.solidot.org/story?sid=85904",
+       "summary": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为有益代谢产物的过程。研究人员针对了名为酚…",
+       "time": "23:51",
+       "hot": ""
+      },
+      {
+       "title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+       "url": "https://www.solidot.org/story?sid=85903",
+       "summary": "微软公布了初步事件报告，称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故。它将于 11 月 20 日公布更详细的信息。微软称，它于今年 7 月部署了针对 Microsoft 365 网络网关服务器的一项修正，运行三个多月未出…",
+       "time": "23:00",
+       "hot": ""
+      },
+      {
+       "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+       "url": "https://www.solidot.org/story?sid=85902",
+       "summary": "微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使…",
+       "time": "22:13",
+       "hot": ""
+      },
+      {
+       "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
+       "url": "https://www.solidot.org/story?sid=85900",
+       "summary": "联合发射联盟（ULA）周日使用其 Vulcan 火箭发射 40 颗亚马逊 Leo 宽带卫星，火箭在二级飞行阶段出现了异常而发射失败，亚马逊的卫星未能正常入轨。Vulcan 火箭此前由于其火箭助推器的喷管问题而从今年 2 月起就停飞。Vulc…",
+       "time": "18:33",
+       "hot": ""
+      },
+      {
+       "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
+       "url": "https://www.solidot.org/story?sid=85899",
+       "summary": "根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google 搜索的流量减少，促使 Reddit 准备强制要求所有访客必须登录。2024 年…",
+       "time": "17:26",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+       "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+       "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nation…",
+       "time": "09:02",
+       "hot": ""
+      },
+      {
+       "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+       "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+       "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked ot…",
+       "time": "07:35",
+       "hot": ""
+      },
+      {
+       "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+       "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+       "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industr…",
+       "time": "07:20",
+       "hot": ""
+      },
+      {
+       "title": "California sues OpenAI over rogue AI hacking incidents",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+       "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, includ…",
+       "time": "07:04",
+       "hot": ""
+      },
+      {
+       "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+       "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+       "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bon…",
+       "time": "05:41",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+       "url": "https://www.cs.cmu.edu/learn/",
+       "summary": "",
+       "time": "04:43",
+       "hot": "1010 分 · 157 评论"
+      },
+      {
+       "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+       "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+       "summary": "",
+       "time": "02:31",
+       "hot": "739 分 · 619 评论"
+      },
+      {
+       "title": "BugMeNot has closed",
+       "url": "https://www.bugmenot.com/",
+       "summary": "",
+       "time": "05:32",
+       "hot": "411 分 · 200 评论"
+      },
+      {
+       "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+       "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+       "summary": "",
+       "time": "06:58",
+       "hot": "383 分 · 236 评论"
+      },
+      {
+       "title": "Frame – 31.5\" color ePaper display",
+       "url": "https://trmnl.com/blog/introducing-frame",
+       "summary": "",
+       "time": "00:23",
+       "hot": "344 分 · 241 评论"
+      },
+      {
+       "title": "Jiff 1.0: A datetime library for Rust",
+       "url": "https://burntsushi.net/jiff/",
+       "summary": "",
+       "time": "00:53",
+       "hot": "343 分 · 78 评论"
+      },
+      {
+       "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+       "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+       "summary": "",
+       "time": "21:18",
+       "hot": "256 分 · 185 评论"
+      },
+      {
+       "title": "Grazing sheep in fields with solar arrays",
+       "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+       "summary": "",
+       "time": "01:27",
+       "hot": "244 分 · 238 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "ag-ui-protocol/ag-ui",
+       "url": "https://github.com/ag-ui-protocol/ag-ui",
+       "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+       "time": "",
+       "hot": "TypeScript · +791 stars today"
+      },
+      {
+       "title": "backnotprop/plannotator",
+       "url": "https://github.com/backnotprop/plannotator",
+       "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share wit…",
+       "time": "",
+       "hot": "TypeScript · +696 stars today"
+      },
+      {
+       "title": "dream-num/univer",
+       "url": "https://github.com/dream-num/univer",
+       "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processin…",
+       "time": "",
+       "hot": "TypeScript · +1,828 stars today"
+      },
+      {
+       "title": "tradermonty/claude-trading-skills",
+       "url": "https://github.com/tradermonty/claude-trading-skills",
+       "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars,…",
+       "time": "",
+       "hot": "Python · +837 stars today"
+      },
+      {
+       "title": "elementalsouls/Claude-BugHunter",
+       "url": "https://github.com/elementalsouls/Claude-BugHunter",
+       "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disc…",
+       "time": "",
+       "hot": "Python · +1,094 stars today"
+      },
+      {
+       "title": "getarcaneapp/arcane",
+       "url": "https://github.com/getarcaneapp/arcane",
+       "summary": "Modern Docker Management, Designed for Everyone",
+       "time": "",
+       "hot": "Go · +46 stars today"
+      },
+      {
+       "title": "DeanChensj/jiangshan-map",
+       "url": "https://github.com/DeanChensj/jiangshan-map",
+       "summary": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territ…",
+       "time": "",
+       "hot": "JavaScript · +288 stars today"
+      },
+      {
+       "title": "google-labs-code/stitch-skills",
+       "url": "https://github.com/google-labs-code/stitch-skills",
+       "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills ope…",
+       "time": "",
+       "hot": "TypeScript · +529 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本",
+       "url": "https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "12:42",
+       "hot": ""
+      },
+      {
+       "title": "Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能",
+       "url": "https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "12:00",
+       "hot": ""
+      },
+      {
+       "title": "File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具",
+       "url": "https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题",
+       "url": "https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:41",
+       "hot": ""
+      },
+      {
+       "title": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+       "url": "https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:15",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "北大新款羽绒服 399 元含鹅绒量 90%卖断货，校外人士求代购，这类高校文创比商业品牌更有性价比吗？",
+       "url": "https://www.zhihu.com/question/2105477478731067979",
+       "summary": "进入冬季，北京大学新款羽绒外套刷屏社交平台，不仅校内师生抢购，就连校友、校外人士也纷纷“求代购”。@北京日报 记者注意到，近期，出圈的北京高校文创不胜枚举：中国人民大学校徽同款“人”形系列文创上线即被抢购一空，清华大学的…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "传腾讯内部陷空前危机感，因为AI正在冲击其以社交为核心的商业模式，是真的吗？腾讯的商业模式会被颠覆吗？",
+       "url": "https://www.zhihu.com/question/2105734658377741339",
+       "summary": "近段时间，关于腾讯等互联网大厂的架构调整与人员优化传闻在坊间流传。11月16日，腾讯对外公布总办LinkTime现场笔记。面对AI巨浪，在这场深度发声里，腾讯总办以“心态归零”为主题，用“生死存亡”“迅速上船迎战”“打破…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "南京无门槛的「零元面馆」为什么招来那么多质疑与批评？",
+       "url": "https://www.zhihu.com/question/2104559437331568051",
+       "summary": "“零元面馆”是纯素面，还愿意排队吃他的人，说明是真的有需求。人家实实在做好事，却招来那么多批评。那些批评的人，到底是什么心理呢？ 【零元面馆老板说骂我越多福报越多】零元面馆老板回应创办初衷 一家无门_凤凰网【零元面馆老板…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "罗伯特⋅帕丁森将出演新一任 007，如何评价这一选角？",
+       "url": "https://www.zhihu.com/question/2105811112532899617",
+       "summary": "美国时间11月16日上午，亚马逊影业官宣了新一任007将由英国演员罗伯特⋅帕丁森饰演。帕丁森今年40岁，最近一段时间他已经饰演了新一任蝙蝠侠、出演了《奥德赛》的反派，并将在《沙丘3》出演重要配角。 此前传闻中的007候选…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "为什么AI生成一条5秒钟的视频费用很高，而类似漫剧这样的内容却能大批量生产？",
+       "url": "https://www.zhihu.com/question/2071378238237053951",
+       "summary": "我现在正在打算学习如何生成视频，但我发现好像非常的高，虽然漫剧有可能过万，但好像成本会更高。",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "为什么现在的中小学普遍开始春秋假期？",
+       "url": "https://www.zhihu.com/question/2105586557558199490",
+       "summary": "",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "为什么中国式刺身（鱼脍）在明中期被逐渐淘汰了？",
+       "url": "https://www.zhihu.com/question/470428983",
+       "summary": "现在说起刺身的第一反应就是日料，国内很少有地区还在吃鱼生了，但这个吃法其实发源自中国。",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "剧版《哈利·波特》正片片段首曝光，公开了霍格沃茨入学仪式的盛宴片段，角色和场景符合你的预期吗？",
+       "url": "https://www.zhihu.com/question/2105583961661339147",
+       "summary": "",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "俄美运输机已率先抵达深圳",
+       "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E8%BF%90%E8%BE%93%E6%9C%BA%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "俄罗斯和美国运输机先后出现在深圳宝安国际机场停机坪。按照外事活动惯例，运输机通常提前抵达，为领导人出访及相关活动提供后勤保障。",
+       "time": "",
+       "hot": "780.8w"
+      },
+      {
+       "title": "APEC来了 华强北生意爆了",
+       "url": "https://www.baidu.com/s?wd=APEC%E6%9D%A5%E4%BA%86+%E5%8D%8E%E5%BC%BA%E5%8C%97%E7%94%9F%E6%84%8F%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近期，深圳华强北电子产品店老板表示，APEC会议举行让更多人看到深圳，生意因此变好。此前其门店国外顾客占比约10%，现因APEC会议临近，国外友人明显增多。",
+       "time": "",
+       "hot": "771.28w"
+      },
+      {
+       "title": "APEC“中国年”",
+       "url": "https://www.baidu.com/s?wd=APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "亚太经合组织第三十三次领导人非正式会议将在深圳举行，这是中国第三次，也是时隔12年再次担任APEC东道主。作为亚太地区层级最高、领域最广、最具影响力的经济合作机制，今年在深圳举办的APEC会议承载着各方对开放、创新、合…",
+       "time": "",
+       "hot": "761.64w"
+      },
+      {
+       "title": "特朗普将成首位到访深圳的在任美总统",
+       "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E6%88%90%E9%A6%96%E4%BD%8D%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E7%9A%84%E5%9C%A8%E4%BB%BB%E7%BE%8E%E6%80%BB%E7%BB%9F&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，特朗普将成为首位到访深圳的在任美国总统，出席APEC峰会。CNN发文介绍深圳从小渔村发展为科技之都的历程，称这里已成为汇聚华为、比亚迪、腾讯等科技巨头的“中国硅谷”。",
+       "time": "",
+       "hot": "752.36w"
+      },
+      {
+       "title": "高达近800℃！被窝被它暖“没”了",
+       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "随着寒意逐渐蔓延，不少人打开电热毯暖被窝，然而，稍有不慎，它就可能成为家中的“定时炸弹”。11月11日，安徽宿州一住宅因未拔电热毯电源发生火灾，明火被扑灭。消防部门指出，电热毯反复折叠致加热丝断裂，接触不良可产生近800℃高温引燃被褥，且初…",
+       "time": "",
+       "hot": "742.84w"
+      },
+      {
+       "title": "360集团副总裁卜思南被带走调查",
+       "url": "https://www.baidu.com/s?wd=360%E9%9B%86%E5%9B%A2%E5%89%AF%E6%80%BB%E8%A3%81%E5%8D%9C%E6%80%9D%E5%8D%97%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "360集团副总裁卜思南近期被带走调查。360公司回应称，内审发现该员工涉嫌经济问题，已向公安机关报案，目前其正接受有关部门调查。此前今年8月，卜思南被任命为360市场部负责人，向周鸿祎汇报。",
+       "time": "",
+       "hot": "732.95w"
+      },
+      {
+       "title": "打工者的拖鞋梳子都成了展品",
+       "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%B7%A5%E8%80%85%E7%9A%84%E6%8B%96%E9%9E%8B%E6%A2%B3%E5%AD%90%E9%83%BD%E6%88%90%E4%BA%86%E5%B1%95%E5%93%81&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "深圳改革开放展览馆展出打工者曾用的拖鞋、梳子、锅碗瓢盆等生活物件，引发网友关注。这些“新鲜”展品记录了几代深圳人的奋斗记忆和城市成长。",
+       "time": "",
+       "hot": "723.3w"
+      },
+      {
+       "title": "“公安局的 怎么会要钱呢！”",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AC%E5%AE%89%E5%B1%80%E7%9A%84+%E6%80%8E%E4%B9%88%E4%BC%9A%E8%A6%81%E9%92%B1%E5%91%A2%EF%BC%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，安徽肥东市民武女士独自驾驶电动轮椅迷路。肥东县公安局民警接求助后赶到现场，因雨天路滑且距离7公里远，辅警将武女士抱上警车送其回家。武女士询问多少钱，辅警笑答“不要钱，公安局的怎么会要钱”。",
+       "time": "",
+       "hot": "713.75w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "深圳APEC主持人阵容拉满",
+       "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3APEC%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E6%8B%89%E6%BB%A1",
+       "summary": "",
+       "time": "",
+       "hot": "113.7w"
+      },
+      {
+       "title": "杨瀚森砍鲨战术",
+       "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%A0%8D%E9%B2%A8%E6%88%98%E6%9C%AF",
+       "summary": "",
+       "time": "",
+       "hot": "82.6w"
+      },
+      {
+       "title": "数说APEC中国年经贸成果",
+       "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%B4APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C",
+       "summary": "",
+       "time": "",
+       "hot": "65.8w"
+      },
+      {
+       "title": "信小呆中奖后抑郁了",
+       "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E5%B0%8F%E5%91%86%E4%B8%AD%E5%A5%96%E5%90%8E%E6%8A%91%E9%83%81%E4%BA%86",
+       "summary": "",
+       "time": "",
+       "hot": "63.0w"
+      },
+      {
+       "title": "从100斤瘦到80斤堪比整容",
+       "url": "https://s.weibo.com/weibo?q=%E4%BB%8E100%E6%96%A4%E7%98%A6%E5%88%B080%E6%96%A4%E5%A0%AA%E6%AF%94%E6%95%B4%E5%AE%B9",
+       "summary": "",
+       "time": "",
+       "hot": "49.0w"
+      },
+      {
+       "title": "虞书欣新综艺开机",
+       "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E7%BB%BC%E8%89%BA%E5%BC%80%E6%9C%BA",
+       "summary": "",
+       "time": "",
+       "hot": "48.7w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": []
+}
