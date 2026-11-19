@@ -1,0 +1,601 @@
+{
+ "date": "2026-11-19",
+ "weekday": "星期四",
+ "generated_at": "2026-11-19T12:02:04+08:00",
+ "brief": {
+  "date": "2026-11-19",
+  "tip": "安静沉淀，默默积蓄力量，不急于求成，属于你的时机终会到来",
+  "items": [
+   "国家防灾减灾救灾委：预测今冬北方强降温降雪、南方阶段性低温雨雪冰冻灾害风险突出",
+   "我国境内最晚直立人化石被发现，改写直立人生态适应认知",
+   "广西就 “广西人游广西” 行动征求意见：鼓励探索每月一周 2.5 天弹性休假，落实中小学春秋假",
+   "湖南慈利县给 80 周岁至 89 周岁老人，每人每月发 5 元高龄补贴；当地：县里自筹资金，多了财政难以承担",
+   "江南大学将大学英语改为选修，四六级、雅思托福等可认定学分，学校：符合免修条件才可不上课",
+   "多所高校要求师生在论文发表前完成备案，否则不纳入科研成果",
+   "江苏发文规范平台经济发展：依法打击算法霸权、数据滥用",
+   "现货黄金价格失守 3800 美元，创 14 个月新低；国内品牌金饰克价已七连跌，较年内高点跌超 570 元",
+   "报告显示：2025 年中国的专利申请量约 190 万件，位居全球第一，大幅领先美国、日本等国",
+   "海关总署：前 10 个月我国与 APEC 其他经济体贸易增长 25.4%，占我国进出口总值的 60.4%",
+   "《剑桥词典》宣布：“人类”(Human) 被评选为 2026 年年度词汇",
+   "日本 10 月贸易逆差达 4765 亿日元，连续第 6 个月出现逆差，主要受原油等进口成本上涨影响",
+   "美国苹果、谷歌、万豪等公司同日发生网络技术故障，苹果应用商店、音乐、云端存储等服务受影响",
+   "毛里求斯称若英国在年底前不交还查戈斯群岛，将准备起诉英国",
+   "美国四大航司因停飞事件损失逾 3 亿美元；美国暂停安装与航空停摆相关的路由器"
+  ]
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "加拿大艾伯塔省拟以新规限制数据中心与住宅距离并保护农田",
+       "url": "https://www.ithome.com/1/029/222.htm",
+       "summary": "加拿大艾伯塔省政府当地时间 18 日宣布，拟以新法案要求 10MW 及以上数据中心 需与最近居民住宅保持至少 600m 的距离 ，这些算力设施也 不得建设在优质农田或灌溉土地上 。 根据同一份法律草案，在现…",
+       "time": "03:35",
+       "hot": ""
+      },
+      {
+       "title": "华境 S 五座版更多规格公布：全系标配华为乾崑科技和宁德时代电芯",
+       "url": "https://www.ithome.com/1/029/221.htm",
+       "summary": "华境今日公布华境 S 五座版更多规格信息，新车全系标配华为乾崑科技与宁德时代电芯，并提供后排一键纯平功能，放倒后可形成约两米的平整空间。 尺寸方面，华境 S 五座版车长 5235 mm、车宽 1999 mm…",
+       "time": "03:33",
+       "hot": ""
+      },
+      {
+       "title": "阿维塔 06T Max 先锋版 11 月 25 日上市：保留 896 线激光雷达与 ADS 5，取消主驾零重力座椅",
+       "url": "https://www.ithome.com/1/029/213.htm",
+       "summary": "阿维塔 06T 宣布将增推一款 Max 先锋版车型，上市时间定在 11 月 25 日。 从销售渠道透露的信息看，Max 先锋版的定位介于现有 Elite 版与 Max 版之间，核心思路是在保留高阶智驾硬件的…",
+       "time": "03:30",
+       "hot": ""
+      },
+      {
+       "title": "红魔 12 Pro+ 氘锋透明冰蓝配色 11 月 24 日开售，16GB+512GB 版 7499 元",
+       "url": "https://www.ithome.com/1/029/210.htm",
+       "summary": "红魔游戏手机今日宣布，红魔 12Pro+「氘锋透明冰蓝」现已开启预约，11 月 24 日 10:00 开售。 京东平台显示，该配色目前仅提供 16GB+512GB 一个版本，标价 7999 元，部分地区政府…",
+       "time": "03:25",
+       "hot": ""
+      },
+      {
+       "title": "酷态科 10 Ultra 确认存在低压设备损坏隐患，已 OTA 推送修复固件",
+       "url": "https://www.ithome.com/1/029/209.htm",
+       "summary": "酷态科就 10 Ultra 充电器（型号 AD1204U）被曝出的安全隐患作出回应。 酷态科方面确认，产品在极低概率下会出现协议芯片不响应问题，导致为耳机、键盘、鼠标等低压设备充电时可能输出异常电压并造成损…",
+       "time": "03:24",
+       "hot": ""
+      },
+      {
+       "title": "彭博社：英伟达寻找接替黄仁勋新掌门，猎头已接触 Arm CEO 哈斯",
+       "url": "https://www.ithome.com/1/029/207.htm",
+       "summary": "彭博社今天（11 月 19 日）发布博文， 报道称英伟达董事会聘请的猎头公司海德思哲（Heidrick & Struggles）已接触 Arm 首席执行官雷内 · 哈斯（Rene Haas），将其列为接替黄…",
+       "time": "03:23",
+       "hot": ""
+      },
+      {
+       "title": "消息称大众将在部分燃油车型中以谷歌地图替换自家 VW-Navi 导航",
+       "url": "https://www.ithome.com/1/029/203.htm",
+       "summary": "据德媒《商报》(handelsblatt) 当地时间昨日报道，Volkswagen（大众汽车）计划于 2027 年 10 月完成 MQB evo 平台燃油车型对谷歌汽车服务的适配。 这意味着 高尔夫、途观、…",
+       "time": "03:22",
+       "hot": ""
+      },
+      {
+       "title": "魏少军教授预测：2026 年国内芯片销售额将突破 1.5 万亿元，同比增幅达 89%",
+       "url": "https://www.ithome.com/1/029/202.htm",
+       "summary": "在 11 月 19 日 ~20 日的 2026 集成电路发展论坛（北京）暨三十二届集成电路设计业展览会上，中国半导体行业协会集成电路设计分会主任魏少军教授预测， 2026 年国内芯片销售额将突…",
+       "time": "03:21",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+       "url": "https://sspai.com/post/119039",
+       "summary": "",
+       "time": "10:58",
+       "hot": ""
+      },
+      {
+       "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+       "url": "https://sspai.com/post/119239",
+       "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。",
+       "time": "08:29",
+       "hot": ""
+      },
+      {
+       "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+       "url": "https://sspai.com/post/118985",
+       "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...",
+       "time": "16:59",
+       "hot": ""
+      },
+      {
+       "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+       "url": "https://sspai.com/post/118732",
+       "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。",
+       "time": "14:54",
+       "hot": ""
+      },
+      {
+       "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+       "url": "https://sspai.com/post/119193",
+       "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+       "url": "https://sspai.com/post/118975",
+       "summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。",
+       "time": "10:30",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "剑桥词典的 2026 年度单词是“人”",
+       "url": "https://www.solidot.org/story?sid=85927",
+       "summary": "随着 AI 不断模糊人与机器之间的界限，全世界开始重新争论何谓“人”。剑桥词典的 2026 年度单词就是“人（human）”。在剑桥词典中，人被定义为“具有人特有的品质、缺点和情感，区别于神、动物或机器”。剑桥大学 AI 治理与人权专家 R…",
+       "time": "00:12",
+       "hot": ""
+      },
+      {
+       "title": "特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元",
+       "url": "https://www.solidot.org/story?sid=85926",
+       "summary": "特斯拉宣布以 3 万美元向特选客户出售无人驾驶汽车 Cybercab，然后每月必须支付 299 美元否则汽车不会启动。Cybercab 类似 Waymo 旗下的无人驾驶出租车，没有方向盘也没有刹车踏板，但不同的是 Waymo 的汽车提供的网…",
+       "time": "23:29",
+       "hot": ""
+      },
+      {
+       "title": "陆游：最早探索猫内心世界的诗人",
+       "url": "https://www.solidot.org/story?sid=85925",
+       "summary": "如果你阅读本文，那么你的社媒信息流肯定充斥着猫咪。这并不出人意料，毕竟互联网是属于猫的。人类对家猫的喜爱其实是一种相对较近的现象。在很多地方，猫曾被视为可疑之物，遭受过残酷对待。猫最早的文学记载之一是成文于九世纪，由一位不知名爱尔兰僧侣所作…",
+       "time": "22:58",
+       "hot": ""
+      },
+      {
+       "title": "韩国严打高考作弊",
+       "url": "https://www.solidot.org/story?sid=85924",
+       "summary": "韩国高考将于 19 日开考，为防止考生在考试期间利用高科技工具作弊，韩国政府采取了多种措施，包括： 禁止考生携带手机、智能眼镜、智能手表、电子烟等任何电子设备进入考场。如考生误将电子设备带入考场，须在第一场考试开始前按照监考人员的要求上交，…",
+       "time": "21:53",
+       "hot": ""
+      },
+      {
+       "title": "新高危漏洞 Java4Shell 会导致远程代码执行",
+       "url": "https://www.solidot.org/story?sid=85923",
+       "summary": "刚刚公开的高危漏洞 Java4Shell 会导致远程代码执行。Java4Shell 源自 OpenJDK Base64 解码器的一个内存损坏漏洞，CVSS 4.0 评分 9.2/10。该漏洞会 Keycloak、Jira、Confluenc…",
+       "time": "21:27",
+       "hot": ""
+      },
+      {
+       "title": "Manus 成为 Godot 项目的白金赞助商",
+       "url": "https://www.solidot.org/story?sid=85922",
+       "summary": "负责开源游戏引擎 Godot 项目的基金会宣布，AI 公司 Manus 成为其白金赞助商，即每年至少赞助 5 万欧元。Manus 联合创始人兼首席产品官张涛在一份声明中表示，“AI 正在降低游戏制作的技术门槛，但工具终究只是工具。优秀的游戏…",
+       "time": "20:32",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+       "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+       "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's…",
+       "time": "09:39",
+       "hot": ""
+      },
+      {
+       "title": "The nation’s largest school districts consider ditching Google Search",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+       "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Se…",
+       "time": "07:18",
+       "hot": ""
+      },
+      {
+       "title": "Absolute Batman can save DC Studios",
+       "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+       "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Disc…",
+       "time": "06:27",
+       "hot": ""
+      },
+      {
+       "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+       "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+       "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nomi…",
+       "time": "06:05",
+       "hot": ""
+      },
+      {
+       "title": "Trump’s latest land grab is an AI hub in the Philippines",
+       "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+       "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, acco…",
+       "time": "05:44",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Unauthenticated remote code execution in Nginx",
+       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+       "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007",
+       "time": "23:19",
+       "hot": "1202 分 · 532 评论"
+      },
+      {
+       "title": "DNS resolvers are the wrong place to fight piracy",
+       "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+       "summary": "",
+       "time": "21:18",
+       "hot": "622 分 · 234 评论"
+      },
+      {
+       "title": "Inside Deutsche Bank",
+       "url": "https://www.inside-db.com/",
+       "summary": "",
+       "time": "23:38",
+       "hot": "580 分 · 198 评论"
+      },
+      {
+       "title": "Gemini 4 Neon",
+       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+       "summary": "",
+       "time": "05:34",
+       "hot": "550 分 · 506 评论"
+      },
+      {
+       "title": "Seven new models at scalable price-performance",
+       "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+       "summary": "",
+       "time": "00:08",
+       "hot": "473 分 · 328 评论"
+      },
+      {
+       "title": "AI agents ask better questions than KPMG accountants in audit trial",
+       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+       "summary": "",
+       "time": "23:49",
+       "hot": "393 分 · 171 评论"
+      },
+      {
+       "title": "We need smart people who give a shit",
+       "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+       "summary": "",
+       "time": "07:53",
+       "hot": "306 分 · 160 评论"
+      },
+      {
+       "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+       "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+       "summary": "",
+       "time": "22:43",
+       "hot": "247 分 · 174 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "cursor/plugins",
+       "url": "https://github.com/cursor/plugins",
+       "summary": "Cursor plugin specification and official plugins",
+       "time": "",
+       "hot": "TypeScript · +314 stars today"
+      },
+      {
+       "title": "HKUDS/CLI-Anything",
+       "url": "https://github.com/HKUDS/CLI-Anything",
+       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+       "time": "",
+       "hot": "Python · +389 stars today"
+      },
+      {
+       "title": "mvanhorn/last30days-skill",
+       "url": "https://github.com/mvanhorn/last30days-skill",
+       "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthes…",
+       "time": "",
+       "hot": "Python · +1,059 stars today"
+      },
+      {
+       "title": "getarcaneapp/arcane",
+       "url": "https://github.com/getarcaneapp/arcane",
+       "summary": "Modern Docker Management, Designed for Everyone",
+       "time": "",
+       "hot": "Go · +547 stars today"
+      },
+      {
+       "title": "NVIDIA/SkillEvaluator",
+       "url": "https://github.com/NVIDIA/SkillEvaluator",
+       "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection…",
+       "time": "",
+       "hot": "Python · +312 stars today"
+      },
+      {
+       "title": "nvm-sh/nvm",
+       "url": "https://github.com/nvm-sh/nvm",
+       "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+       "time": "",
+       "hot": "Shell · +237 stars today"
+      },
+      {
+       "title": "astral-sh/uv",
+       "url": "https://github.com/astral-sh/uv",
+       "summary": "An extremely fast Python package and project manager, written in Rust.",
+       "time": "",
+       "hot": "Rust · +258 stars today"
+      },
+      {
+       "title": "google-research/paper-orchestra",
+       "url": "https://github.com/google-research/paper-orchestra",
+       "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+       "time": "",
+       "hot": "Python · +1,524 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+       "url": "https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+       "url": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "微软将停用 Azure 部署环境，而且不会推出替代产品",
+       "url": "https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+       "url": "https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 云端 Loop实践",
+       "url": "https://www.infoq.cn/article/Ae5uw6m9wC2gj5QUCC36?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:59",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？",
+       "url": "https://www.zhihu.com/question/2105702944855287688",
+       "summary": "外交部发言人毛宁主持例行记者会。总台央视记者提问：中方发布了中俄美三国元首深圳会晤的消息，能否介绍会晤安排及中方对会晤的期待？ 毛宁表示，这是中俄美三国元首历史上首次面对面会晤，将围绕维护世界和平、促进大国关系战略稳定深…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "马斯克抵达深圳，缺席纽约DealBook峰会，他选择深圳APEC峰会节点赴华是出于什么考虑？",
+       "url": "https://www.zhihu.com/question/2106061681793176634",
+       "summary": "特朗普车队抵达深圳东海朗廷酒店，马斯克现身随行大巴车。 11月17日，马斯克在回复一条关于纽约DealBook峰会的帖文下留言称：“I will be in China, so it will be dig…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "深圳 APEC 世纪晚宴菜单曝光，以地道粤菜为主，同时融入国际菜肴元素，菜品设计考量了哪些核心因素？",
+       "url": "https://www.zhihu.com/question/2103409527672591719",
+       "summary": "亚太经合组织（APEC）第33次领导人非正式会议欢迎晚宴在深圳国际交流中心举行。据香港媒体报道，晚宴以地道粤菜为主，同时融入国际菜肴元素，佐餐酒则精选中国本土佳酿，展现岭南饮食文化的独特风味。 晚宴以一道…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "网友让豆包生成一张「盒子里有13个鸡蛋」的图片，豆包连续十几次纠错仍未能数清，这是为什么？",
+       "url": "https://www.zhihu.com/question/2106466938230501933",
+       "summary": "",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "Anthropic 发行定价83美元，超此前发行价区间，成迄今全球最大IPO，怎么看定价过程与估值？",
+       "url": "https://www.zhihu.com/question/2106656189337395706",
+       "summary": "Anthropic以每股83美元的价格完成IPO定价，超出此前70至78美元的发行区间，融资规模突破历史纪录，成为迄今全球最大首次公开募股。 周三据彭博援引知情人士透露，此次发行规模同步扩大。结合同步进行的260亿美元私…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "WorkBuddy日活用户超1000万，它是怎么做到的？AI Agent已经成为工作刚需了吗？",
+       "url": "https://www.zhihu.com/question/2106443459233932915",
+       "summary": "腾讯今日发布 2026 年第三季度财报，截至 11 月初，WorkBuddy 日活跃用户数超过 1000 万，日均 Token 调用量超过 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。 官方…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "为什么绿皮火车硬座长久以来都是和别人面对面的布局？没有考虑过社恐人士的心情吗？",
+       "url": "https://www.zhihu.com/question/2105548043621773338",
+       "summary": "坐过绿皮火车硬座的都知道。就非要设计成和别人大眼瞪小眼的社恐布局吗？就不能像高铁一样统一座椅方向然后一人单独一个小桌板？",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "儿子拿笔在墙上乱画，儿子爸爸极力反对说要有规矩，姥姥说让孩子画是保护他的探索欲，谁说得对我该站谁？",
+       "url": "https://www.zhihu.com/question/2106047742212686624",
+       "summary": "我儿子两岁了，最近拿笔不在纸上画，也不在画板上画，专门往墙上画。怎么说都没用。 儿子爸爸不让，说得有规矩，不能让他随便画。 我妈说我小时候有一段时间就随便画，让他画吧，保护他的探索欲！ 儿子爸爸怼丈母娘说：她（指我）随便…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "习近平主持APEC领导人非正式会议",
+       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%8C%81APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议，并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要讲话。",
+       "time": "",
+       "hot": "780.97w"
+      },
+      {
+       "title": "APEC全家福",
+       "url": "https://www.baidu.com/s?wd=APEC%E5%85%A8%E5%AE%B6%E7%A6%8F&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "亚太经合组织第三十三次领导人非正式会议在深圳国际交流中心举行。会议开始前，国家主席习近平同与会嘉宾亲切握手并集体合影。",
+       "time": "",
+       "hot": "771.29w"
+      },
+      {
+       "title": "APEC时间 外媒记者点赞深圳",
+       "url": "https://www.baidu.com/s?wd=APEC%E6%97%B6%E9%97%B4+%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "亚太经合组织（APEC）第三十三次领导人非正式会议在深圳举行。位于深圳会展中心（福田）2号馆的新闻中心聚集了大批外媒记者。谈及深圳，受访外媒记者不吝赞美，称其最真切的感受为“活力、友好、非凡”。",
+       "time": "",
+       "hot": "761.62w"
+      },
+      {
+       "title": "中俄美元首会晤是真正的历史性事件",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E4%BA%8B%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。这将是历史性的一幕，中俄美三国元首历史上首次面对面会晤，围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义。",
+       "time": "",
+       "hot": "752.44w"
+      },
+      {
+       "title": "普京沿红毯走进APEC会场",
+       "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%B2%BF%E7%BA%A2%E6%AF%AF%E8%B5%B0%E8%BF%9BAPEC%E4%BC%9A%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "APEC第三十三次领导人非正式会议在深圳国际交流中心举行，俄罗斯总统普京抵达现场，沿红毯步入大厅。",
+       "time": "",
+       "hot": "742.71w"
+      },
+      {
+       "title": "普京笔不离手记重点 特朗普专注聆听",
+       "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AC%94%E4%B8%8D%E7%A6%BB%E6%89%8B%E8%AE%B0%E9%87%8D%E7%82%B9+%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%B3%A8%E8%81%86%E5%90%AC&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "APEC领导人非正式会议期间，普京笔不离手记重点，特朗普专注聆听。",
+       "time": "",
+       "hot": "733.38w"
+      },
+      {
+       "title": "格力电器成被执行人",
+       "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，珠海格力电器股份有限公司新增一则小额被执行人信息，执行标的150元，执行法院为义乌市人民法院。",
+       "time": "",
+       "hot": "723.69w"
+      },
+      {
+       "title": "特朗普谈欢迎仪式：我对此心怀感激",
+       "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E5%BF%83%E6%80%80%E6%84%9F%E6%BF%80&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "美媒放出采访视频，美国总统特朗普谈及本次深圳之行，称赞机场欢迎仪式场面壮观，兼具仪式感与美感。他称现场有数千民众、孩子以及仪仗兵参与，对此心怀感激，表示这体现了极大的尊重，对他们而言是一场胜利。",
+       "time": "",
+       "hot": "714.22w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "APEC重要讲话",
+       "url": "https://s.weibo.com/weibo?q=APEC%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D",
+       "summary": "",
+       "time": "",
+       "hot": "109.6w"
+      },
+      {
+       "title": "特朗普在车内未拉窗帘欣赏深圳夜景",
+       "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF",
+       "summary": "",
+       "time": "",
+       "hot": "108.1w"
+      },
+      {
+       "title": "一图看中国与APEC经济体双向奔赴",
+       "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B8%8EAPEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4",
+       "summary": "",
+       "time": "",
+       "hot": "61.1w"
+      },
+      {
+       "title": "普京特朗普APEC会议现场画面",
+       "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AEAPEC%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
+       "summary": "",
+       "time": "",
+       "hot": "60.8w"
+      },
+      {
+       "title": "APEC全家福",
+       "url": "https://s.weibo.com/weibo?q=APEC%E5%85%A8%E5%AE%B6%E7%A6%8F",
+       "summary": "",
+       "time": "",
+       "hot": "59.1w"
+      },
+      {
+       "title": "特朗普感激中国",
+       "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E6%BF%80%E4%B8%AD%E5%9B%BD",
+       "summary": "",
+       "time": "",
+       "hot": "56.7w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": []
+}
