@@ -1,0 +1,601 @@
+{
+ "date": "2026-11-21",
+ "weekday": "星期六",
+ "generated_at": "2026-11-21T11:50:42+08:00",
+ "brief": {
+  "date": "2026-11-21",
+  "tip": "认准方向就不要轻易动摇，一步一个脚印，靠近心中想要的远方",
+  "items": [
+   "2027 羊年纪念币 11 月 27 日发行：全套共 11 枚，其中金质纪念币 6 枚，银质纪念币 4 枚，铂质纪念币 1 枚",
+   "河北卢龙发现亚洲已知最古老岩石：距今 39.5 亿年，面积约 15 平方米",
+   "前 10 个月全国一般公共预算收入同比增长 4.9%，其中全国税收收入 16.26 万亿元，增长 6%",
+   "铁路 12306App 迎来重大更新：新增候补兑现、列车运行调整等系统通知",
+   "北京拟规定：租客正常使用房屋或物品损耗无需赔偿，房东不得以此为由扣减押金",
+   "截至 10 月底，我国电动汽车充电基础设施 (枪) 总数达到 2539.1 万个，同比增长 36.2%",
+   "香港拟向电动汽车电池厂商征费：首年征费每公斤 6 元，目标 2029 年全面推行",
+   "中国摄影著作权协会撤销 447 个首席代表处：不得再以协会名义开展活动",
+   "最新数据显示：信用卡近一年减少 3400 万张，已连续 16 个季度下降",
+   "国际金价跌破 3600 美元；工行、建行、招行发布提示：近期贵金属价格波动加剧，建议理性投资",
+   "中蒙俄国际旅客列车 11 月 25 日起每周往返开行，火车票已线下发售",
+   "黄仁勋据称将创办新的半导体公司，或将筹资 500 亿用于创业",
+   "英伟达股价创 2025 年 6 月以来新低，总市值降至 3.36 万亿美元，被谷歌超越",
+   "沙特首都利雅得最高建筑公共投资基金大厦遭袭，多个楼层和周边建筑受损",
+   "美总统女婿库什纳称俄方已同意欧洲参加多边谈判‌，并能接受乌方获得类似北约第五条的安全保障"
+  ]
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权",
+       "url": "https://www.ithome.com/1/030/340.htm",
+       "summary": "CNBC 记者亚历克斯 · 谢尔曼（Alex Sherman）于 11 月 19 日爆料称， 苹果和迪士尼将不参与 2030 年及 2034 年男足世界杯美国市场转播权竞标。 报道指出价格是迪士尼止步的重要…",
+       "time": "03:34",
+       "hot": ""
+      },
+      {
+       "title": "孙正义曾考虑万亿美元收购 SK 海力士？软银回应：已不再积极考虑",
+       "url": "https://www.ithome.com/1/030/339.htm",
+       "summary": "据《The Information》今日报道，软银集团董事长兼 CEO 孙正义近期曾接洽华尔街金融机构，探讨为收购韩国 SK 海力士筹集资金，潜在交易规模高达 1 万亿美元 （IT之家注：现汇率约合 6.6…",
+       "time": "03:31",
+       "hot": ""
+      },
+      {
+       "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
+       "url": "https://www.ithome.com/1/030/338.htm",
+       "summary": "腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。 问答环节，有人询问：字节跳…",
+       "time": "03:24",
+       "hot": ""
+      },
+      {
+       "title": "Win11 学院：如何在 Windows 11 26x00.10075 开启 WinUI 原生重构版搜索体验",
+       "url": "https://www.ithome.com/1/030/337.htm",
+       "summary": "科技媒体 Windows Latest 今天（11 月 21 日）发布博文，报道称 在 11 月可选更新 KB5132057 中 ， 微软邀请部分 Windows 11 用户体验原生重构的 Windows…",
+       "time": "03:23",
+       "hot": ""
+      },
+      {
+       "title": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备",
+       "url": "https://www.ithome.com/1/030/335.htm",
+       "summary": "美国太空探索技术公司（SpaceX）货运“龙”飞船 20 日脱离国际空间站，携大量科研样本和设备等启程返回地球。 据美国航空航天局介绍，“龙”飞船于美国东部时间 20 日 12 时 05 分许（北京时间 2…",
+       "time": "03:02",
+       "hot": ""
+      },
+      {
+       "title": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图",
+       "url": "https://www.ithome.com/1/030/334.htm",
+       "summary": "特斯拉公司副总裁陶琳昨晚在微博发文称，CEO 埃隆 · 马斯克当天到访特斯拉上海超级工厂期间，收到一份由工厂员工自行设计、手工制作的“限量手办”，全球仅此一件。 据介绍，这款作品使用特斯拉生产过程中的边角材…",
+       "time": "03:01",
+       "hot": ""
+      },
+      {
+       "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
+       "url": "https://www.ithome.com/1/030/333.htm",
+       "summary": "科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称在 Ignite 2026 活动中，微软展示 Copilot“本地文件操作”功能， 在征得用户授权后可以查找、分类、移动或重…",
+       "time": "02:59",
+       "hot": ""
+      },
+      {
+       "title": "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题",
+       "url": "https://www.ithome.com/1/030/332.htm",
+       "summary": "英伟达于当地时间 11 月 20 日发布了 GeForce Hotfix 621.35 显卡驱动，修复此前部分 Game Ready 驱动可能在后台向固态硬盘（SSD）过度写入数据的问题。 这一热修复驱动基…",
+       "time": "02:55",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "本周看什么 | 最近值得一看的 10 部作品",
+       "url": "https://sspai.com/post/119337",
+       "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...",
+       "time": "17:54",
+       "hot": ""
+      },
+      {
+       "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+       "url": "https://sspai.com/post/119327",
+       "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...",
+       "time": "15:34",
+       "hot": ""
+      },
+      {
+       "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+       "url": "https://sspai.com/post/118879",
+       "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。",
+       "time": "10:47",
+       "hot": ""
+      },
+      {
+       "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+       "url": "https://sspai.com/post/119311",
+       "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。",
+       "time": "08:34",
+       "hot": ""
+      },
+      {
+       "title": "给 Apple 的 2026 年打分，请你一起参与",
+       "url": "https://sspai.com/post/119191",
+       "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...",
+       "time": "18:25",
+       "hot": ""
+      },
+      {
+       "title": "新玩意 256｜少数派的编辑们最近买了啥？",
+       "url": "https://sspai.com/post/119287",
+       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...",
+       "time": "17:16",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "Anthropic 的数论学家声称证明黎曼猜想",
+       "url": "https://www.solidot.org/story?sid=85949",
+       "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证…",
+       "time": "23:14",
+       "hot": ""
+      },
+      {
+       "title": "GTA 6 创游戏史上最高首日销售额",
+       "url": "https://www.solidot.org/story?sid=85948",
+       "summary": "根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，收入约 23.6 亿美元。相比之下，今年票房最高的电影《蜘蛛侠：崭新之日》总票房收入为 25 亿美元。GTA 6 开发商…",
+       "time": "22:38",
+       "hot": ""
+      },
+      {
+       "title": "阿里巴巴警告未来两年算力紧缺",
+       "url": "https://www.solidot.org/story?sid=85947",
+       "summary": "阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资…",
+       "time": "20:48",
+       "hot": ""
+      },
+      {
+       "title": "无限滚动自动播放有害社会",
+       "url": "https://www.solidot.org/story?sid=85946",
+       "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、…",
+       "time": "18:50",
+       "hot": ""
+      },
+      {
+       "title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
+       "url": "https://www.solidot.org/story?sid=85945",
+       "summary": "在美国的一项临床试验中，三名胰腺癌患者在注射病毒后成功遏制肿瘤继续发展。项目领导者、明尼苏达大学的 Masato Yamamoto 表示临床试验注射的剂量仅为最终目标剂量的十分之一，因此疗效超出了预期。研究人员将对另外 15 名患者使用更高…",
+       "time": "18:27",
+       "hot": ""
+      },
+      {
+       "title": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
+       "url": "https://www.solidot.org/story?sid=85944",
+       "summary": "现年 83 岁的 Vint Cerf 因在 1970 年代与 Bob Kahn 合作设计了 TCP/IP 协议而被誉为互联网之父，他在今年早些时候卸任 Google 首席互联网布道官一职，但并没停止工作，他正参与创办名为 Tolero 的公…",
+       "time": "17:40",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+       "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+       "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" har…",
+       "time": "06:51",
+       "hot": ""
+      },
+      {
+       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+       "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+       "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" acc…",
+       "time": "06:10",
+       "hot": ""
+      },
+      {
+       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+       "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+       "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even a…",
+       "time": "02:50",
+       "hot": ""
+      },
+      {
+       "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+       "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+       "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can…",
+       "time": "01:50",
+       "hot": ""
+      },
+      {
+       "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+       "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+       "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s…",
+       "time": "01:48",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+       "url": "https://alpo.ge/remark.pdf",
+       "summary": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+       "time": "22:16",
+       "hot": "2424 分 · 1637 评论"
+      },
+      {
+       "title": "Hurried Announcement: Alessandro Masullo GRH",
+       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+       "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com…",
+       "time": "02:33",
+       "hot": "1696 分 · 762 评论"
+      },
+      {
+       "title": "Inkling 2 Mini",
+       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+       "summary": "",
+       "time": "04:12",
+       "hot": "773 分 · 132 评论"
+      },
+      {
+       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+       "url": "https://signal.org/blog/protecting-your-privacy/",
+       "summary": "",
+       "time": "17:42",
+       "hot": "526 分 · 310 评论"
+      },
+      {
+       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+       "summary": "",
+       "time": "01:21",
+       "hot": "371 分 · 151 评论"
+      },
+      {
+       "title": "Language Models Can Rewrite Their Own Weights",
+       "url": "https://arxiv.org/abs/2611.21885",
+       "summary": "",
+       "time": "00:29",
+       "hot": "356 分 · 113 评论"
+      },
+      {
+       "title": "We promoted developers into architects without informing them",
+       "url": "https://manidoraisamy.com/developer-to-architect.html",
+       "summary": "",
+       "time": "02:17",
+       "hot": "335 分 · 197 评论"
+      },
+      {
+       "title": "Finite-time blow-up for the Navier–Stokes equations",
+       "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+       "summary": "",
+       "time": "23:34",
+       "hot": "265 分 · 84 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "elementalsouls/Claude-BugHunter",
+       "url": "https://github.com/elementalsouls/Claude-BugHunter",
+       "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disc…",
+       "time": "",
+       "hot": "Python · +1,622 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +890 stars today"
+      },
+      {
+       "title": "HKUDS/CLI-Anything",
+       "url": "https://github.com/HKUDS/CLI-Anything",
+       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+       "time": "",
+       "hot": "Python · +773 stars today"
+      },
+      {
+       "title": "jingyaogong/minimind",
+       "url": "https://github.com/jingyaogong/minimind",
+       "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+       "time": "",
+       "hot": "Python · +847 stars today"
+      },
+      {
+       "title": "cursor/plugins",
+       "url": "https://github.com/cursor/plugins",
+       "summary": "Cursor plugin specification and official plugins",
+       "time": "",
+       "hot": "TypeScript · +299 stars today"
+      },
+      {
+       "title": "firecrawl/firecrawl",
+       "url": "https://github.com/firecrawl/firecrawl",
+       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through on…",
+       "time": "",
+       "hot": "TypeScript · +1,241 stars today"
+      },
+      {
+       "title": "nginx/nginx",
+       "url": "https://github.com/nginx/nginx",
+       "summary": "The official NGINX Open Source repository.",
+       "time": "",
+       "hot": "C · +246 stars today"
+      },
+      {
+       "title": "openvinotoolkit/openvino",
+       "url": "https://github.com/openvinotoolkit/openvino",
+       "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+       "time": "",
+       "hot": "C++ · +217 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "智能体 AI 架构：当前挑战与未来机遇",
+       "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+       "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+       "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+       "url": "https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:48",
+       "hot": ""
+      },
+      {
+       "title": "AI 来了，团队究竟怎么变？",
+       "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "18:43",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+       "url": "https://www.zhihu.com/question/2107239235015263538",
+       "summary": "近期，levent alpoge 公开了一份名为 remark.pdf`的文档（见alpo.ge/remark.pdf），宣称自己与Claude 合作，发现了黎曼猜想（Riemann Hypothesis）的证明。 根据…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+       "url": "https://www.zhihu.com/question/2106706684672471150",
+       "summary": "IT之家 11 月 19 日消息，据韩联社报道，当地时间 11 月 19 日上午 8 时 30 分，韩国 2027 学年度大学修学能力考试（韩国高考）开考前，全国手机同时收到紧急灾难通知短信，警报以最大音量鸣响 10.5…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "为什么欧美使用壁炉的普遍性这么高，而中国却没有？",
+       "url": "https://www.zhihu.com/question/20796435",
+       "summary": "欧美剧里（包括时尚剧里）常见壁炉融融燃烧的场景，今天正好又看到挪威一家电视台拍了十二个小时的劈柴码柴烧柴的电视节目，很纳闷，为什么在欧美壁炉的使用率这么高，而且这么持续。像我国就没有“壁炉”的传统吧，南方中部地区有烤火的…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "信用卡近一年减少 3400 万张，信用卡为何逐渐失去吸引力？背后反映出消费者支付习惯发生了哪些变化？",
+       "url": "https://www.zhihu.com/question/2107163928622887904",
+       "summary": "财联社11月20日讯（编辑 杨斌）当银行不再以新增发卡指标为导向后，存量信用卡数量逐年缩水。央行18日披露的最新数据显示，三季度末，全国开立的信用卡和借贷合一卡数量6.73亿张，较一年前减少3400万张，该数字已连续16…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "黄牛称炒茅台已「几乎无利可图」，酒厂逐步拿回定价权，这门「生意」为什么不赚钱了？近十年来发生什么变化？",
+       "url": "https://www.zhihu.com/question/2106114904289718820",
+       "summary": "持续近十年的茅台渠道价差生意正在走向终局。 继11月11日i茅台将精品、生肖等16款非标产品由抢购改为日常售卖后，13日茅台又下调线下代售价、对齐平台价，把线下、线上两套价格体系合二为一。 为应对变化，部分“黄牛”已经停…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "为什么我感觉自己做饭并没有比点外卖省钱？",
+       "url": "https://www.zhihu.com/question/438496778",
+       "summary": "朝九晚六的工作，尝试了一个月自己做三餐，通勤半小时左右，所以下班菜市场基本都收摊了，买菜用的是叮咚。一个月下来，算上柴米油盐水电气，发现几乎没有省多少…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "雷军称明年小米汽车正式出海，强调和当地供应链深度合作，如何看待小米汽车出海的时机与打法？",
+       "url": "https://www.zhihu.com/question/2106436190547322353",
+       "summary": "小米集团创始人、董事长兼首席执行官雷军参加在深圳举行的2026年APEC工商领导人峰会。会后，雷军接受人民日报记者专访。 谈及汽车出海，雷军表示，明年小米汽车正式出海，汽车是很多国家的支柱产业，跟当地的供应…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "11月20日美股三大指数集体重挫，AI交易遭猛烈拋售，Anthropic上市次日跌8.5%，怎样解读？",
+       "url": "https://www.zhihu.com/question/2107375172101432168",
+       "summary": "周五（11月20日），美股三大指数集体重挫，因市场担忧华尔街数十年来最大规模的投资热潮即将失去动力。 截至收盘，道琼斯指数跌1.93%，连跌第五天，报48147.33点；标普500指数跌3.7%，连跌第七天（创2020年…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "特朗普：看看人家深圳再看看我们",
+       "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9C%8B%E7%9C%8B%E4%BA%BA%E5%AE%B6%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "当地时间11月20日，特朗普在白宫召开记者发布会，他在会上点赞深圳城市建设，称深圳仅用40年从小渔村建成，路面完美无瑕。他乘车观察后将其与美国对比，批评大多由民主党主政的美国城市脏乱不堪，路面坑洼且护栏锈迹斑斑。",
+       "time": "",
+       "hot": "780.89w"
+      },
+      {
+       "title": "多地医院实现“一号管到底”",
+       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8C%BB%E9%99%A2%E5%AE%9E%E7%8E%B0%E2%80%9C%E4%B8%80%E5%8F%B7%E7%AE%A1%E5%88%B0%E5%BA%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，南京市第二医院推出就医便民新举措“一号通”，面向多病共存患者。患者完成首次挂号后，接诊医生可根据病情发起院内免费跨科室转诊，实现“一号管到底”，免去患者来回奔波之苦。目前，全国多地已推行类似改革优化就诊流程。",
+       "time": "",
+       "hot": "771.44w"
+      },
+      {
+       "title": "世界首个、蝉联榜首！多领域捷报频传",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E9%A6%96%E4%B8%AA%E3%80%81%E8%9D%89%E8%81%94%E6%A6%9C%E9%A6%96%EF%BC%81%E5%A4%9A%E9%A2%86%E5%9F%9F%E6%8D%B7%E6%8A%A5%E9%A2%91%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "本周我国多领域创新成果密集涌现，捷报频传：11月17日“灵晟”超算蝉联全球榜首；11月16日世界首个“源储一号”在甘肃成功并网；近日“梦想”号大洋钻探船完成海试，刷新该类系统国际作业水深纪录。",
+       "time": "",
+       "hot": "761.77w"
+      },
+      {
+       "title": "一款1979年的耳机为何被抢空",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%BE1979%E5%B9%B4%E7%9A%84%E8%80%B3%E6%9C%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%8A%A2%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "索尼客服表示MDR-3R耳机因预定过多已无法预定。11月17日，该耳机国行预售开启即售空。这款1979年产品的复刻款虽不降噪不智能，但凭借复古审美与情怀共鸣出圈。",
+       "time": "",
+       "hot": "752.44w"
+      },
+      {
+       "title": "麻阳县委书记：我很少加班和晚上开会",
+       "url": "https://www.baidu.com/s?wd=%E9%BA%BB%E9%98%B3%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E6%88%91%E5%BE%88%E5%B0%91%E5%8A%A0%E7%8F%AD%E5%92%8C%E6%99%9A%E4%B8%8A%E5%BC%80%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，麻阳县委书记在采访中表示，从政更需要去接地气，否则无法了解老百姓的想法并为其服务。其称自己很少加班，开会也未超30分钟，认为不应天天泡在会场上，而应多到现场看着或盯着，以落实最后一公里。",
+       "time": "",
+       "hot": "742.59w"
+      },
+      {
+       "title": "特朗普称不支持“台独”引岛内震动",
+       "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%94%AF%E6%8C%81%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%BC%95%E5%B2%9B%E5%86%85%E9%9C%87%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "美国总统特朗普在深圳明确表态不支持“台独”，在台湾引发持续震动。有岛内舆论认为，这对民进党当局长期奉行的“倚美谋独”路线是一大警讯。一些台湾网民更是直接在网上留言，呼吁“两岸统一！”",
+       "time": "",
+       "hot": "733.25w"
+      },
+      {
+       "title": "AI短剧《丑狐》爆火",
+       "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E3%80%8A%E4%B8%91%E7%8B%90%E3%80%8B%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，AI短剧《丑狐》爆火，创作者分享人物形象创作，丑狐造型怪异是因为特意拉长了面部，以呈现“相由心生”的聊斋质感，有观众留言“第一次出来吓到我了”。",
+       "time": "",
+       "hot": "723.57w"
+      },
+      {
+       "title": "星二代扎堆出道 观众在担心什么",
+       "url": "https://www.baidu.com/s?wd=%E6%98%9F%E4%BA%8C%E4%BB%A3%E6%89%8E%E5%A0%86%E5%87%BA%E9%81%93+%E8%A7%82%E4%BC%97%E5%9C%A8%E6%8B%85%E5%BF%83%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近来，一批星二代扎堆出道并频登热搜，引发网友对娱乐圈圈层化、资源内部流转的担忧。作者指出，演艺行业最终靠作品说话，父辈光环和人脉无法替代实力。观众接纳的是打动人心的创作而非身份，期待新人沉下心用扎实作品为自己正名。",
+       "time": "",
+       "hot": "714.09w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "特朗普说看看深圳再看看我们",
+       "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%9C%8B%E7%9C%8B%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC",
+       "summary": "",
+       "time": "",
+       "hot": "116.9w"
+      },
+      {
+       "title": "韩国高考中国史题正确率不足一成",
+       "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E9%AB%98%E8%80%83%E4%B8%AD%E5%9B%BD%E5%8F%B2%E9%A2%98%E6%AD%A3%E7%A1%AE%E7%8E%87%E4%B8%8D%E8%B6%B3%E4%B8%80%E6%88%90",
+       "summary": "",
+       "time": "",
+       "hot": "84.4w"
+      },
+      {
+       "title": "五中全会决定这些话要牢记",
+       "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%E8%BF%99%E4%BA%9B%E8%AF%9D%E8%A6%81%E7%89%A2%E8%AE%B0",
+       "summary": "",
+       "time": "",
+       "hot": "66.2w"
+      },
+      {
+       "title": "特朗普称不允许美企海外建数据中心",
+       "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%85%81%E8%AE%B8%E7%BE%8E%E4%BC%81%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83",
+       "summary": "",
+       "time": "",
+       "hot": "66.1w"
+      },
+      {
+       "title": "胖东来搬离后原址所开新商场几乎倒闭",
+       "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%90%AC%E7%A6%BB%E5%90%8E%E5%8E%9F%E5%9D%80%E6%89%80%E5%BC%80%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD",
+       "summary": "",
+       "time": "",
+       "hot": "65.5w"
+      },
+      {
+       "title": "伊能静发长文谈后会友期",
+       "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F",
+       "summary": "",
+       "time": "",
+       "hot": "60.4w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": []
+}
