@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-22",
+ "weekday": "星期日",
+ "generated_at": "2026-11-22T10:54:21+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”",
+       "url": "https://www.ithome.com/1/030/550.htm",
+       "summary": "长城汽车旗下坦克 SUV 官方微博今日宣布， 品牌首支单曲《百万分之一》将于 11 月 25 日“唱响” 。 据IT之家此前报道，本月初，长城汽车宣布，坦克品牌全球销量 100 万辆。公开信息显示，2020…",
+       "time": "02:39",
+       "hot": ""
+      },
+      {
+       "title": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键",
+       "url": "https://www.ithome.com/1/030/548.htm",
+       "summary": "首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博， 透露最受欢迎的 16G 版本已…",
+       "time": "02:33",
+       "hot": ""
+      },
+      {
+       "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+       "url": "https://www.ithome.com/1/030/547.htm",
+       "summary": "Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验， 该证明的代码约 1700 万行 。（…",
+       "time": "02:31",
+       "hot": ""
+      },
+      {
+       "title": "部分 PS5 玩家反馈《GTA6》游戏频繁崩溃：显示 CE-108255-1 错误，索尼和 R 星客服互相踢皮球",
+       "url": "https://www.ithome.com/1/030/546.htm",
+       "summary": "部分玩家近期报告称，他们在 PS5 平台游玩《GTA6》游戏时频繁遇到崩溃现象，系统只显示 CE-108255-1 错误代码。部分用户甚至无法继续推进剧情，找客服时索尼和 Ro…",
+       "time": "02:25",
+       "hot": ""
+      },
+      {
+       "title": "2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家",
+       "url": "https://www.ithome.com/1/030/545.htm",
+       "summary": "据“北京昌平”公众号，11 月 21 日，以“脑智芯联机遇昌平”为主题的 2026 脑机接口大会 在昌平石油科技交流中心开幕。开幕式上，《2026 年脑机接口创新发展研究报告》正式发布。 报告认为，2026…",
+       "time": "02:00",
+       "hot": ""
+      },
+      {
+       "title": "Linux 7.4 内核将支持并行删除 NVMe 命名空间，提升处理速度",
+       "url": "https://www.ithome.com/1/030/544.htm",
+       "summary": "据科技媒体 Phoronix 昨天报道，Linux 7.4-rc4 内核预计将在今天发布，本次更新将带来多项修复和性能提升，以及值得关注的 NVMe 命名空间性能优化。 IT之家从原报道获悉， Linux…",
+       "time": "01:57",
+       "hot": ""
+      },
+      {
+       "title": "奕境曾清林回应“汽车博主直播喊话车企拆车”话题：会落实，时间和方式定了第一时间公开",
+       "url": "https://www.ithome.com/1/030/543.htm",
+       "summary": "奕境汽车品牌总经理曾清林昨日发文，回应了“汽车博主直播喊话车企拆车”这一话题。他表示，奕境公开拆车会落实，时间和方式定了会第一时间公开。 刚刷到这个话题，了解了一下来龙去脉、详细翻看了各平台的大量评论。非常…",
+       "time": "01:54",
+       "hot": ""
+      },
+      {
+       "title": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
+       "url": "https://www.ithome.com/1/030/541.htm",
+       "summary": "据多位用户反馈，网易 UU 远程鸿蒙版 App 已开启邀请测试（手机 / 平板原生适配），获得资格的用户可在收到短信后点击对应链接跳转至华为应用市场 App Gallery 下载使用。 测试说明显示，本次测…",
+       "time": "01:47",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "从深圳到上海，少数派的共创故事还在继续",
+       "url": "https://sspai.com/post/119318",
+       "summary": "2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...",
+       "time": "09:05",
+       "hot": ""
+      },
+      {
+       "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+       "url": "https://sspai.com/post/119291",
+       "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...",
+       "time": "12:00",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 10 部作品",
+       "url": "https://sspai.com/post/119337",
+       "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...",
+       "time": "17:54",
+       "hot": ""
+      },
+      {
+       "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+       "url": "https://sspai.com/post/119327",
+       "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...",
+       "time": "15:34",
+       "hot": ""
+      },
+      {
+       "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+       "url": "https://sspai.com/post/118879",
+       "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。",
+       "time": "10:47",
+       "hot": ""
+      },
+      {
+       "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+       "url": "https://sspai.com/post/119311",
+       "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。",
+       "time": "08:34",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "地球 28 光年外发现一个三星系统",
+       "url": "https://www.solidot.org/story?sid=85955",
+       "summary": "天文学家在距离地球 28 光年处发现了一个三星系统，挑战了对恒星演化的现有观念。该系统被命名为 Welopōʻa，包括两颗白矮星和一颗红矮星。白矮星是类太阳恒星耗尽燃料后的高致密残骸，而红矮星则比太阳暗淡得多。天文学家是在红矮星周围寻找行星…",
+       "time": "22:40",
+       "hot": ""
+      },
+      {
+       "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
+       "url": "https://www.solidot.org/story?sid=85954",
+       "summary": "生死之旅从来不是平坦的。人体的衰老会呈现突然的跳跃加速，科学家正试图弄清楚衰老加速在细胞层面是何时发生的。发表在《Nature Communications》期刊上的一项研究调查了人类免疫系统，发现免疫系统衰老有两次突然加速。新加坡研究人员…",
+       "time": "22:25",
+       "hot": ""
+      },
+      {
+       "title": "夜空中的人造卫星轨迹",
+       "url": "https://www.solidot.org/story?sid=85953",
+       "summary": "新西兰天文摄影师 Brendan Larsen 在今年 9 月的一个晚上，历时逾两个小时拍摄了 578 张夜空照片。随后通过后期拼接呈现出如今地球轨道上卫星的密集程度。他在 Photoshop 中叠加了这些照片，剔除了恒星，只保留卫星运行轨…",
+       "time": "22:05",
+       "hot": ""
+      },
+      {
+       "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
+       "url": "https://www.solidot.org/story?sid=85952",
+       "summary": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessand…",
+       "time": "19:09",
+       "hot": ""
+      },
+      {
+       "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
+       "url": "https://www.solidot.org/story?sid=85951",
+       "summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全…",
+       "time": "18:48",
+       "hot": ""
+      },
+      {
+       "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
+       "url": "https://www.solidot.org/story?sid=85950",
+       "summary": "位于美国佛罗里达州的 RansomwareHelp.com 向勒索软件受害者提供解密服务，它通过其官网督促受害者不要支付赎金，声称它的先进解密工具能将数据、服务器和系统 100% 恢复到原始状态，受害者不需要向勒索软件组织屈服。Ransom…",
+       "time": "18:11",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Amazon is complaining about NYC Council on shipping labels, too",
+       "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+       "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. Th…",
+       "time": "05:59",
+       "hot": ""
+      },
+      {
+       "title": "The UN fails to agree on rules regulating ‘killer robots’",
+       "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+       "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use…",
+       "time": "04:03",
+       "hot": ""
+      },
+      {
+       "title": "The FBI and USDA were reportedly hacked",
+       "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+       "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the F…",
+       "time": "01:51",
+       "hot": ""
+      },
+      {
+       "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+       "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+       "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount f…",
+       "time": "23:13",
+       "hot": ""
+      },
+      {
+       "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+       "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+       "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th se…",
+       "time": "23:11",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Hurried Announcement: Alessandro Masullo GRH",
+       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+       "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com…",
+       "time": "02:33",
+       "hot": "2394 分 · 1162 评论"
+      },
+      {
+       "title": "Lean verification of the Riemann Hypothesis",
+       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+       "summary": "",
+       "time": "22:36",
+       "hot": "861 分 · 722 评论"
+      },
+      {
+       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+       "summary": "",
+       "time": "05:03",
+       "hot": "685 分 · 163 评论"
+      },
+      {
+       "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+       "url": "https://news.ycombinator.com/item?id=50583761",
+       "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and…",
+       "time": "07:18",
+       "hot": "625 分 · 706 评论"
+      },
+      {
+       "title": "We promoted developers into architects without informing them",
+       "url": "https://manidoraisamy.com/developer-to-architect.html",
+       "summary": "",
+       "time": "02:17",
+       "hot": "583 分 · 316 评论"
+      },
+      {
+       "title": "Detonating a pile of lead azide",
+       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+       "summary": "",
+       "time": "21:23",
+       "hot": "538 分 · 358 评论"
+      },
+      {
+       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+       "summary": "",
+       "time": "01:21",
+       "hot": "538 分 · 240 评论"
+      },
+      {
+       "title": "My monitor was cutting my download speed by 75%",
+       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+       "summary": "",
+       "time": "18:36",
+       "hot": "506 分 · 240 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "elementalsouls/Claude-BugHunter",
+       "url": "https://github.com/elementalsouls/Claude-BugHunter",
+       "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disc…",
+       "time": "",
+       "hot": "Python · +1,803 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +883 stars today"
+      },
+      {
+       "title": "HKUDS/CLI-Anything",
+       "url": "https://github.com/HKUDS/CLI-Anything",
+       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+       "time": "",
+       "hot": "Python · +769 stars today"
+      },
+      {
+       "title": "jingyaogong/minimind",
+       "url": "https://github.com/jingyaogong/minimind",
+       "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+       "time": "",
+       "hot": "Python · +488 stars today"
+      },
+      {
+       "title": "cursor/plugins",
+       "url": "https://github.com/cursor/plugins",
+       "summary": "Cursor plugin specification and official plugins",
+       "time": "",
+       "hot": "TypeScript · +260 stars today"
+      },
+      {
+       "title": "firecrawl/firecrawl",
+       "url": "https://github.com/firecrawl/firecrawl",
+       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through on…",
+       "time": "",
+       "hot": "TypeScript · +1,006 stars today"
+      },
+      {
+       "title": "nginx/nginx",
+       "url": "https://github.com/nginx/nginx",
+       "summary": "The official NGINX Open Source repository.",
+       "time": "",
+       "hot": "C · +189 stars today"
+      },
+      {
+       "title": "openvinotoolkit/openvino",
+       "url": "https://github.com/openvinotoolkit/openvino",
+       "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+       "time": "",
+       "hot": "C++ · +200 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+       "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+       "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "智能体 AI 架构：当前挑战与未来机遇",
+       "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+       "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+       "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "Lean与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+       "url": "https://www.zhihu.com/question/2107620110105932525",
+       "summary": "github地址：https://github.com/leanprover-community/blog/discussions 原文： Lean 和 Mathlib 社区的联合声明，得到了 Lean FRO 和 Ma…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "有比《持械入宋》更好看的短剧吗？",
+       "url": "https://www.zhihu.com/question/2103550053273149533",
+       "summary": "最近红果短剧上面的爆款一款接着一款。 大家刷的比较多的就是《持械入宋》。 这个短剧一开始可能看不下去，但是往后面看是越来越精彩。 还有比《持械入宋》更好看的短剧吗？ 你最喜欢哪个短剧？求推荐！",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "贾国龙新创品牌「天边」一年内从砂锅焖面转向冰煮鲜羊，频繁调整经营方向背后有哪些考量？他能翻身吗？",
+       "url": "https://www.zhihu.com/question/2106862061669934684",
+       "summary": "在多家西贝门店闭店、贾国龙夫妇质押西贝股权后，西贝又开启了新一轮自救。“天边”从“砂锅焖面”到“冰煮鲜羊” 近日，贾国龙新创品牌“天边”迎来新一轮“改造。11月19日，原本的“天边砂锅焖面”呼和浩特门店更名为“天边冰煮鲜…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "荷兰法院裁定比亚迪Ti7抄袭路虎卫士，颁布销售禁令，对此怎么看？",
+       "url": "https://www.zhihu.com/question/2107417541236805904",
+       "summary": "荷兰海牙地区法院作出判决：比亚迪一款大型SUV侵犯捷豹路虎（JLR）卫士车型的外观设计，并颁布临时禁令，禁止这家中国车企在欧盟境内销售该车型。$比亚迪(SZ002594)$ 反转那么快？！跟踪一下。11月20日，荷兰海牙…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "如何评价米哈游电子科技大学校招宣讲会技术负责人曝光原神IP未来的研发方向？",
+       "url": "https://www.zhihu.com/question/2107022824976159802",
+       "summary": "[2 张图片]",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "菲尔兹奖得主邓煜称「人类不能放弃自主思考给 AI 当狗」，如何看待这一观点？",
+       "url": "https://www.zhihu.com/question/2099876169013258150",
+       "summary": "问AI · 邓煜获菲尔兹奖的贡献与人工智能思考有何关联？ IT之家 10 月 28 日消息，据界面新闻报道，菲尔兹奖得主、芝加哥大学教授邓煜近日在一场论坛上阐述了他对 AI 时代数学研究的思考。 邓煜引用帕斯卡“人是一根…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "U17 国足 0 比 5 不敌西班牙，U17 国足控球率仅 25%，该如何补足高强度对抗下的能力短板？",
+       "url": "https://www.zhihu.com/question/2107410051363247748",
+       "summary": "0:5的比分背后是全面的技战术鸿沟。控球率仅25%，射门3比19，西班牙的高位逼抢让国足后场出球极其困难。前35分钟防守尚能维持，但体能下降后下半场12分钟内连丢3球，崩盘暴露了高强度对抗下技术执行与体能储备的硬差距。正…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "为啥北方人没有吐槽供暖费很贵的？",
+       "url": "https://www.zhihu.com/question/1992264026315571821",
+       "summary": "感觉一年五六千很贵 俺家一千五百多，五六千的得住多大房子啊",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "金价跌势凌厉 多家银行发紧急提示",
+       "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%8A%BF%E5%87%8C%E5%8E%89+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "21日，现货黄金价格贴近3500美元/盎司，创近14个月新低。工商银行等多家银行发布紧急提示，建议合理控制持仓规模。分析认为，金价短期下行趋势尚未逆转，最终走向取决于12月美联储议息会议。",
+       "time": "",
+       "hot": "780.85w"
+      },
+      {
+       "title": "山东有村子推行去世到安葬不超24小时",
+       "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%9C%89%E6%9D%91%E5%AD%90%E6%8E%A8%E8%A1%8C%E5%8E%BB%E4%B8%96%E5%88%B0%E5%AE%89%E8%91%AC%E4%B8%8D%E8%B6%8524%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "济南济阳区推进丧俗改革，牛王村推出“一张祭、一碗汤、一日丧”，规定逝者从去世到安葬不超24小时，简化仪式、减少开销。当地多个村庄也出台简办举措，破除丧事大操大办陋习，倡导文明殡葬新风。",
+       "time": "",
+       "hot": "771.29w"
+      },
+      {
+       "title": "APEC“中国年”留下这些珍贵瞬间",
+       "url": "https://www.baidu.com/s?wd=APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E7%95%99%E4%B8%8B%E8%BF%99%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9E%AC%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "亚太经合组织第三十三次领导人非正式会议近日在深圳成功举行。短短几天，历史性的瞬间一个接一个，首先是APEC的21个成员经济体的领导人、代表再次聚齐，拍下了近十年来最全的一张“全家福”。此外，中俄美三国元首历史性会晤、工商领导人峰会，以及一系…",
+       "time": "",
+       "hot": "761.94w"
+      },
+      {
+       "title": "日媒逐帧解析特朗普无视高市：耻辱",
+       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%EF%BC%9A%E8%80%BB%E8%BE%B1&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，日本首相高市早苗在特朗普与加拿大总理卡尼交谈时，上前拍其背部试图搭讪，却遭到完全无视。日媒对此直呼“非常耻辱”，并称日本外交未能走在世界前沿，反而沦为世界耻辱，陷入孤立无援、无人理睬的境地。",
+       "time": "",
+       "hot": "752.3w"
+      },
+      {
+       "title": "余文乐自曝躯体化严重到不能开车",
+       "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%96%87%E4%B9%90%E8%87%AA%E6%9B%9D%E8%BA%AF%E4%BD%93%E5%8C%96%E4%B8%A5%E9%87%8D%E5%88%B0%E4%B8%8D%E8%83%BD%E5%BC%80%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，余文乐在节目中自曝，二十到三十岁时他处于爆红期时，因长期身处高压负面环境。他曾因恐慌症引发严重躯体化症状，会在开车途中突然手抖、冒冷汗无法呼吸，只能紧急靠边停车，此后不敢再开车，甚至害怕坐飞机。",
+       "time": "",
+       "hot": "742.47w"
+      },
+      {
+       "title": "卸任人艺院长后 冯远征现身观众席",
+       "url": "https://www.baidu.com/s?wd=%E5%8D%B8%E4%BB%BB%E4%BA%BA%E8%89%BA%E9%99%A2%E9%95%BF%E5%90%8E+%E5%86%AF%E8%BF%9C%E5%BE%81%E7%8E%B0%E8%BA%AB%E8%A7%82%E4%BC%97%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "冯远征在卸任北京人民艺术剧院院长职务后，以普通观众的身份现身首都剧场观众席，观看了俄罗斯圣彼得堡马斯特卡雅剧院带来的话剧演出。",
+       "time": "",
+       "hot": "732.88w"
+      },
+      {
+       "title": "小雪养生 做好这几件事很重要",
+       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%9B%AA%E5%85%BB%E7%94%9F+%E5%81%9A%E5%A5%BD%E8%BF%99%E5%87%A0%E4%BB%B6%E4%BA%8B%E5%BE%88%E9%87%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "11月22日迎来小雪节气。此时节人体阳气潜藏，养生需养阳藏阳。建议牢记“三不要”：早睡晚起不熬夜、食补不过量、动静结合不久坐；做好“四防”：防呼吸道与心脑血管疾病、防流感及摔伤；同时做到“三宜”：适量吃黑色食物益肾、适当饮水促代谢、多晒太阳…",
+       "time": "",
+       "hot": "723.76w"
+      },
+      {
+       "title": "冬天小小赖下床 反而更有利于健康",
+       "url": "https://www.baidu.com/s?wd=%E5%86%AC%E5%A4%A9%E5%B0%8F%E5%B0%8F%E8%B5%96%E4%B8%8B%E5%BA%8A+%E5%8F%8D%E8%80%8C%E6%9B%B4%E6%9C%89%E5%88%A9%E4%BA%8E%E5%81%A5%E5%BA%B7&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，有专家在节目中表示冬天更宜“早睡晚起”，冬天醒后适当赖床缓一缓再起身，‌反而有利于冬季心脑血管健康，避免突然体位变化引发的不适‌。",
+       "time": "",
+       "hot": "714.18w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "羽绒服生意变天了",
+       "url": "https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
+       "summary": "",
+       "time": "",
+       "hot": "135.8w"
+      },
+      {
+       "title": "央视揭秘网络女主播真实生态",
+       "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81",
+       "summary": "",
+       "time": "",
+       "hot": "87.2w"
+      },
+      {
+       "title": "从琼崖烽火到开放自贸港",
+       "url": "https://s.weibo.com/weibo?q=%E4%BB%8E%E7%90%BC%E5%B4%96%E7%83%BD%E7%81%AB%E5%88%B0%E5%BC%80%E6%94%BE%E8%87%AA%E8%B4%B8%E6%B8%AF",
+       "summary": "",
+       "time": "",
+       "hot": "67.6w"
+      },
+      {
+       "title": "余文乐躯体化严重到不能开车",
+       "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%96%87%E4%B9%90%E8%BA%AF%E4%BD%93%E5%8C%96%E4%B8%A5%E9%87%8D%E5%88%B0%E4%B8%8D%E8%83%BD%E5%BC%80%E8%BD%A6",
+       "summary": "",
+       "time": "",
+       "hot": "65.2w"
+      },
+      {
+       "title": "张雪峰的接班人武亮回母校演讲",
+       "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E6%8E%A5%E7%8F%AD%E4%BA%BA%E6%AD%A6%E4%BA%AE%E5%9B%9E%E6%AF%8D%E6%A0%A1%E6%BC%94%E8%AE%B2",
+       "summary": "",
+       "time": "",
+       "hot": "64.8w"
+      },
+      {
+       "title": "这居然是王子璇",
+       "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87",
+       "summary": "",
+       "time": "",
+       "hot": "63.6w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
