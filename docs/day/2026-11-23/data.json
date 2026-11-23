@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-23",
+ "weekday": "星期一",
+ "generated_at": "2026-11-23T11:36:06+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "摩托车网联平台接入率突破 90%，我国牵头的摩托车及轻便摩托车信息与服务国际标准立项",
+       "url": "https://www.ithome.com/1/030/795.htm",
+       "summary": "国际标准化组织正式批准《摩托车和轻便摩托车信息和服务术语》国际标准立项 。该国际标准旨在填补全球范围内的空白，为行业信息与服务相关技术发展提供通用术语基础。 该标准系统构建了包含信息与…",
+       "time": "03:32",
+       "hot": ""
+      },
+      {
+       "title": "蚂蚁阿福宣布全新升级：“望闻问切”实时视频看健康，全家档案一个 App 管",
+       "url": "https://www.ithome.com/1/030/794.htm",
+       "summary": "在今日的蚂蚁阿福医疗健康生态大会上，蚂蚁阿福 App 宣布迎来全新升级。 IT之家在大会现场获悉，蚂蚁阿福 App 基于蚂蚁百灵医疗健康系列模型，带来两项功能大升级： 实时视频看健康，AI 也能“望闻问…",
+       "time": "03:25",
+       "hot": ""
+      },
+      {
+       "title": "壹号本预热《EVA》联名限量款 OneXPlayer X2：明日香二号机设计",
+       "url": "https://www.ithome.com/1/030/793.htm",
+       "summary": "壹号本 (ONE-NETBOOK) 本月 20 日宣布将推出《新世纪福音战士》(EVA) 联名限量款 OneXPlayer X2 三合一 PC 游戏掌机。 该特别版 融入二号机风格设计元素与明日香主题涂装…",
+       "time": "03:24",
+       "hot": ""
+      },
+      {
+       "title": "特朗普：我希望英伟达董事会能重新聘用黄仁勋，这对英伟达、美国来说都是最好的事情",
+       "url": "https://www.ithome.com/1/030/792.htm",
+       "summary": "美国总统唐纳德 · 特朗普今日在真实社交平台表示， 他希望英伟达董事会能重新聘用黄仁勋 。这对英伟达公司、美国来说都是最好的事情。 据IT之家此前报道 ，黄仁勋于 11 月初向英伟达发布全员信，承认自己的出…",
+       "time": "03:22",
+       "hot": ""
+      },
+      {
+       "title": "小鹏 P7 全新车色「晨曦粉」亮相，11 月 25 日线下首展",
+       "url": "https://www.ithome.com/1/030/791.htm",
+       "summary": "今日，小鹏 P7 全新车色「晨曦粉」正式亮相，将于 11 月 25 日小鹏科技日开启线下首展。 IT之家附官方介绍： 灵感来自晨曦洒落湖面的一缕柔光，温柔而闪耀。 低饱和、高明度的银粉色调，融入多粒径金属铝…",
+       "time": "03:16",
+       "hot": ""
+      },
+      {
+       "title": "Flyme Auto 全球累计装车量突破 376.9 万辆，魅族与亿咖通联合开发",
+       "url": "https://www.ithome.com/1/030/790.htm",
+       "summary": "魅族 Flyme AIOS 今日公布 Flyme Auto 最新装机数据。 官方数据显示，2026 年 10 月，Flyme Auto 新增装机量为 175,341 辆，1—10 月累计装机量超过 1,50…",
+       "time": "03:14",
+       "hot": ""
+      },
+      {
+       "title": "vivo S70 系列手机官宣 12 月发布，预计提供“闪光人像专业套装”",
+       "url": "https://www.ithome.com/1/030/789.htm",
+       "summary": "vivo S70 系列手机今日在各大电商平台开启预约，官网显示新品将于 12 月发布，分为 vivo S70、S70 旗舰版两款机型。 据博主 @数码闲聊站 今日爆料，vivo S70 系列将提供专门的 「…",
+       "time": "03:09",
+       "hot": ""
+      },
+      {
+       "title": "蚂蚁阿福发布全新 AI 健康手环“福环”和 AI 健康戒指“福戒”",
+       "url": "https://www.ithome.com/1/030/788.htm",
+       "summary": "在今日的蚂蚁阿福医疗健康生态大会上，蚂蚁阿福带来了两款全新的 AI 健康硬件 —— AI 健康手环 · 福环 AI 健康戒指 · 福戒 两款产品均主打健康监测和超长续航 ，主要用来记录睡眠、心率、呼吸、…",
+       "time": "03:08",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+       "url": "https://sspai.com/post/119418",
+       "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯…",
+       "time": "07:34",
+       "hot": ""
+      },
+      {
+       "title": "从深圳到上海，少数派的共创故事还在继续",
+       "url": "https://sspai.com/post/119318",
+       "summary": "2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...",
+       "time": "09:05",
+       "hot": ""
+      },
+      {
+       "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+       "url": "https://sspai.com/post/119291",
+       "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...",
+       "time": "12:00",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 10 部作品",
+       "url": "https://sspai.com/post/119337",
+       "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...",
+       "time": "17:54",
+       "hot": ""
+      },
+      {
+       "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+       "url": "https://sspai.com/post/119327",
+       "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...",
+       "time": "15:34",
+       "hot": ""
+      },
+      {
+       "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+       "url": "https://sspai.com/post/118879",
+       "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。",
+       "time": "10:47",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+       "url": "https://www.solidot.org/story?sid=85959",
+       "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthro…",
+       "time": "23:32",
+       "hot": ""
+      },
+      {
+       "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+       "url": "https://www.solidot.org/story?sid=85958",
+       "summary": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle…",
+       "time": "20:01",
+       "hot": ""
+      },
+      {
+       "title": "地球捕获了一颗迷你月球",
+       "url": "https://www.solidot.org/story?sid=85957",
+       "summary": "地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪…",
+       "time": "18:31",
+       "hot": ""
+      },
+      {
+       "title": "丰田尼桑本田同意标准化零部件以降低成本",
+       "url": "https://www.solidot.org/story?sid=85956",
+       "summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批…",
+       "time": "18:05",
+       "hot": ""
+      },
+      {
+       "title": "地球 28 光年外发现一个三星系统",
+       "url": "https://www.solidot.org/story?sid=85955",
+       "summary": "天文学家在距离地球 28 光年处发现了一个三星系统，挑战了对恒星演化的现有观念。该系统被命名为 Welopōʻa，包括两颗白矮星和一颗红矮星。白矮星是类太阳恒星耗尽燃料后的高致密残骸，而红矮星则比太阳暗淡得多。天文学家是在红矮星周围寻找行星…",
+       "time": "22:40",
+       "hot": ""
+      },
+      {
+       "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
+       "url": "https://www.solidot.org/story?sid=85954",
+       "summary": "生死之旅从来不是平坦的。人体的衰老会呈现突然的跳跃加速，科学家正试图弄清楚衰老加速在细胞层面是何时发生的。发表在《Nature Communications》期刊上的一项研究调查了人类免疫系统，发现免疫系统衰老有两次突然加速。新加坡研究人员…",
+       "time": "22:25",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "We haven’t seen the last of the major tech outages",
+       "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+       "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire comp…",
+       "time": "10:41",
+       "hot": ""
+      },
+      {
+       "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+       "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+       "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happe…",
+       "time": "03:54",
+       "hot": ""
+      },
+      {
+       "title": "Delta flights in and out of Atlanta delayed due to system outage",
+       "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+       "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that ca…",
+       "time": "01:46",
+       "hot": ""
+      },
+      {
+       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+       "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+       "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered…",
+       "time": "01:25",
+       "hot": ""
+      },
+      {
+       "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+       "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+       "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto…",
+       "time": "20:28",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+       "summary": "",
+       "time": "12:04",
+       "hot": "1206 分 · 684 评论"
+      },
+      {
+       "title": "Perplexity and Intelligence",
+       "url": "https://openai.com/index/perplexity-and-intelligence/",
+       "summary": "",
+       "time": "01:06",
+       "hot": "513 分 · 353 评论"
+      },
+      {
+       "title": "What Happened to Silicon Valley?",
+       "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+       "summary": "",
+       "time": "03:20",
+       "hot": "480 分 · 277 评论"
+      },
+      {
+       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+       "summary": "",
+       "time": "03:10",
+       "hot": "390 分 · 191 评论"
+      },
+      {
+       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+       "summary": "",
+       "time": "05:01",
+       "hot": "298 分 · 126 评论"
+      },
+      {
+       "title": "Show HN: I built a game where you are an LLM's subagent",
+       "url": "https://github.com/gulivan/worker755",
+       "summary": "",
+       "time": "21:56",
+       "hot": "282 分 · 67 评论"
+      },
+      {
+       "title": "Open Social Web Alliance",
+       "url": "https://osw-alliance.net/en/",
+       "summary": "",
+       "time": "23:24",
+       "hot": "228 分 · 216 评论"
+      },
+      {
+       "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+       "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+       "summary": "",
+       "time": "07:12",
+       "hot": "173 分 · 147 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "elementalsouls/Claude-BugHunter",
+       "url": "https://github.com/elementalsouls/Claude-BugHunter",
+       "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disc…",
+       "time": "",
+       "hot": "Python · +1,716 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +788 stars today"
+      },
+      {
+       "title": "HKUDS/CLI-Anything",
+       "url": "https://github.com/HKUDS/CLI-Anything",
+       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+       "time": "",
+       "hot": "Python · +699 stars today"
+      },
+      {
+       "title": "jingyaogong/minimind",
+       "url": "https://github.com/jingyaogong/minimind",
+       "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+       "time": "",
+       "hot": "Python · +473 stars today"
+      },
+      {
+       "title": "cursor/plugins",
+       "url": "https://github.com/cursor/plugins",
+       "summary": "Cursor plugin specification and official plugins",
+       "time": "",
+       "hot": "TypeScript · +294 stars today"
+      },
+      {
+       "title": "firecrawl/firecrawl",
+       "url": "https://github.com/firecrawl/firecrawl",
+       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through on…",
+       "time": "",
+       "hot": "TypeScript · +915 stars today"
+      },
+      {
+       "title": "nginx/nginx",
+       "url": "https://github.com/nginx/nginx",
+       "summary": "The official NGINX Open Source repository.",
+       "time": "",
+       "hot": "C · +163 stars today"
+      },
+      {
+       "title": "openvinotoolkit/openvino",
+       "url": "https://github.com/openvinotoolkit/openvino",
+       "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+       "time": "",
+       "hot": "C++ · +158 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+       "url": "https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:31",
+       "hot": ""
+      },
+      {
+       "title": "JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化",
+       "url": "https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "具身智能进入大浪淘沙阶段，企业需要怎样的人才？",
+       "url": "https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:48",
+       "hot": ""
+      },
+      {
+       "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+       "url": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "09:20",
+       "hot": ""
+      },
+      {
+       "title": "财务团队的 AI 蓝图",
+       "url": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "17:54",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "在黎曼猜想被声称证明后，如何理解袁新意所说的「或许我们高估了黎曼猜想的难度」？",
+       "url": "https://www.zhihu.com/question/2107618428508792525",
+       "summary": "https://mathhelm.org/t/390/maybe-we-have-overestimated-the-difficulty-of-riemann-hypothesis",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
+       "url": "https://www.zhihu.com/question/2107848989819326753",
+       "summary": "21日，方力申耗时8小时37分24秒从香港游到澳门，刷新“香港至澳门游泳用时最短（男性）”的吉尼斯世界纪录。他又紧接着登台演出，结束后他表示其实身体已经发出预警，在水里时冷得差点撑不住。 另外，方力申回应二胎是儿…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
+       "url": "https://www.zhihu.com/question/2107906248599234133",
+       "summary": "2026 吴天明青年电影展，知名编剧芦苇（《活着》《霸王别姬》）在青年电影创作人才培训班上评价《给阿嬷的情书》 芦苇：最近的电影里，《给阿嬷的情书》我很喜欢。 这部电影平心而论，就是合格的水准，也很难成为经典。但在当下劣…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "张水华黄石马拉松破个人纪录夺冠，6周连跑6场获5冠1亚，如何评价她的表现？",
+       "url": "https://www.zhihu.com/question/2107832295511913619",
+       "summary": "2026黄石马拉松鸣笛起跑。当天上午9时许，极目新闻记者了解到，曾被称为“最快女护士”，后转型职业跑者的张水华，以1小时15分06秒（具体秒数以官方公布为准）的个人最好成绩获得女子组半程马拉松冠军。 来…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "27岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
+       "url": "https://www.zhihu.com/question/2107184597846975042",
+       "summary": "清华大学精密仪器系官网发布消息，庞众望的博士学位论文答辩会顺利举行。 这是答辩结束后，答辩委员会成员与庞众望合影。（图源：清华大学精密仪器系官网） 文章写道：初冬的清华园，银杏铺金，书香萦绕。11月19日上…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
+       "url": "https://www.zhihu.com/question/2105992057642865192",
+       "summary": "安徽芜湖通和世纪之光一期小区，一名高空作业人员的安全绳被割断，现场视频引发关注。17日下午，极目新闻记者从辖区派出所了解到，此事正在处理中。 视频显示，这名工人被挂在高楼处，楼下有消防救援车辆到场。 小区物…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？",
+       "url": "https://www.zhihu.com/question/2107183345205626254",
+       "summary": "“我已经跟DeepSeek聊了15万～20万字了，我不想失去这段对话。” “D老师，不要抛弃我！作为一天要玩十几个小时DeepSeek的重度依赖症患者，没了D老师我该怎么活，好想回到从前。” “到底怎么办啊？我中度抑郁加…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "如果 Viper 回到 LCK，BLG 买回 ELK 重组一次效果会怎么样？",
+       "url": "https://www.zhihu.com/question/2105302211651810717",
+       "summary": "viper的母亲重病，根据viper赛后采访，明年大概率要回LCK。现在自由市场上能选的AD里赵大是最好的，买赵大再冲一年怎么样？ 大家也可以讨论心目中最佳AD人选，尽量避开合同未到期买不到的选手。（尺帝，guma，pe…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "某部委机关干部因犯间谍罪被判死刑",
+       "url": "https://www.baidu.com/s?wd=%E6%9F%90%E9%83%A8%E5%A7%94%E6%9C%BA%E5%85%B3%E5%B9%B2%E9%83%A8%E5%9B%A0%E7%8A%AF%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "保密观披露案件：某部委干部麻某驻外期间被境外情报人员策反，签署间谍相关协议，回国后持续窃取情报，向外提供多份秘密、机密材料，获利百万，法院以间谍罪判处其死刑。",
+       "time": "",
+       "hot": "780.8w"
+      },
+      {
+       "title": "130/80不再列为“正常血压”",
+       "url": "https://www.baidu.com/s?wd=130%2F80%E4%B8%8D%E5%86%8D%E5%88%97%E4%B8%BA%E2%80%9C%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2026年10月，国际高血压学会发布《2026版全球高血压实践指南》。新版指南将130~139/80~89毫米汞柱区间由“正常高值血压”改为“血压升高”，明确不再属健康状态需尽早干预。",
+       "time": "",
+       "hot": "771.18w"
+      },
+      {
+       "title": "智能穿戴打开消费新空间",
+       "url": "https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "智能穿戴，这类曾经更多活跃在展会、测评博主镜头里的“科技潮品”，正随着技术迭代和产业链成熟日益深入日常生活，从“尝鲜”变为更多人的“数字伙伴”，不断拓展着消费市场的新空间。",
+       "time": "",
+       "hot": "761.66w"
+      },
+      {
+       "title": "老人将1万多现金埋地下碳化无法兑换",
+       "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%B0%861%E4%B8%87%E5%A4%9A%E7%8E%B0%E9%87%91%E5%9F%8B%E5%9C%B0%E4%B8%8B%E7%A2%B3%E5%8C%96%E6%97%A0%E6%B3%95%E5%85%91%E6%8D%A2&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，江苏徐州一名老人埋藏在地下3年的1万多元现金全部碳化，最终无法兑换，引发不少人对残损人民币兑换规则的关注。‌这笔已经粘连成硬块、无法逐张拆分辨认的碳化现金完全不符合兑换条件，所以银行判定全部无法兑换‌。",
+       "time": "",
+       "hot": "752.2w"
+      },
+      {
+       "title": "女教师公园拉二胡被质疑“有失身份”",
+       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E5%85%AC%E5%9B%AD%E6%8B%89%E4%BA%8C%E8%83%A1%E8%A2%AB%E8%B4%A8%E7%96%91%E2%80%9C%E6%9C%89%E5%A4%B1%E8%BA%AB%E4%BB%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，武汉音乐学院33岁女教师赵露雨在公园拉二胡，被观众围得里三层外三层。她曾因在公园演出被质疑“有失身份”，回应称“舞台不分大小”，一年来已公益演出50多场。",
+       "time": "",
+       "hot": "742.59w"
+      },
+      {
+       "title": "129万一支抗癌药进医保 怎么做到的",
+       "url": "https://www.baidu.com/s?wd=129%E4%B8%87%E4%B8%80%E6%94%AF%E6%8A%97%E7%99%8C%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D+%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，2026年国家医保药品目录公布，原价129万元/支的抗癌药首次进入目录。国家医保局透露，经谈判该药支付标准降至28.86万元/支。其进医保因双方算清三本账：该药属临床急需创新药，适用人群少且为一次性治疗，对医保基金压力可控；药企通过国…",
+       "time": "",
+       "hot": "733.43w"
+      },
+      {
+       "title": "幼儿园要招2岁孩子了",
+       "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A6%81%E6%8B%9B2%E5%B2%81%E5%AD%A9%E5%AD%90%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "国家发改委、民政部、国家卫生健康委、教育部发布《“一老一小”服务体系建设实施方案》。方案提出，支持有条件的幼儿园实施改造和改扩建，举办面向2岁至3岁幼儿的托班；合理布局建设托育机构，打造“一刻钟托育服务圈”，并引导托育机构向有…",
+       "time": "",
+       "hot": "723.15w"
+      },
+      {
+       "title": "用魔力擦洗碗的人天塌了",
+       "url": "https://www.baidu.com/s?wd=%E7%94%A8%E9%AD%94%E5%8A%9B%E6%93%A6%E6%B4%97%E7%A2%97%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，深圳卫健委发布提醒，切勿使用纳米海绵（魔力擦）洗碗。研究表明，每磨损1克纳米海绵会释放约650万个微塑料，劣质产品还存在甲醛超标风险。此前已有研究证实微塑料进入人体或致血管堵塞等危害。建议使用时需反复冲洗并戴手套，或更换其他清洁用品。",
+       "time": "",
+       "hot": "714.32w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "许昌外卖小哥一句脆脆的带火炸鸡",
+       "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1",
+       "summary": "",
+       "time": "",
+       "hot": "115.1w"
+      },
+      {
+       "title": "treetree的炸鸡外卖火到被迫成为门店",
+       "url": "https://s.weibo.com/weibo?q=treetree%E7%9A%84%E7%82%B8%E9%B8%A1%E5%A4%96%E5%8D%96%E7%81%AB%E5%88%B0%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E9%97%A8%E5%BA%97",
+       "summary": "",
+       "time": "",
+       "hot": "84.6w"
+      },
+      {
+       "title": "一图解读我国消费市场多元图景",
+       "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%A4%9A%E5%85%83%E5%9B%BE%E6%99%AF",
+       "summary": "",
+       "time": "",
+       "hot": "71.9w"
+      },
+      {
+       "title": "某部委员工与间谍合作泄密被判死刑",
+       "url": "https://s.weibo.com/weibo?q=%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
+       "summary": "",
+       "time": "",
+       "hot": "67.6w"
+      },
+      {
+       "title": "人民日报评1991年张大爷烂梗",
+       "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%841991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E7%83%82%E6%A2%97",
+       "summary": "",
+       "time": "",
+       "hot": "54.2w"
+      },
+      {
+       "title": "南方豆腐掉地上能弹起来",
+       "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5",
+       "summary": "",
+       "time": "",
+       "hot": "52.3w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
