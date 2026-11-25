@@ -5,7 +5,14 @@
   <link>https://allureluoli.github.io/auto_news/</link>
   <description>每天 7 点自动汇总的科技、技术与热榜速览</description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0800</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0800</lastBuildDate>
+  <item>
+    <title>11.25 新闻早报</title>
+    <link>https://allureluoli.github.io/auto_news/day/2026-11-25/</link>
+    <guid isPermaLink="true">https://allureluoli.github.io/auto_news/day/2026-11-25/</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0800</pubDate>
+    <description>68 条 · 神舟二十四号飞船 11 月 25 日 8 时 18 分发射；巴基斯坦航天员将随神舟二十三号飞船返回</description>
+  </item>
   <item>
     <title>11.24 新闻早报</title>
     <link>https://allureluoli.github.io/auto_news/day/2026-11-24/</link>
@@ -208,13 +215,6 @@
     <guid isPermaLink="true">https://allureluoli.github.io/auto_news/day/2026-10-27/</guid>
     <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
     <description>68 条 · 文旅部：今年前三季度国内居民出游人次 53.07 亿，同比增长 6.2%；出游总花费 4.95 万亿元，同比增长 2.2%</description>
-  </item>
-  <item>
-    <title>10.26 新闻早报</title>
-    <link>https://allureluoli.github.io/auto_news/day/2026-10-26/</link>
-    <guid isPermaLink="true">https://allureluoli.github.io/auto_news/day/2026-10-26/</guid>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
-    <description>68 条 · 于蕾出任 2027 羊年央视春晚总导演，连续第五年执导春晚</description>
   </item>
 </channel>
 </rss>
