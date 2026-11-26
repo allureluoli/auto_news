@@ -1,0 +1,587 @@
+{
+ "date": "2026-11-26",
+ "weekday": "星期四",
+ "generated_at": "2026-11-26T12:46:49+08:00",
+ "brief": {
+  "date": "",
+  "tip": "",
+  "items": []
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "把“活化石”扫出门，微软 Win11 未来将移除 Telnet 客户端",
+       "url": "https://www.ithome.com/1/032/734.htm",
+       "summary": "微软已将 Telnet 客户端（ telnet.exe ）加入 Win11 弃用功能名单， 目前这款计算机界的“活化石”仍然作为可选功能 ， 保留在 Win11 中 。…",
+       "time": "04:26",
+       "hot": ""
+      },
+      {
+       "title": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级",
+       "url": "https://www.ithome.com/1/032/722.htm",
+       "summary": "铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能， 探索如何将 GPU 的有效显存扩展至 PB 级 。 IT之家了解到，此次合作将…",
+       "time": "04:00",
+       "hot": ""
+      },
+      {
+       "title": "消息称泰坦军团规划 24.5\" 1200Hz IPS、27\" 三模 QD-OLED 显示器",
+       "url": "https://www.ithome.com/1/032/720.htm",
+       "summary": "据渠道消息源 @视讯堂 爆料，显示器品牌泰坦军团 (Titan Army) 在本月 22~23 日在四川成都举行的中国区电竞沙龙上宣布了多款新品的规划。 其中在 LCD 技术路线方面，泰坦军团计划推出一款代…",
+       "time": "03:54",
+       "hot": ""
+      },
+      {
+       "title": "新“万里长江第一隧”，世界最长公路水下盾构隧道成功穿越长江",
+       "url": "https://www.ithome.com/1/032/719.htm",
+       "summary": "由我国自主研制的国产 16 米级超大直径盾构机“江海号”顺利越过长江南岸大堤 ，完成长江水域段 7.46 公里的掘进任务，成功“上岸”，抵达江苏太仓， 标…",
+       "time": "03:53",
+       "hot": ""
+      },
+      {
+       "title": "腾讯《英雄联盟电竞经理》宣布 2027 年 1 月 26 日停运，今日起停止游戏充值和新用户注册",
+       "url": "https://www.ithome.com/1/032/718.htm",
+       "summary": "腾讯今日发布公告称，由于游戏开发及运营策略调整，《英雄联盟电竞经理》将于 2027 年 1 月 26 日 11 时 正式停止运营。 据公告公布信息，2026 年 11 月 26 日 11 时起，游戏停止充值…",
+       "time": "03:52",
+       "hot": ""
+      },
+      {
+       "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
+       "url": "https://www.ithome.com/1/032/716.htm",
+       "summary": "行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告， 称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户 Ant…",
+       "time": "03:50",
+       "hot": ""
+      },
+      {
+       "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
+       "url": "https://www.ithome.com/1/032/714.htm",
+       "summary": "由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024） 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考 ，将应用于人…",
+       "time": "03:47",
+       "hot": ""
+      },
+      {
+       "title": "1999 元：技嘉推出 G27Q36 电竞显示器，27 英寸 2K 425Hz FastIPS 面板",
+       "url": "https://www.ithome.com/1/032/709.htm",
+       "summary": "技嘉现已推出 G27Q36 电竞显示器。新品采用 27 英寸 FastIPS 面板，分辨率为 QHD（2K），最高支持 425Hz 高刷， 售价 1999 元 。 据介绍，这款显示器的原生刷新率为 360H…",
+       "time": "03:44",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "我用AI做了一张两千年的中国历史地图",
+       "url": "https://sspai.com/post/117510",
+       "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。",
+       "time": "11:13",
+       "hot": ""
+      },
+      {
+       "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+       "url": "https://sspai.com/post/119560",
+       "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。",
+       "time": "08:08",
+       "hot": ""
+      },
+      {
+       "title": "翻开 2027， 值得入手的新年日历推荐",
+       "url": "https://sspai.com/post/119264",
+       "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...",
+       "time": "17:48",
+       "hot": ""
+      },
+      {
+       "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+       "url": "https://sspai.com/post/119310",
+       "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。",
+       "time": "14:59",
+       "hot": ""
+      },
+      {
+       "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+       "url": "https://sspai.com/post/118791",
+       "summary": "",
+       "time": "11:07",
+       "hot": ""
+      },
+      {
+       "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+       "url": "https://sspai.com/post/119527",
+       "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。",
+       "time": "08:22",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+       "url": "https://www.solidot.org/story?sid=85993",
+       "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和…",
+       "time": "23:54",
+       "hot": ""
+      },
+      {
+       "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+       "url": "https://www.solidot.org/story?sid=85992",
+       "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropi…",
+       "time": "23:26",
+       "hot": ""
+      },
+      {
+       "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
+       "url": "https://www.solidot.org/story?sid=85991",
+       "summary": "NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）。SR-1 将利用核能和太阳能将 SkyFall 舱送往火星，SkyFall 内有三架新一代直升机，这些直升机将研究火星…",
+       "time": "22:51",
+       "hot": ""
+      },
+      {
+       "title": "研究显示不是所有地区的男性精子数量都大幅下降",
+       "url": "https://www.solidot.org/story?sid=85990",
+       "summary": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Jo…",
+       "time": "22:27",
+       "hot": ""
+      },
+      {
+       "title": "如何维护超算",
+       "url": "https://www.solidot.org/story?sid=85989",
+       "summary": "美国橡树岭国家实验室的超算 Frontier 有数以千计的计算节点，维护其正常工作是一大挑战。无法纠正的内存错误，维护失误都会引发问题。技术人员在狭窄紧密的机架之间工作时可能会重启错误的节点，或意外触碰相邻节点的电源。硬件故障可能会影响单个…",
+       "time": "22:18",
+       "hot": ""
+      },
+      {
+       "title": "日本政府开发智能体打击盗版动漫",
+       "url": "https://www.solidot.org/story?sid=85988",
+       "summary": "日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI 标记的 1168 条可疑 X 推文有 84% 是非法内容；AI 检测的 1564 个…",
+       "time": "17:49",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+       "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+       "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consum…",
+       "time": "10:53",
+       "hot": ""
+      },
+      {
+       "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+       "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+       "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Go…",
+       "time": "08:04",
+       "hot": ""
+      },
+      {
+       "title": "The Verge’s 2026 holiday gift guide for travelers",
+       "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+       "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday…",
+       "time": "06:14",
+       "hot": ""
+      },
+      {
+       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+       "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+       "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized…",
+       "time": "05:51",
+       "hot": ""
+      },
+      {
+       "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+       "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+       "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability…",
+       "time": "04:31",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "1Password Security Incident",
+       "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+       "summary": "",
+       "time": "01:18",
+       "hot": "1271 分 · 535 评论"
+      },
+      {
+       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+       "url": "https://scottaaronson.blog/?p=10379",
+       "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637…",
+       "time": "03:11",
+       "hot": "1132 分 · 960 评论"
+      },
+      {
+       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+       "summary": "",
+       "time": "21:33",
+       "hot": "465 分 · 342 评论"
+      },
+      {
+       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+       "summary": "",
+       "time": "23:14",
+       "hot": "457 分 · 112 评论"
+      },
+      {
+       "title": "Much shorter version of GRH Lean verification from Anthropic",
+       "url": "https://github.com/lsernau/grh-lean",
+       "summary": "",
+       "time": "05:48",
+       "hot": "350 分 · 176 评论"
+      },
+      {
+       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+       "url": "https://github.com/xoxorwr/pw-loudness-eq",
+       "summary": "",
+       "time": "19:34",
+       "hot": "326 分 · 184 评论"
+      },
+      {
+       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+       "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+       "summary": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours tryi…",
+       "time": "00:44",
+       "hot": "302 分 · 84 评论"
+      },
+      {
+       "title": "Jev is probably Qwen3.5-35B-A3B",
+       "url": "https://modaic.dev/blog/latency-doesnt-lie",
+       "summary": "",
+       "time": "06:57",
+       "hot": "266 分 · 75 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "elementalsouls/Claude-BugHunter",
+       "url": "https://github.com/elementalsouls/Claude-BugHunter",
+       "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disc…",
+       "time": "",
+       "hot": "Python · +1,652 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +903 stars today"
+      },
+      {
+       "title": "HKUDS/CLI-Anything",
+       "url": "https://github.com/HKUDS/CLI-Anything",
+       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+       "time": "",
+       "hot": "Python · +1,106 stars today"
+      },
+      {
+       "title": "jingyaogong/minimind",
+       "url": "https://github.com/jingyaogong/minimind",
+       "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+       "time": "",
+       "hot": "Python · +826 stars today"
+      },
+      {
+       "title": "cursor/plugins",
+       "url": "https://github.com/cursor/plugins",
+       "summary": "Cursor plugin specification and official plugins",
+       "time": "",
+       "hot": "TypeScript · +416 stars today"
+      },
+      {
+       "title": "firecrawl/firecrawl",
+       "url": "https://github.com/firecrawl/firecrawl",
+       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through on…",
+       "time": "",
+       "hot": "TypeScript · +1,135 stars today"
+      },
+      {
+       "title": "nginx/nginx",
+       "url": "https://github.com/nginx/nginx",
+       "summary": "The official NGINX Open Source repository.",
+       "time": "",
+       "hot": "C · +176 stars today"
+      },
+      {
+       "title": "openvinotoolkit/openvino",
+       "url": "https://github.com/openvinotoolkit/openvino",
+       "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+       "time": "",
+       "hot": "C++ · +191 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+       "url": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "12:00",
+       "hot": ""
+      },
+      {
+       "title": "AI写代码，谁来交付？",
+       "url": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:28",
+       "hot": ""
+      },
+      {
+       "title": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+       "url": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "开源数据库 DocumentDB 正式发布 1.0 版本",
+       "url": "https://www.infoq.cn/article/k2Q7xBBucwOwxVoyq4LG?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "当产品开始写代码、研发开始做需求，团队该怎么变？｜极客对谈",
+       "url": "https://www.infoq.cn/article/ehSAx1Ze0UPN2p8WzhHf?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:30",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "如何看待美国陆军在爱荷华州就地受控引爆约 5 吨劣化叠氮化铅？这对人和环境的影响有多大？",
+       "url": "https://www.zhihu.com/question/2108344069512492110",
+       "summary": "最新进展：已经引爆美军在艾奥瓦州销毁近5吨有毒化学物质，3个县发布灾难紧急状态；环保组织警告大片区域或将被铅尘污染，当地居民担忧“生活会永远改变” 美国陆军计划在爱荷华州进行受控引爆，处置一批已劣化的叠氮化铅（lead…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "多家机器人公司进入破产清算，两年近30家机器人公司倒闭，机器人赛道融资火热，为什么还会出现企业倒闭潮？",
+       "url": "https://www.zhihu.com/question/2108863007048591328",
+       "summary": "“融资8个亿”，欠薪500万元 今年7月，盈合机器人已经进入破产清算程序，并在10月召开首次债权人会议。 被指定的律所管理人近日向记者透露称，债权人会议还未形成定论，欠款仍在统计当中，后续还会再召开会议。 从公开的职工债…",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "国产可口可乐不再标生产日期，客服称新国标允许保质期 6 个月以上可只标「到期日」，怎样看待这一变化？",
+       "url": "https://www.zhihu.com/question/2108687089319371970",
+       "summary": "近日，吉林长春一位网友发帖称，自己买到一瓶可口可乐，瓶身上找不到生产日期，仅印着保质期到期日2027年7月22日，引发网友讨论。 该网友向经视直播记者介绍，这款饮料外包装印有“保质期9个月”以及“保质期到期日见瓶颈”提示…",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "你是否支持在长途普速火车末尾加挂一节观景娱乐车厢用来缓解长时间坐车的疲劳？",
+       "url": "https://www.zhihu.com/question/2107571003635263309",
+       "summary": "参考地方的一般旅游列车，设置观景窗，KTV包房三到四个，加上儿童娱乐用品。配备专门工作人员，提供茶水和点心。坐火车时间久了肯定会累，能玩一下肯定是好的。",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "央视曝光3.8万余份孕妇血走私案，国安部警示孕妇血样走私或泄露我国遗传弱点，科学依据和风险具体是什么？",
+       "url": "https://www.zhihu.com/question/2109003777294295114",
+       "summary": "孕妇血样承载着人类遗传基因关键信息，属国家严格限制进出口物品。然而，有人置法治红线于不顾，大量走私孕妇血样出境，直接威胁十四亿人口的生物安全。 11月25日，央视新闻披露，深圳海关缉私局2025年3月接到线索称，一辆白色…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "如何评价数学家Calegari认为黎曼猜想的证明过程只是从图书馆的书架上拿下来了一本书？",
+       "url": "https://www.zhihu.com/question/2108868229795942882",
+       "summary": "证明发布者Levent声称收到死亡威胁，说自己转出数学不被理解。 似乎其早年在学术界的经历并不愉快https://zhuanlan.zhihu.com/p/2108848224278795628?share_code=1…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "外交部回应美国被曝将对中国等十几国加征关税，称反对以产能过剩为借口政治操弄，如何解读？美国到底图什么？",
+       "url": "https://www.zhihu.com/question/2108982669157425814",
+       "summary": "外交部发言人郭嘉昆主持例行记者会。有记者就有报道称，美国计划对包括中国在内的有关国家加征关税一事提问。 对此，郭嘉昆表示，中方在处理中美经贸问题上的立场是一贯明确的。关税战、贸易战不符合任何一方的利益，双方…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "北静王邀请宝玉去他府里读书，贾政为什么没有安排宝玉去？",
+       "url": "https://www.zhihu.com/question/2108069184475350804",
+       "summary": "",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "人民日报评“遇事就举报”",
+       "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E9%81%87%E4%BA%8B%E5%B0%B1%E4%B8%BE%E6%8A%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近期，人民日报评论指出多地频现“恶意举报”乱象，如患者塞1.9元汽水给药师后转投举报。此现象因举报成本与收益不对称，沦为泄私愤工具，破坏信任且浪费行政资源。",
+       "time": "",
+       "hot": "780.96w"
+      },
+      {
+       "title": "妻子与蔡磊见面全程没说话",
+       "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%B8%8E%E8%94%A1%E7%A3%8A%E8%A7%81%E9%9D%A2%E5%85%A8%E7%A8%8B%E6%B2%A1%E8%AF%B4%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，蔡磊已进入渐冻症终末期，身体越来越不好。其妻子表示无法接受他现在的样子，称上一次与蔡磊见面时全程没有说话，“一直在哭根本就控制不住”，并直言现在很害怕经历一些特殊的日子。",
+       "time": "",
+       "hot": "771.34w"
+      },
+      {
+       "title": "“购物开箱”打开认知中国新视角",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B4%AD%E7%89%A9%E5%BC%80%E7%AE%B1%E2%80%9D%E6%89%93%E5%BC%80%E8%AE%A4%E7%9F%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%A7%86%E8%A7%92&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近期，“China Haul”（中国购物开箱）风潮在全球社交平台持续升温。海外博主纷纷分享来华旅行购物的体验，空箱而来、满载而归，各类中国好物通过开箱视频走进全球视野。",
+       "time": "",
+       "hot": "761.74w"
+      },
+      {
+       "title": "“女版马尔福”爆火 华纳出手封禁",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%B3%E7%89%88%E9%A9%AC%E5%B0%94%E7%A6%8F%E2%80%9D%E7%88%86%E7%81%AB+%E5%8D%8E%E7%BA%B3%E5%87%BA%E6%89%8B%E5%B0%81%E7%A6%81&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，华纳兄弟对走红的“女版马尔福”相关二创内容发起大规模版权投诉，多个创作者账号被封禁，作品被批量下架。创作者呼吁官方明确非商业粉丝创作版权边界。此前，该形象自9月起在海外网络走红。",
+       "time": "",
+       "hot": "752.04w"
+      },
+      {
+       "title": "小学生流行起“纸质短剧”",
+       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B5%81%E8%A1%8C%E8%B5%B7%E2%80%9C%E7%BA%B8%E8%B4%A8%E7%9F%AD%E5%89%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "随着短剧的爆火，“纸质版短剧”也在小学生群体中悄然流行。据悉，它们折起来只有手机大小，拉开却有半米多长，内容集中在“重生”“逆袭”“霸总”等强冲突题材。有网友表示，这不就是我小时候几块钱一本的阿衰吗。",
+       "time": "",
+       "hot": "742.75w"
+      },
+      {
+       "title": "郭涛儿子回应进圈：想子承父业",
+       "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E5%9B%9E%E5%BA%94%E8%BF%9B%E5%9C%88%EF%BC%9A%E6%83%B3%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，郭涛儿子郭子睿在采访中大方说起自己入行的原因：“十五六岁定下演员梦，想子承父业。”此前，其以新人演员身价入选星辰大海计划。",
+       "time": "",
+       "hot": "732.79w"
+      },
+      {
+       "title": "男子家中搜到诅咒自家8岁孩子WiFi名",
+       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E8%87%AA%E5%AE%B68%E5%B2%81%E5%AD%A9%E5%AD%90WiFi%E5%90%8D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，杭州杨先生在家中搜到名为“701小孩替人挡灾”的WiFi名，经实测601门口信号满格，报警后楼下邻居始终不露面。此前，亲戚家小孩在杨先生家玩耍发出声响，杨先生一家曾就噪音纠纷向楼下邻居当场道歉。",
+       "time": "",
+       "hot": "723.82w"
+      },
+      {
+       "title": "电影贺岁档片单来了",
+       "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E8%B4%BA%E5%B2%81%E6%A1%A3%E7%89%87%E5%8D%95%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "2026电影贺岁档拉开帷幕。今年贺岁档从11月27日持续至12月31日，共计35天。截至目前，已有超50部风格各异的影片定档，题材覆盖不同年龄观众观影喜好，其中包括《复仇者联盟5》《沙丘3》等引进大片。",
+       "time": "",
+       "hot": "713.64w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "普京打包深圳炒菜上飞机",
+       "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA",
+       "summary": "",
+       "time": "",
+       "hot": "184.4w"
+      },
+      {
+       "title": "蔡磊已进渐冻症终末期",
+       "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F",
+       "summary": "",
+       "time": "",
+       "hot": "137.9w"
+      },
+      {
+       "title": "新一代通信网建设实施方案来了",
+       "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86",
+       "summary": "",
+       "time": "",
+       "hot": "121.1w"
+      },
+      {
+       "title": "后会友期",
+       "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F",
+       "summary": "",
+       "time": "",
+       "hot": "114.4w"
+      },
+      {
+       "title": "男子花700万买房搜到诅咒孩子WiFi名",
+       "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%8A%B1700%E4%B8%87%E4%B9%B0%E6%88%BF%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E5%AD%A9%E5%AD%90WiFi%E5%90%8D",
+       "summary": "",
+       "time": "",
+       "hot": "85.5w"
+      },
+      {
+       "title": "蔡磊融资失败妻子放弃事业全职直播",
+       "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E8%9E%8D%E8%B5%84%E5%A4%B1%E8%B4%A5%E5%A6%BB%E5%AD%90%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%E5%85%A8%E8%81%8C%E7%9B%B4%E6%92%AD",
+       "summary": "",
+       "time": "",
+       "hot": "79.1w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": [
+  "每日 60 秒: HTTP 429"
+ ]
+}
