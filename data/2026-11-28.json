@@ -1,0 +1,601 @@
+{
+ "date": "2026-11-28",
+ "weekday": "星期六",
+ "generated_at": "2026-11-28T12:37:22+08:00",
+ "brief": {
+  "date": "2026-11-28",
+  "tip": "跳出固有舒适圈子，敢于尝试新可能，突破局限遇见更好的自己",
+  "items": [
+   "统计局：前 10 个月全国规模以上工业企业利润增长 16.0%，高技术制造业引领作用凸显",
+   "《大额存单管理办法》公布：个人投资人认购大额存单起点降为不低于 10 万元，明年 3 月 21 日起施行",
+   "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限，明年 3 月 21 日起施行",
+   "北京出台养犬管理条例：五环内实行一户一犬，不得饲养大型犬，明年 4 月 1 日起实施",
+   "广电新规正式施行：电视不得播放开机广告，首页应设立免费专区",
+   "中国老年人口数量前 10 省份：9 省老年人口超 1500 万，山东老年人口超 2581 万全国第一",
+   "多地公布中小学食堂自营改革进展：一份 10 元餐，7 元变成学生碗里的肉蛋菜",
+   "国常会 “稳市” 提振 A 股，27 日全市场 5382 股上涨，426 股涨停，沪指涨超 3% 收复 3600 点，科创板一天涨回全年跌幅",
+   "DeepSeek 开始 “打表计费”？实测个人聊天仍免费，灰度功能只是成本可视化",
+   "联合国贸发会议报告：2026 年全球海运贸易量预计零增长",
+   "日产汽车在华销量大减，计划首次将与中国合资生产汽车 “反向进口” 至日本销售",
+   "日本拟于明年秋季选定多个 “副首都”，在大灾难时替代承担部分首都功能，北海道、爱知县、大阪府、福冈县正争取",
+   "越南将担任 2027 年 APEC 东道主，会议将于 2027 年 11 月在越南富国岛举行",
+   "美国感恩节强风暴来袭：暴雨、洪水、航班停飞，东海岸 83 万户家庭断电",
+   "英国净移民人数暴跌：一年时间从 20.4 万降到 7.7 万，创近 30 年来最低纪录"
+  ]
+ },
+ "sections": [
+  {
+   "cat": "科技资讯",
+   "en": "TECHNOLOGY",
+   "count": 25,
+   "sources": [
+    {
+     "name": "IT之家",
+     "count": 8,
+     "items": [
+      {
+       "title": "马斯克：Grok Bot 的目标是让你可以构建整个公司",
+       "url": "https://www.ithome.com/1/033/827.htm",
+       "summary": "今天（28 日）凌晨，埃隆 · 马斯克在 X 平台发文称：就像现实中的企业一样，使用 Grok Bot 时，打造具备专属职能的 Bot 非常重要。你可以设置一个管理 Bot 来监督、协调其余 Bot 的工作…",
+       "time": "04:21",
+       "hot": ""
+      },
+      {
+       "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+       "url": "https://www.ithome.com/1/033/824.htm",
+       "summary": "当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iP…",
+       "time": "03:22",
+       "hot": ""
+      },
+      {
+       "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+       "url": "https://www.ithome.com/1/033/822.htm",
+       "summary": "科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能…",
+       "time": "03:18",
+       "hot": ""
+      },
+      {
+       "title": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布",
+       "url": "https://www.ithome.com/1/033/821.htm",
+       "summary": "影石 Insta360 的新一代旗舰运动相机 Ace Pro 3 已定档 12 月 1 日晚 8 点在中国发布，官方预热主题为“定局已破”。 在发布会前，官方预热视频重点展示了对焦控制、背景虚化、可变光圈以…",
+       "time": "03:14",
+       "hot": ""
+      },
+      {
+       "title": "三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你",
+       "url": "https://www.ithome.com/1/033/820.htm",
+       "summary": "科技媒体 Android Authority 昨日（11 月 27 日）报道，在 One UI 9.5 首个 Beta 测试版中，通过挖掘 13.9.00.12 版设备维护（Device Care）应用，…",
+       "time": "03:04",
+       "hot": ""
+      },
+      {
+       "title": "迈从 Ace 68 GT 绯刃银版开售：全铝 16K 磁轴，到手价 881.18 元",
+       "url": "https://www.ithome.com/1/033/819.htm",
+       "summary": "迈从 Ace 68 GT 绯刃银新色今日发售，首发价 669 元。 京东 迈从（MCHOSE）Ace 68 GT 绯刃银 粉泰山磁轴【新品开售】 键盘 16K/8K 有线 FPS 无畏契约打瓦双驱动 Ace…",
+       "time": "03:03",
+       "hot": ""
+      },
+      {
+       "title": "“GTA 6 终于来了”：微软 GitHub 力挺 PS5 转 PC 工具惹争议，官方火速删除推文",
+       "url": "https://www.ithome.com/1/033/818.htm",
+       "summary": "科技媒体 Windows Latest 昨日（11 月 27 日）发布博文，报道称微软旗下代码托管平台 GitHub 陷入舆论漩涡 ，在应 Take-Two 要求关闭 3,007 个民间移植 PC 版《侠盗…",
+       "time": "02:56",
+       "hot": ""
+      },
+      {
+       "title": "歼-35A 飞抵珠海将首次以真机形式进馆展出，12 月 7 日航展开幕",
+       "url": "https://www.ithome.com/1/033/817.htm",
+       "summary": "今天上午，歼-35A 飞抵珠海金湾机场，将在第十六届中国国际航空航天博览会上首次以真机形式进入 1 号馆，面向观众进行近距离静态展示。 此前两届航展中，该机仅以飞行表演形式亮相，未开放地面近距离…",
+       "time": "02:51",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "少数派",
+     "count": 6,
+     "items": [
+      {
+       "title": "「黑五」值得买：不容错过的数码硬件优惠",
+       "url": "https://sspai.com/post/119651",
+       "summary": "除了软件服务，这个黑五还有这些硬件值得一看。",
+       "time": "11:30",
+       "hot": ""
+      },
+      {
+       "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+       "url": "https://sspai.com/post/119686",
+       "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ...",
+       "time": "08:47",
+       "hot": ""
+      },
+      {
+       "title": "本周看什么 | 最近值得一看的 8 部作品",
+       "url": "https://sspai.com/post/119658",
+       "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...",
+       "time": "16:32",
+       "hot": ""
+      },
+      {
+       "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+       "url": "https://sspai.com/post/119601",
+       "summary": "先预祝大家买得愉快、用得舒心。",
+       "time": "11:48",
+       "hot": ""
+      },
+      {
+       "title": "派早报：1Password 确认内部系统遭入侵等",
+       "url": "https://sspai.com/post/119632",
+       "summary": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。",
+       "time": "08:27",
+       "hot": ""
+      },
+      {
+       "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+       "url": "https://sspai.com/post/116773",
+       "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。",
+       "time": "17:30",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "Solidot",
+     "count": 6,
+     "items": [
+      {
+       "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+       "url": "https://www.solidot.org/story?sid=86015",
+       "summary": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往…",
+       "time": "00:14",
+       "hot": ""
+      },
+      {
+       "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+       "url": "https://www.solidot.org/story?sid=86014",
+       "summary": "GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。T…",
+       "time": "23:59",
+       "hot": ""
+      },
+      {
+       "title": "文明的历史是小麦的历史",
+       "url": "https://www.solidot.org/story?sid=86013",
+       "summary": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更…",
+       "time": "23:37",
+       "hot": ""
+      },
+      {
+       "title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
+       "url": "https://www.solidot.org/story?sid=86012",
+       "summary": "欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital Markets Act）的优先事项。欧盟委员会表示，目前正就相关事宜进行磋商，…",
+       "time": "19:09",
+       "hot": ""
+      },
+      {
+       "title": "一人户二人户占全国家庭构成的近六成",
+       "url": "https://www.solidot.org/story?sid=86011",
+       "summary": "一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展现了一个很直观的变化：一人户占比 26.4%，二人户占比 33.2%，两者相加，已经…",
+       "time": "17:54",
+       "hot": ""
+      },
+      {
+       "title": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国",
+       "url": "https://www.solidot.org/story?sid=86010",
+       "summary": "蓝色巨人决定停止为其咨询部门员工提供美国工作签证及绿卡担保。该公司咨询部门有逾 15 万员工，受影响员工可选择到其他国家工作，或在 2026 年 12 月 31 日前离职。IBM 未披露具体有多少员工会受到影响，也未说明其中有多少人身处美国…",
+       "time": "16:55",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "The Verge",
+     "count": 5,
+     "items": [
+      {
+       "title": "The absolute best Black Friday deals you can still get",
+       "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+       "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowe…",
+       "time": "12:10",
+       "hot": ""
+      },
+      {
+       "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+       "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+       "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13…",
+       "time": "10:16",
+       "hot": ""
+      },
+      {
+       "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+       "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+       "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of A…",
+       "time": "09:50",
+       "hot": ""
+      },
+      {
+       "title": "We found 60-odd Black Friday deals we love for $100 or less",
+       "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+       "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this tim…",
+       "time": "08:42",
+       "hot": ""
+      },
+      {
+       "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+       "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+       "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Bu…",
+       "time": "08:25",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "技术社区",
+   "en": "DEVELOPERS",
+   "count": 21,
+   "sources": [
+    {
+     "name": "Hacker News",
+     "count": 8,
+     "items": [
+      {
+       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+       "summary": "",
+       "time": "23:40",
+       "hot": "469 分 · 238 评论"
+      },
+      {
+       "title": "Michael Nielsen took down his book on neural nets",
+       "url": "https://neuralnetworksanddeeplearning.com/",
+       "summary": "",
+       "time": "03:31",
+       "hot": "443 分 · 277 评论"
+      },
+      {
+       "title": "GPT 6.2 Astra Solves a Historical Mystery",
+       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+       "summary": "",
+       "time": "23:16",
+       "hot": "373 分 · 235 评论"
+      },
+      {
+       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+       "url": "https://bouncemarket.minhanhday.com/",
+       "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ba…",
+       "time": "23:01",
+       "hot": "341 分 · 115 评论"
+      },
+      {
+       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+       "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+       "summary": "",
+       "time": "03:42",
+       "hot": "315 分 · 175 评论"
+      },
+      {
+       "title": "Convex skills send the user's app idea to a remote server without telling them",
+       "url": "https://github.com/convex/convex-backend-skill/issues/64",
+       "summary": "",
+       "time": "02:02",
+       "hot": "255 分 · 80 评论"
+      },
+      {
+       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+       "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+       "summary": "",
+       "time": "07:06",
+       "hot": "212 分 · 73 评论"
+      },
+      {
+       "title": "False computer-checked proofs",
+       "url": "https://cr.yp.to/proofs/falseccp.html",
+       "summary": "",
+       "time": "23:26",
+       "hot": "200 分 · 78 评论"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "GitHub Trending",
+     "count": 8,
+     "items": [
+      {
+       "title": "elementalsouls/Claude-BugHunter",
+       "url": "https://github.com/elementalsouls/Claude-BugHunter",
+       "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disc…",
+       "time": "",
+       "hot": "Python · +1,608 stars today"
+      },
+      {
+       "title": "obra/superpowers",
+       "url": "https://github.com/obra/superpowers",
+       "summary": "An agentic skills framework & software development methodology that works.",
+       "time": "",
+       "hot": "Shell · +922 stars today"
+      },
+      {
+       "title": "HKUDS/CLI-Anything",
+       "url": "https://github.com/HKUDS/CLI-Anything",
+       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+       "time": "",
+       "hot": "Python · +666 stars today"
+      },
+      {
+       "title": "jingyaogong/minimind",
+       "url": "https://github.com/jingyaogong/minimind",
+       "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+       "time": "",
+       "hot": "Python · +660 stars today"
+      },
+      {
+       "title": "cursor/plugins",
+       "url": "https://github.com/cursor/plugins",
+       "summary": "Cursor plugin specification and official plugins",
+       "time": "",
+       "hot": "TypeScript · +243 stars today"
+      },
+      {
+       "title": "firecrawl/firecrawl",
+       "url": "https://github.com/firecrawl/firecrawl",
+       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through on…",
+       "time": "",
+       "hot": "TypeScript · +822 stars today"
+      },
+      {
+       "title": "nginx/nginx",
+       "url": "https://github.com/nginx/nginx",
+       "summary": "The official NGINX Open Source repository.",
+       "time": "",
+       "hot": "C · +146 stars today"
+      },
+      {
+       "title": "openvinotoolkit/openvino",
+       "url": "https://github.com/openvinotoolkit/openvino",
+       "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+       "time": "",
+       "hot": "C++ · +151 stars today"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "InfoQ 中文",
+     "count": 5,
+     "items": [
+      {
+       "title": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+       "url": "https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "12:07",
+       "hot": ""
+      },
+      {
+       "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+       "url": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "11:00",
+       "hot": ""
+      },
+      {
+       "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+       "url": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "Netflix将GPU可靠性视为分布式系统的问题",
+       "url": "https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "10:00",
+       "hot": ""
+      },
+      {
+       "title": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+       "url": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&utm_medium=article",
+       "summary": "",
+       "time": "08:00",
+       "hot": ""
+      }
+     ],
+     "error": ""
+    }
+   ]
+  },
+  {
+   "cat": "热点",
+   "en": "TRENDING",
+   "count": 22,
+   "sources": [
+    {
+     "name": "知乎热榜",
+     "count": 8,
+     "items": [
+      {
+       "title": "如何看待女子称因年龄超 40 岁被酒店拒绝入住？预订平台没有醒目提示，这种规定合法吗？",
+       "url": "https://www.zhihu.com/question/2109585824480236082",
+       "summary": "浙江嘉兴荔枝酒店回应，40岁以上不能入住是老板规定，预订平台没有醒目提示。11月19日，57岁的李女士预订该酒店床位房，到店后被以超龄为由拒办入住。当地警方称，该年龄限制是酒店自主规定，公安并无此项要求。‌…",
+       "time": "",
+       "hot": "热度 1"
+      },
+      {
+       "title": "《后会友期》「告密门」播出后，厉娜风评光速下滑，网友要求她向许飞道歉，她们的矛盾真的只是友情问题吗？",
+       "url": "https://www.zhihu.com/question/2109309669831172560",
+       "summary": "",
+       "time": "",
+       "hot": "热度 2"
+      },
+      {
+       "title": "国常会的通稿首次使用了「国家队」、类「平准基金」这些提法，释放了哪些信号？",
+       "url": "https://www.zhihu.com/question/2109697976268321407",
+       "summary": "国常会的通稿首次使用了“国家队”、类“平准基金”这些提法。11月内召开了两场提及资本市场的国常会，这也是近年来首次大篇幅提及资本市场发展的国常会。",
+       "time": "",
+       "hot": "热度 3"
+      },
+      {
+       "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
+       "url": "https://www.zhihu.com/question/2109242936701478494",
+       "summary": "曾指控AI短剧《桃花簪》盗脸侵权的模特“七海”，发帖表示“我的脸已经成AI短剧里的赛博恶役了”，并晒出网友质疑《火狐》融脸其面部的图文。她表示，自己的脸已经被融进模型大数据里，基本AI短剧里的丑角或反派和自己有80%相似…",
+       "time": "",
+       "hot": "热度 4"
+      },
+      {
+       "title": "如何看待济南医保官方视频号工作人员误以为直播结束，骂咨询者脑子有病，医保局回应称已批评教育并要求道歉？",
+       "url": "https://www.zhihu.com/question/2109655670127605450",
+       "summary": "“听到她喊出我的网名，当众说我有病，我都难以置信。随后她又纳闷说，诶，直播还没结束吗？听到这，我可气又可笑。难道结束了，你就能骂我吗？我和你无冤无仇，我只是正常咨询问题。” 前一晚遭工作人员辱骂 次日直播回放不见了 11…",
+       "time": "",
+       "hot": "热度 5"
+      },
+      {
+       "title": "雅迪、爱玛、九号等15家电动自行车企业被点名，部分企业涉违法出售不合格产品情况，哪些信息值得关注？",
+       "url": "https://www.zhihu.com/question/2109686222276622101",
+       "summary": "记者今天了解到，市场监管总局对雅迪、台铃、爱玛、新日、小刀、绿源、金箭、九号、小牛、绿佳、绿驹、立马、极跃、赛鸽、极核等15家电动自行车企业进行集中约谈。 约谈指出，近期市场监管总局组织对电动自行车企业开展强制性产品认证…",
+       "time": "",
+       "hot": "热度 6"
+      },
+      {
+       "title": "董明珠直播中数次训斥员工，魏建军帮忙解围，怎样看待魏建军的处理和董明珠对员工的管理方式？",
+       "url": "https://www.zhihu.com/question/2109929626264760542",
+       "summary": "长城汽车董事长魏建军到访格力电器，与董明珠同框直播。两人在体验格力智能机器人咖啡亭时，因员工提前备好了咖啡、未进行现场演示，董明珠对此表示不满，当面训斥了员工。随后，魏建军亲自上手操作咖啡机，体验设备功能。…",
+       "time": "",
+       "hot": "热度 7"
+      },
+      {
+       "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
+       "url": "https://www.zhihu.com/question/2109592384853861548",
+       "summary": "《金融时报》报道称马斯克正积极推动特斯拉与 SpaceX 合并，争取在 2026 年 12 月 31 日前达成协议，合并后的公司将成为「全球最大公司」，市值将达约 3.5 万亿美元，可能成为人类有…",
+       "time": "",
+       "hot": "热度 8"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "百度热搜",
+     "count": 8,
+     "items": [
+      {
+       "title": "刷来刷去怎么还是这几张脸",
+       "url": "https://www.baidu.com/s?wd=%E5%88%B7%E6%9D%A5%E5%88%B7%E5%8E%BB%E6%80%8E%E4%B9%88%E8%BF%98%E6%98%AF%E8%BF%99%E5%87%A0%E5%BC%A0%E8%84%B8&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近期，部分短视频平台出台新规，要求提升AI短剧角色区分度。此前，因算力成本高、追求量产及规避版权风险，制作方多选用稳妥方案，导致主角“千人一面”引发观众生理性不适。新规落地增加了制作周期，倒逼机构将原创角色沉淀为自有IP。",
+       "time": "",
+       "hot": "780.81w"
+      },
+      {
+       "title": "澳门居民珠海养老 每人每月补助5千元",
+       "url": "https://www.baidu.com/s?wd=%E6%BE%B3%E9%97%A8%E5%B1%85%E6%B0%91%E7%8F%A0%E6%B5%B7%E5%85%BB%E8%80%81+%E6%AF%8F%E4%BA%BA%E6%AF%8F%E6%9C%88%E8%A1%A5%E5%8A%A95%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "11月起，澳门社会工作局开辟澳门以外养老新渠道，首阶段选定珠海金湾颐养园为试点院舍。此前，该局本月推出《澳门长者跨境养老服务计划》，符合条件的65岁以上澳门居民入住后，每人每月可获发5000元人民币院费补助，覆盖床位及24小时护理等。",
+       "time": "",
+       "hot": "771.25w"
+      },
+      {
+       "title": "本周中国多领域捷报频传",
+       "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%AD%E5%9B%BD%E5%A4%9A%E9%A2%86%E5%9F%9F%E6%8D%B7%E6%8A%A5%E9%A2%91%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "本周，我国多领域传来好消息：神舟二十四号成功发射，全球首个高效灵活燃煤发电技术发布，“江海号”盾构机“上岸”……每一项突破，都彰显大国发展底气。",
+       "time": "",
+       "hot": "761.82w"
+      },
+      {
+       "title": "“不是霸总就是重生 是小孩看的吗”",
+       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E6%98%AF%E9%9C%B8%E6%80%BB%E5%B0%B1%E6%98%AF%E9%87%8D%E7%94%9F+%E6%98%AF%E5%B0%8F%E5%AD%A9%E7%9C%8B%E7%9A%84%E5%90%97%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "11月中下旬，截取“霸总/重生/逆袭”类网络短剧画面，印成一元一本的“纸质短剧”在多地小学生中流行，成本仅七八毛、无正规书号、冒用玩具标签、印成人化桥段，涉多重违规。多电商平台已下架购买链接，广州经开区文旅部门将核实处置。",
+       "time": "",
+       "hot": "751.98w"
+      },
+      {
+       "title": "梁靖崑将赴俄超打球",
+       "url": "https://www.baidu.com/s?wd=%E6%A2%81%E9%9D%96%E5%B4%91%E5%B0%86%E8%B5%B4%E4%BF%84%E8%B6%85%E6%89%93%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "国乒名将梁靖崑证实已加盟俄超火炬-天然气工业队，将出战新赛季俄超联赛，近期赴俄。他称此举是结合伤病恢复、竞技状态调整的综合考量。",
+       "time": "",
+       "hot": "742.46w"
+      },
+      {
+       "title": "日本可能发生大规模地震 中使馆提醒",
+       "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%B0%E9%9C%87+%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近期，中国驻日本大使馆再次提醒在日本的中国公民防范地震等灾害，建议储备至少一周饮用水、食品及防灾急救用品等应急物资，并登记“中国领事”信息以便及时得到救助。此前，日本多地地震频发，日本政府于11月2日成立防灾厅应对可能的大规模地震。",
+       "time": "",
+       "hot": "733.22w"
+      },
+      {
+       "title": "中国航展陆军超燃视频来袭",
+       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%B1%95%E9%99%86%E5%86%9B%E8%B6%85%E7%87%83%E8%A7%86%E9%A2%91%E6%9D%A5%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "",
+       "time": "",
+       "hot": "723.83w"
+      },
+      {
+       "title": "戚薇 小天才电话手表配高定",
+       "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87+%E5%B0%8F%E5%A4%A9%E6%89%8D%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E9%85%8D%E9%AB%98%E5%AE%9A&sa=fyb_news&rsv_dl=fyb_news",
+       "summary": "近日，戚薇以一身镂空挂脖礼服搭配盘发眼妆亮相，冷艳气场引发关注。其手腕上佩戴的AP手表形似小天才电话手表，让原本气场全开的豪门阔太画风，瞬间变成了随时准备接孩子放学的即视感。",
+       "time": "",
+       "hot": "713.63w"
+      }
+     ],
+     "error": ""
+    },
+    {
+     "name": "微博热搜",
+     "count": 6,
+     "items": [
+      {
+       "title": "178万卖房次日得知拆迁房主反悔",
+       "url": "https://s.weibo.com/weibo?q=178%E4%B8%87%E5%8D%96%E6%88%BF%E6%AC%A1%E6%97%A5%E5%BE%97%E7%9F%A5%E6%8B%86%E8%BF%81%E6%88%BF%E4%B8%BB%E5%8F%8D%E6%82%94",
+       "summary": "",
+       "time": "",
+       "hot": "111.1w"
+      },
+      {
+       "title": "梁靖崑加盟俄罗斯联赛",
+       "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%91%E5%8A%A0%E7%9B%9F%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E8%B5%9B",
+       "summary": "",
+       "time": "",
+       "hot": "82.5w"
+      },
+      {
+       "title": "工业经济新动能澎湃",
+       "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD%E6%BE%8E%E6%B9%83",
+       "summary": "",
+       "time": "",
+       "hot": "65.4w"
+      },
+      {
+       "title": "马天宇说后会友期和某人起争执了",
+       "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%92%8C%E6%9F%90%E4%BA%BA%E8%B5%B7%E4%BA%89%E6%89%A7%E4%BA%86",
+       "summary": "",
+       "time": "",
+       "hot": "57.9w"
+      },
+      {
+       "title": "女子身高153难买衣服怒而自己做",
+       "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%BA%AB%E9%AB%98153%E9%9A%BE%E4%B9%B0%E8%A1%A3%E6%9C%8D%E6%80%92%E8%80%8C%E8%87%AA%E5%B7%B1%E5%81%9A",
+       "summary": "",
+       "time": "",
+       "hot": "47.6w"
+      },
+      {
+       "title": "男子被自家猫咬了一口后截指",
+       "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%8C%AB%E5%92%AC%E4%BA%86%E4%B8%80%E5%8F%A3%E5%90%8E%E6%88%AA%E6%8C%87",
+       "summary": "",
+       "time": "",
+       "hot": "24.2w"
+      }
+     ],
+     "error": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "total": 68,
+  "sources": 10,
+  "sections": 3
+ },
+ "errors": []
+}
